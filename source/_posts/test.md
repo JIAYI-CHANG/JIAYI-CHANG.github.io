@@ -6,37 +6,6 @@ tags:
 
 
 #### 推理小说
----
-
-<html>
-    <head> 
-        <style> 
-        .content { 
-            background: white; 
-        } 
-        </style> 
-        <style> 
-        img  {
-            border: 0px solid transparent;
-            border-radius: 5px;
-        }
-        </style> 
-    </head>
-    <body>
-        <div style="float:left; width: 20%;height: auto">
-            <img src="../Attachment/Library/Seventh.jpg"/>
-        </div>
-        <div style="width:10px;height:250px;border-left:2.5px solid #ccc;float:left;margin-left:15px;margin-right:15px">
-        </div>
-        <div style="float:right; width: 75%; height: auto">
-            <Big><a href="https://book.douban.com/subject/34907839">镜之孤城</a></Big> 
-            <p>安西心是雪科第五中学一年级的普通学生，她遭遇了校园霸凌，受到了严重的心理创伤。她无法向别人倾诉自己的遭遇也不敢出门，一直幻想着有人会从沉重的现实中解救她。忽然有一天，小心房间里的全身镜发出了耀眼的亮光，在镜子的另一边居然是一座城堡。戴着狼面具的神秘少女告诉小心，这个城堡在平日的九点到五点开放，只要在指定期限内找到藏在城堡中的“祈愿的钥匙”就能实现任何一个愿望。在这里小心还遇到了其他六名性格各异的初中生。究竟大家为何被召集到这奇幻的城堡中？是否每个人都抱有无论如何都想实现的愿望？在相处中，小心不仅获得了友谊，还得以窥见每个人的痛苦和心愿，并最终发现了城堡的秘密……
-            </p>
-        </div>
-    </body>
-</html>
-
-----
 
 ### 阅读列表
 
