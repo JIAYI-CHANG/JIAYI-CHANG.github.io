@@ -233,7 +233,7 @@ aside:
       text: Follow Me
       link: https://github.com/xxxxxx
   card_announcement:
-    enable: true
+    enable: false
     content: This is my Blog
   card_recent_post:
     enable: true
@@ -725,8 +725,8 @@ beautify:
 font:
   global-font-size:
   code-font-size:
-  font-family: 'Songti SC'
-  code-font-family: Times New Roman
+  font-family: 'PT Serif'
+  code-font-family: PT Serif
 
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
