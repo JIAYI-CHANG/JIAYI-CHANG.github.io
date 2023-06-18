@@ -1398,7 +1398,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: PT Serif;
+  font-family: Songti SC;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -1494,7 +1494,7 @@ a:hover {
 .site-name,
 #aside-content .author-info__name,
 #aside-content .author-info__description {
-  font-family: STSONG;
+  font-family: PT Serif'Songti SC;
 }
 .is-center {
   text-align: center;
