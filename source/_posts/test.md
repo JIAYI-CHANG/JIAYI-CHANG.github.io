@@ -1,7 +1,8 @@
 ---
 title: test
 date: 2023-06-18 19:50:35
-tags:
+tags: [1,2]
+categories: [书影音,图书馆]
 ---
 
 
