@@ -275,8 +275,8 @@ busuanzi:
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
-  enable: false
-  publish_date:
+  enable: true
+  publish_date: 2000/08/30
 
 # Aside widget - Newest Comments
 newest_comments:
@@ -321,7 +321,7 @@ darkmode:
   end: # 22
 
 # show scroll percent in scroll-to-top button
-rightside_scroll_percent: false
+rightside_scroll_percent: true
 
 # Don't modify the following settings unless you know how they work (非必要請不要修改 )
 # Choose: readmode,translate,darkmode,hideAside,toc,chat,comment
@@ -329,7 +329,7 @@ rightside_scroll_percent: false
 rightside_item_order:
   enable: false
   hide: # readmode,translate,darkmode,hideAside
-  show: # toc,chat,comment
+  show: readmode # toc,chat,comment
 
 # Math (數學)
 # --------------------------------------
