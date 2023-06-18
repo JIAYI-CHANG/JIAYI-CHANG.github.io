@@ -725,7 +725,7 @@ beautify:
 font:
   global-font-size:
   code-font-size:
-  font-family: "PingFang SC"
+  font-family: sans-serif
   code-font-family:
 
 # Font settings for the site title and site subtitle
