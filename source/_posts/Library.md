@@ -4,11 +4,11 @@ tags: [阅读,摸鱼]
 categories: [书影音,图书馆]
 copyright: false
 ---
-> 月更，点击书名可以跳转链接喔！(◍•ᴗ•◍)❤
-<br>
-# 推理小说
+> 每月1号更新。点击书名可以跳转链接喔！(◍•ᴗ•◍)~❤
 
-这里是我的推荐
+<br>
+
+想添加一个搜索栏，看看能否实现优化、
 
 ## 我的推荐
 
@@ -36,7 +36,7 @@ copyright: false
             .container .box{
                 position: relative;
                 width: 25%;
-                height: 220px;
+                height: 25vmin;
                 /* 溢出隐藏 */
                 overflow: hidden;
                 /* 动画过渡 */
@@ -240,8 +240,6 @@ copyright: false
     </body>
 </html>
 
-## 我的推荐
-> 
 
 ## 阅读列表
 
@@ -286,3 +284,6 @@ copyright: false
 | [绕远路的雏人偶](https://book.douban.com/subject/25808629/)           | 米泽穗信     | 日本 推理 | 日常 短篇 校园       | 2023年1月 |
 
 
+未完待续 ✌🏻
+
+<br>
