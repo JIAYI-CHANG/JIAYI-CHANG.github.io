@@ -4,26 +4,17 @@ tags: [1,2]
 categories: [书影音,图书馆]
 copyright: false
 ---
+> 月更，点击书名可以跳转链接喔！(◍•ᴗ•◍)❤
+
 # 推理小说
+
+这里是我的推荐
 
 ## 我的推荐
 
-
-<!DOCTYPE html>
-<html lang="zh-cn">
+<html>
     <head>
         <style>
-            *{
-                padding: 0;
-                margin: 0;
-                box-sizing: border-box;
-            }
-            body{
-                background-color: #FFFFFF;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-            }
             .box{
                 flex: 1;
                 overflow: hidden;
@@ -44,7 +35,7 @@ copyright: false
             }
             .container .box{
                 position: relative;
-                width: 19%;
+                width: 25%;
                 height: 220px;
                 /* 溢出隐藏 */
                 overflow: hidden;
@@ -53,7 +44,7 @@ copyright: false
             }
             /* 鼠标移入，盒子变大 */
             .container .box:hover{
-                transform: scale(1.5);
+                transform: scale(1.25);
                 box-shadow: 5px 5px 5px rgba(0,0,0,0.25);
                 z-index: 1;
             }
@@ -73,7 +64,7 @@ copyright: false
                 top: 0;
                 width: 100%;
                 height: 100%;
-                background: linear-gradient(to top, white,rgba(255, 255, 255, .4));
+                background: linear-gradient(to top, white,rgba(255, 255, 255, .1));
                 z-index: 1;
                 opacity: 0;
                 transition: 0.5s;
@@ -141,7 +132,6 @@ copyright: false
                 <div class="text-box">
                     <div>
                         <h3><a href="https://book.douban.com/subject/35572977/">再见，妖精</a></h3>
-                        <p>娜美，日本漫画《航海王》及衍生作品中的女主角，草帽一伙的航海士，人称“小贼猫”。</p>
                     </div>
                 </div>
             </div>
@@ -152,7 +142,7 @@ copyright: false
                 <div class="text-box">
                     <div>
                         <h3>镜之孤城</h3>
-                        <p>乌索普，日本漫画《海贼王》及其衍生作品中的男性角色。草帽一伙狙击手，被称作“GOD·乌索普”。</p>
+                        <p>对不登校的孩子有着细腻的心理描写</p>
                     </div>
                 </div>
             </div>
@@ -294,3 +284,5 @@ copyright: false
 | [两人距离的概算](https://book.douban.com/subject/25885612/)           | 米泽穗信     | 日本 推理 | 日常 短篇 幽默 校园    | 2023年1月 |
 | [德尔塔的悲剧](https://book.douban.com/subject/36075911/)            | 浦贺和宏     | 日本 悬疑 | 诡计             | 2023年1月 |
 | [绕远路的雏人偶](https://book.douban.com/subject/25808629/)           | 米泽穗信     | 日本 推理 | 日常 短篇 校园       | 2023年1月 |
+
+
