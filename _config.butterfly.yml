@@ -390,7 +390,7 @@ addThis:
 # Share.js
 # https://github.com/overtrue/share.js
 sharejs:
-  enable: true
+  enable: false
   sites: facebook,twitter,wechat,weibo,qq
 
 # AddToAny
@@ -606,18 +606,18 @@ site_verification:
 # Theme color for customize
 theme_color:
   enable: true
-  main: "#B0DAFF"
+  main: "#000000"
   paginator: "#00c4b6"
   button_hover: "#B9E9FC"
-  text_selection: "#000000"
-  link_color: "#99a9bf"
+  text_selection: "#27374D"
+  link_color: "#526D82"
   meta_color: "#858585"
   hr_color: "#A4D8FA"
   code_foreground: "#F47466"
   code_background: "rgba(246, 241, 241, .05)"
   toc_color: "#000000"
-  blockquote_padding_color: "#49b1f5"
-  blockquote_background_color: "#49b1f5"
+  blockquote_padding_color: "#3e3e3e"
+  blockquote_background_color: "#e3e3e3"
   scrollbar_color: "#49b1f5"
 # The top_img settings of home page
 # default: top img - full screen, site info - middle (默認top_img全屏，site_info在中間)
