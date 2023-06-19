@@ -21,8 +21,8 @@ copyright: false
                 transition: .5s;
                 margin: 10px 10px;
                 box-shadow: 5px 5px 5px rgba(0, 0, 0, .1);
-                border-radius: 10px;
-                border: 0px solid #FFF;
+                border-radius: 7.5px;
+                border: 0px solid transparent;
                 background-color: #fff;
             }
             .container{
@@ -120,6 +120,22 @@ copyright: false
                 transform: translateY(0);
                 /* 设置动画延迟时间 */
                 transition-delay: 0.4s;
+            }
+            table th{
+                color:#000000;
+                border-color:transparent;
+                text-align:center;
+            }
+            table td{
+                color:#000000;
+                border-color:transparent;
+                text-align:center;
+            }
+            table tr:nth-child(odd) {
+                background-color: rgba(227,227,227,.1);
+            }
+            table td:first-child {
+                text-align:left;
             }
         </style>
     </head>
