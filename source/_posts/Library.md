@@ -4,9 +4,252 @@ tags: [1,2]
 categories: [书影音,图书馆]
 copyright: false
 ---
-
-
 # 推理小说
+
+## 我的推荐
+
+
+<!DOCTYPE html>
+<html lang="zh-cn">
+    <head>
+        <style>
+            *{
+                padding: 0;
+                margin: 0;
+                box-sizing: border-box;
+            }
+            body{
+                background-color: #FFFFFF;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .box{
+                flex: 1;
+                overflow: hidden;
+                transition: .5s;
+                margin: 10px 10px;
+                box-shadow: 5px 5px 5px rgba(0, 0, 0, .1);
+                border-radius: 10px;
+                border: 0px solid #FFF;
+                background-color: #fff;
+            }
+            .container{
+                /* 相对定位 */
+                position: relative;
+                /* 弹性布局 横向排列 允许换行 */
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+            }
+            .container .box{
+                position: relative;
+                width: 19%;
+                height: 220px;
+                /* 溢出隐藏 */
+                overflow: hidden;
+                /* 动画过渡 */
+                transition: 0.5s;
+            }
+            /* 鼠标移入，盒子变大 */
+            .container .box:hover{
+                transform: scale(1.5);
+                box-shadow: 5px 5px 5px rgba(0,0,0,0.25);
+                z-index: 1;
+            }
+            .container .box .img-box{
+                /* 绝对定位 */
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+            }
+            /* 渐变遮罩（白色——透明） 默认隐藏 */
+            .container .box .img-box::before{
+                content: "";
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                background: linear-gradient(to top, white,rgba(255, 255, 255, .4));
+                z-index: 1;
+                opacity: 0;
+                transition: 0.5s;
+            }
+            /* 鼠标移入，渐变遮罩显示 */
+            .container .box:hover .img-box::before{
+                opacity: 1;
+            }
+            .container .box .img-box img{
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                /* 保持原有尺寸比例，裁切长边 */
+                object-fit: cover;
+            }
+            .container .box .text-box{
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                padding: 20px;
+                /* 弹性布局 元素位于容器的结尾 */
+                display: flex;
+                align-items: flex-end;
+                color: #000;
+                z-index: 2;
+            }
+            .container .box .text-box h3{
+                font-size: 18px;
+                margin-bottom: 10px;
+                /* 默认移出可视范围 */
+                transform: translateY(200px);
+                transition: 0.5s;
+            }
+            .container .box:hover .text-box h3{
+                /* 鼠标移入，移入可视范围 */
+                transform: translateY(0);
+                /* 设置动画延迟时间 */
+                transition-delay: 0.1s;
+            }
+            .container .box .text-box p{
+                font-size: 12px;
+                line-height: 20px;
+                /* 默认移出可视范围 */
+                transform: translateY(200px);
+                transition: 0.5s;
+            }
+            .container .box:hover .text-box p{
+                /* 鼠标移入，移入可视范围 */
+                transform: translateY(0);
+                /* 设置动画延迟时间 */
+                transition-delay: 0.4s;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="box">
+                <div class="img-box">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s34005071.jpg">
+                </div>
+                <div class="text-box">
+                    <div>
+                        <h3><a href="https://book.douban.com/subject/35572977/">再见，妖精</a></h3>
+                        <p>娜美，日本漫画《航海王》及衍生作品中的女主角，草帽一伙的航海士，人称“小贼猫”。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="box">
+                <div class="img-box">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s34367437.jpg">
+                </div>
+                <div class="text-box">
+                    <div>
+                        <h3>镜之孤城</h3>
+                        <p>乌索普，日本漫画《海贼王》及其衍生作品中的男性角色。草帽一伙狙击手，被称作“GOD·乌索普”。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="box">
+                <div class="img-box">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s28775794.jpg">
+                </div>
+                <div class="text-box">
+                    <div>
+                        <h3>乔巴</h3>
+                        <p>托尼托尼·乔巴，日本漫画《航海王》及其衍生作品中的角色。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="box">
+                <div class="img-box">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s4540915.jpg" alt="奇想，天动">
+                </div>
+                <div class="text-box">
+                    <div>
+                        <h3><a href="https://book.douban.com/subject/23780806/">奇想，天动</a></h3>
+                        <p>弗兰奇（原名：卡特·弗兰姆）是日本漫画《航海王》及其衍生作品中的角色。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="box">
+                <div class="img-box">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s26344659.jpg" alt="东方快车谋杀案">
+                </div>
+                <div class="text-box">
+                    <div>
+                        <h3><a href="https://book.douban.com/subject/23780806/">奇想，天动</a></h3>
+                        <p>弗兰奇（原名：卡特·弗兰姆）是日本漫画《航海王》及其衍生作品中的角色。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="box">
+                <div class="img-box">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s34005071.jpg">
+                </div>
+                <div class="text-box">
+                    <div>
+                        <h3><a href="https://book.douban.com/subject/35572977/">再见，妖精</a></h3>
+                        <p>娜美，日本漫画《航海王》及衍生作品中的女主角，草帽一伙的航海士，人称“小贼猫”。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="box">
+                <div class="img-box">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s34367437.jpg">
+                </div>
+                <div class="text-box">
+                    <div>
+                        <h3>镜之孤城</h3>
+                        <p>乌索普，日本漫画《海贼王》及其衍生作品中的男性角色。草帽一伙狙击手，被称作“GOD·乌索普”。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="box">
+                <div class="img-box">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s28775794.jpg">
+                </div>
+                <div class="text-box">
+                    <div>
+                        <h3>乔巴</h3>
+                        <p>托尼托尼·乔巴，日本漫画《航海王》及其衍生作品中的角色。乔巴是草帽一伙的船医，吃了人人果实的驯鹿，可用蓝波球进行八段变形。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="box">
+                <div class="img-box">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s4540915.jpg" alt="奇想，天动">
+                </div>
+                <div class="text-box">
+                    <div>
+                        <h3><a href="https://book.douban.com/subject/23780806/">奇想，天动</a></h3>
+                        <p>弗兰奇（原名：卡特·弗兰姆）是日本漫画《航海王》及其衍生作品中的角色。草帽一伙船匠，性格豪放，喜欢唱歌，跳奇怪的舞，下身喜欢只穿一条短裤。身为改造人的弗兰奇，藏着各种兵器。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="box">
+                <div class="img-box">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s4540915.jpg" alt="奇想，天动">
+                </div>
+                <div class="text-box">
+                    <div>
+                        <h3><a href="https://book.douban.com/subject/23780806/">奇想，天动</a></h3>
+                        <p>弗兰奇（原名：卡特·弗兰姆）是日本漫画《航海王》及其衍生作品中的角色。草帽一伙船匠，性格豪放，喜欢唱歌，跳奇怪的舞，下身喜欢只穿一条短裤。身为改造人的弗兰奇，藏着各种兵器。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+
 ## 我的推荐
 > 
 
@@ -51,28 +294,3 @@ copyright: false
 | [两人距离的概算](https://book.douban.com/subject/25885612/)           | 米泽穗信     | 日本 推理 | 日常 短篇 幽默 校园    | 2023年1月 |
 | [德尔塔的悲剧](https://book.douban.com/subject/36075911/)            | 浦贺和宏     | 日本 悬疑 | 诡计             | 2023年1月 |
 | [绕远路的雏人偶](https://book.douban.com/subject/25808629/)           | 米泽穗信     | 日本 推理 | 日常 短篇 校园       | 2023年1月 |
-
-
-
-<body>
-    <div style="float:left; width: 20%;">
-        <img src="https://img1.doubanio.com/view/subject/l/public/s34367437.jpg"/>
-    </div>
-    <div style="width:10px;height:250px;border-left:2.5px solid #ccc;float:left;margin-left:15px;margin-right:15px">
-    </div>
-    <div style="float:right; width: 78%; height: 500px">
-        <Big><a href="https://book.douban.com/subject/34907839">镜之孤城</a> 辻村深月 </Big>
-        <p>安西心是雪科第五中学一年级的普通学生，她遭遇了校园霸凌，受到了严重的心理创伤。她无法向别人倾诉自己的遭遇也不敢出门，一直幻想着有人会从沉重的现实中解救她。忽然有一天，小心房间里的全身镜发出了耀眼的亮光，在镜子的另一边居然是一座城堡。戴着狼面具的神秘少女告诉小心，这个城堡在平日的九点到五点开放，只要在指定期限内找到藏在城堡中的“祈愿的钥匙”就能实现任何一个愿望。在这里小心还遇到了其他六名性格各异的初中生。究竟大家为何被召集到这奇幻的城堡中？是否每个人都抱有无论如何都想实现的愿望？在相处中，小心不仅获得了友谊，还得以窥见每个人的痛苦和心愿，并最终发现了城堡的秘密……</p>
-        <br></br>
-    </div>
-        <div style="float:left; width: 20%;">
-        <img src="https://img2.doubanio.com/view/subject/l/public/s34005071.jpg"/>
-    </div>
-    <div style="width:10px;height:250px;border-left:2.5px solid #ccc;float:left;margin-left:15px;margin-right:15px">
-    </div>
-    <div style="float:right; width: 78%; height: 500px">
-        <Big><a href="https://book.douban.com/subject/35572977/">再见，妖精</a> 米泽穗信 </Big>
-        <p>一九九一年四月，在日本藤柴市，两名高中生偶然与在避雨的南斯拉夫少女——玛亚相遇。处于两个不同世界的玛亚与四名日本高中生，开启了文化与思想的碰撞之旅。<br> 玛亚无论对什么都充满好奇，希望找寻万物背后的“哲学性的意义”，常常提出关于日常的谜题。然而，自玛亚回国后，四人所面临的最大谜题才刚刚拉开序幕……<br>下雨天有伞却不打伞的男人，弓道的哲学意义，墓前的红白馒头，名字的含义……解开最大谜题的关键，藏于四人的记忆当中……</p>
-        <br></br>
-    </div>
-</body>
