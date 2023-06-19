@@ -8,7 +8,8 @@ copyright: false
 
 <br>
 
-想添加一个搜索栏，看看能否实现优化、
+想添加一个页内搜索栏，看看能否实现优化。
+在图书馆部分添加一下豆瓣插件。
 
 ## 我的推荐
 
@@ -35,8 +36,8 @@ copyright: false
             }
             .container .box{
                 position: relative;
-                width: 25%;
-                height: 25vmin;
+                width: 210px;
+                height: 210px;
                 /* 溢出隐藏 */
                 overflow: hidden;
                 /* 动画过渡 */
@@ -44,7 +45,7 @@ copyright: false
             }
             /* 鼠标移入，盒子变大 */
             .container .box:hover{
-                transform: scale(1.25);
+                transform: scale(1.5);
                 box-shadow: 5px 5px 5px rgba(0,0,0,0.25);
                 z-index: 1;
             }
@@ -64,7 +65,7 @@ copyright: false
                 top: 0;
                 width: 100%;
                 height: 100%;
-                background: linear-gradient(to top, white,rgba(255, 255, 255, .1));
+                background: linear-gradient(to top, white,rgba(255, 255, 255, 0));
                 z-index: 1;
                 opacity: 0;
                 transition: 0.5s;
@@ -96,7 +97,7 @@ copyright: false
                 z-index: 2;
             }
             .container .box .text-box h3{
-                font-size: 18px;
+                font-size: 15px;
                 margin-bottom: 10px;
                 /* 默认移出可视范围 */
                 transform: translateY(200px);
@@ -109,7 +110,7 @@ copyright: false
                 transition-delay: 0.1s;
             }
             .container .box .text-box p{
-                font-size: 12px;
+                font-size: 10px;
                 line-height: 20px;
                 /* 默认移出可视范围 */
                 transform: translateY(200px);
@@ -119,7 +120,7 @@ copyright: false
                 /* 鼠标移入，移入可视范围 */
                 transform: translateY(0);
                 /* 设置动画延迟时间 */
-                transition-delay: 0.4s;
+                transition-delay: 0.3s;
             }
             table th{
                 color:#000000;
@@ -143,33 +144,23 @@ copyright: false
         <div class="container">
             <div class="box">
                 <div class="img-box">
-                    <img src="https://img2.doubanio.com/view/subject/l/public/s34005071.jpg">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s34005071.jpg" alt="再见，妖精">
                 </div>
                 <div class="text-box">
                     <div>
                         <h3><a href="https://book.douban.com/subject/35572977/">再见，妖精</a></h3>
+                        <p> 国际关系x日常推理 </p>
                     </div>
                 </div>
             </div>
             <div class="box">
                 <div class="img-box">
-                    <img src="https://img2.doubanio.com/view/subject/l/public/s34367437.jpg">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s34367437.jpg" alt="镜之孤城">
                 </div>
                 <div class="text-box">
                     <div>
                         <h3>镜之孤城</h3>
-                        <p>对不登校的孩子有着细腻的心理描写</p>
-                    </div>
-                </div>
-            </div>
-            <div class="box">
-                <div class="img-box">
-                    <img src="https://img2.doubanio.com/view/subject/l/public/s28775794.jpg">
-                </div>
-                <div class="text-box">
-                    <div>
-                        <h3>乔巴</h3>
-                        <p>托尼托尼·乔巴，日本漫画《航海王》及其衍生作品中的角色。</p>
+                        <p>对不登校儿童的心理进行了细腻的描写</p>
                     </div>
                 </div>
             </div>
@@ -180,7 +171,7 @@ copyright: false
                 <div class="text-box">
                     <div>
                         <h3><a href="https://book.douban.com/subject/23780806/">奇想，天动</a></h3>
-                        <p>弗兰奇（原名：卡特·弗兰姆）是日本漫画《航海王》及其衍生作品中的角色。</p>
+                        <p>岛田庄司</p>
                     </div>
                 </div>
             </div>
@@ -190,8 +181,19 @@ copyright: false
                 </div>
                 <div class="text-box">
                     <div>
-                        <h3><a href="https://book.douban.com/subject/23780806/">奇想，天动</a></h3>
-                        <p>弗兰奇（原名：卡特·弗兰姆）是日本漫画《航海王》及其衍生作品中的角色。</p>
+                        <h3><a href="https://book.douban.com/subject/24153048/">东方快车谋杀案</a></h3>
+                        <p>弗兰奇。</p>
+                    </div>
+                </div>
+            </div>
+                        <div class="box">
+                <div class="img-box">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s28775794.jpg" alt="钟表馆事件">
+                </div>
+                <div class="text-box">
+                    <div>
+                        <h3><a href="https://book.douban.com/subject/26771719/">钟表馆事件</a></h3>
+                        <p>托尼托尼·乔巴。</p>
                     </div>
                 </div>
             </div>
@@ -199,34 +201,34 @@ copyright: false
         <div class="container">
             <div class="box">
                 <div class="img-box">
-                    <img src="https://img2.doubanio.com/view/subject/l/public/s34005071.jpg">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s4510219.jpg" alt="一朵桔梗花">
                 </div>
                 <div class="text-box">
                     <div>
-                        <h3><a href="https://book.douban.com/subject/35572977/">再见，妖精</a></h3>
-                        <p>娜美，日本漫画《航海王》及衍生作品中的女主角，草帽一伙的航海士，人称“小贼猫”。</p>
+                        <h3><a href="https://book.douban.com/subject/5269222/">一朵桔梗花</a></h3>
+                        <p>女性·时代·推理</p>
                     </div>
                 </div>
             </div>
             <div class="box">
                 <div class="img-box">
-                    <img src="https://img2.doubanio.com/view/subject/l/public/s34367437.jpg">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s11087849.jpg" alt="异邦骑士">
                 </div>
                 <div class="text-box">
                     <div>
-                        <h3>镜之孤城</h3>
-                        <p>乌索普，日本漫画《海贼王》及其衍生作品中的男性角色。草帽一伙狙击手，被称作“GOD·乌索普”。</p>
+                        <h3>异邦骑士</h3>
+                        <p>入坑作</p>
                     </div>
                 </div>
             </div>
             <div class="box">
                 <div class="img-box">
-                    <img src="https://img2.doubanio.com/view/subject/l/public/s28775794.jpg">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s34164018.jpg" alt="书与钥匙的季节">
                 </div>
                 <div class="text-box">
                     <div>
                         <h3>乔巴</h3>
-                        <p>托尼托尼·乔巴，日本漫画《航海王》及其衍生作品中的角色。乔巴是草帽一伙的船医，吃了人人果实的驯鹿，可用蓝波球进行八段变形。</p>
+                        <p>托形。</p>
                     </div>
                 </div>
             </div>
@@ -237,18 +239,18 @@ copyright: false
                 <div class="text-box">
                     <div>
                         <h3><a href="https://book.douban.com/subject/23780806/">奇想，天动</a></h3>
-                        <p>弗兰奇（原名：卡特·弗兰姆）是日本漫画《航海王》及其衍生作品中的角色。草帽一伙船匠，性格豪放，喜欢唱歌，跳奇怪的舞，下身喜欢只穿一条短裤。身为改造人的弗兰奇，藏着各种兵器。</p>
+                        <p>弗兰器。</p>
                     </div>
                 </div>
             </div>
             <div class="box">
                 <div class="img-box">
-                    <img src="https://img2.doubanio.com/view/subject/l/public/s4540915.jpg" alt="奇想，天动">
+                    <img src="https://img2.doubanio.com/view/subject/l/public/s28775786.jpg" alt="暗黑馆事件">
                 </div>
                 <div class="text-box">
                     <div>
-                        <h3><a href="https://book.douban.com/subject/23780806/">奇想，天动</a></h3>
-                        <p>弗兰奇（原名：卡特·弗兰姆）是日本漫画《航海王》及其衍生作品中的角色。草帽一伙船匠，性格豪放，喜欢唱歌，跳奇怪的舞，下身喜欢只穿一条短裤。身为改造人的弗兰奇，藏着各种兵器。</p>
+                        <h3><a href="https://book.douban.com/subject/26771721/">暗黑馆事件</a></h3>
+                        <p>弗兰奇】。</p>
                     </div>
                 </div>
             </div>
