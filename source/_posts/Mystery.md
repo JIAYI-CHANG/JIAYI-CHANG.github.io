@@ -4,7 +4,10 @@ tags: [阅读,摸鱼]
 categories: [书影音,图书馆]
 copyright: false
 ---
-> 每月1号更新。点击书名可以跳转链接喔！(◍•ᴗ•◍)~❤
+
+
+> 每月1日更新。
+> 点击书名可以跳转豆瓣链接喔！(◍•ᴗ•◍)~❤
 
 <br>
 
@@ -20,10 +23,10 @@ copyright: false
                 flex: 1;
                 overflow: hidden;
                 transition: .5s;
-                margin: 10px 10px;
-                box-shadow: 5px 5px 5px rgba(0, 0, 0, .1);
-                border-radius: 7.5px;
-                border: 0px solid transparent;
+                margin: 15px 15px;
+                box-shadow: 10px 10px 5px rgba(0, 0, 0, .1);
+                border-radius: 10px;
+                border: 0px solid #FFF;
                 background-color: #fff;
             }
             .container{
@@ -37,7 +40,7 @@ copyright: false
             .container .box{
                 position: relative;
                 width: 210px;
-                height: 210px;
+                height: 205px;
                 /* 溢出隐藏 */
                 overflow: hidden;
                 /* 动画过渡 */
@@ -65,7 +68,7 @@ copyright: false
                 top: 0;
                 width: 100%;
                 height: 100%;
-                background: linear-gradient(to top, white,rgba(255, 255, 255, 0));
+                background: linear-gradient(to top, white,rgba(255, 255, 255, 0.5));
                 z-index: 1;
                 opacity: 0;
                 transition: 0.5s;
@@ -125,18 +128,15 @@ copyright: false
             table th{
                 color:#000000;
                 border-color:transparent;
-                text-align:center;
+                text-align:left;
             }
             table td{
                 color:#000000;
                 border-color:transparent;
-                text-align:center;
+                text-align:left;
             }
             table tr:nth-child(odd) {
                 background-color: rgba(227,227,227,.1);
-            }
-            table td:first-child {
-                text-align:left;
             }
         </style>
     </head>
@@ -259,7 +259,60 @@ copyright: false
 </html>
 
 
+
 ## 阅读列表
+
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+    window.onload = function() {
+      var searchInput = document.getElementById('searchInput');
+      var searchBtn = document.getElementById('search-btn');
+      var resetBtn = document.getElementById('reset-btn'); // 获取重置按钮
+      searchBtn.addEventListener('click', function() {
+        var keyword = searchInput.value.toLowerCase();
+        var tableRows = document.getElementsByTagName('tr');
+        for (var i = 1; i < tableRows.length; i++) { // 从第二行开始遍历
+          var row = tableRows[i];
+          var cells = row.getElementsByTagName('td');
+          var match = false;
+          for (var j = 0; j < cells.length; j++) {
+            var cellText = cells[j].textContent.toLowerCase();
+            if (cellText.indexOf(keyword) !== -1) {
+              match = true;
+              break;
+            }
+          }
+          if (match) {
+            row.style.display = '';
+          } else {
+            row.style.display = 'none';
+          }
+        }
+      });
+      resetBtn.addEventListener('click', function() { // 为重置按钮添加点击事件
+        searchInput.value = ''; // 清空搜索框
+        var tableRows = document.getElementsByTagName('tr');
+        for (var i = 1; i < tableRows.length; i++) { // 从第二行开始遍历
+          var row = tableRows[i];
+          row.style.display = ''; // 显示所有行
+        }
+      });
+    };
+  </script>
+</head>
+<body>
+  <!-- 在表格上方添加搜索框、搜索按钮和重置按钮 -->
+  <div>
+    <input type="text" id="searchInput" placeholder="输入关键字进行搜索">
+    <button type="button" id="search-btn">搜索</button>
+    <button type="button" id="reset-btn">重置</button>
+  </div>
+</body>
+</html>
+
+<br>
 
 | 已阅读(37)                                                        | 作者       | 分类    | 标签             | 日期      |
 | -------------------------------------------------------------- | -------- | ----- | -------------- | ------- |
