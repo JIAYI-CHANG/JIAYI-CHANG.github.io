@@ -44,17 +44,17 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: /Attachment/avatar.jpg
+  img: "/Attachment/avatar.jpg"
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: /Attachment/GRANDBLUE.jpg
+index_img: 
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: 
+default_top_img: /Attachment/GRANDBLUE.jpg
 
 # The banner image of archive page
 archive_img: 
