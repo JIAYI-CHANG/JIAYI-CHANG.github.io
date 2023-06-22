@@ -39,8 +39,8 @@ copyright: false
             }
             .container .box{
                 position: relative;
-                width: 210px;
-                height: 205px;
+                /* 保持宽高比 */
+                padding-top: 24%;
                 /* 溢出隐藏 */
                 overflow: hidden;
                 /* 动画过渡 */
@@ -68,7 +68,7 @@ copyright: false
                 top: 0;
                 width: 100%;
                 height: 100%;
-                background: linear-gradient(to top, white,rgba(255, 255, 255, 0.5));
+                background: linear-gradient(to top, rgba(255, 255, 255, 0.5),rgba(255, 255, 255, 0));
                 z-index: 1;
                 opacity: 0;
                 transition: 0.5s;
@@ -92,7 +92,8 @@ copyright: false
                 top: 0;
                 width: 100%;
                 height: 100%;
-                padding: 20px;
+                padding: 15px;
+                padding-bottom: 5px;
                 /* 弹性布局 元素位于容器的结尾 */
                 display: flex;
                 align-items: flex-end;
@@ -100,8 +101,9 @@ copyright: false
                 z-index: 2;
             }
             .container .box .text-box h3{
-                font-size: 15px;
-                margin-bottom: 10px;
+                font-size: 8px;
+                line-height: 25px;
+                margin-bottom: 5px;
                 /* 默认移出可视范围 */
                 transform: translateY(200px);
                 transition: 0.5s;
@@ -113,9 +115,10 @@ copyright: false
                 transition-delay: 0.1s;
             }
             .container .box .text-box p{
-                font-size: 10px;
-                line-height: 20px;
+                font-size: 8px;
+                line-height: 15px;
                 /* 默认移出可视范围 */
+                margin-bottom: 2.5px;
                 transform: translateY(200px);
                 transition: 0.5s;
             }
@@ -149,7 +152,7 @@ copyright: false
                 <div class="text-box">
                     <div>
                         <h3><a href="https://book.douban.com/subject/35572977/">再见，妖精</a></h3>
-                        <p> 国际关系x日常推理 </p>
+                        <p>国际关系x推理小说</p>
                     </div>
                 </div>
             </div>
@@ -227,7 +230,7 @@ copyright: false
                 </div>
                 <div class="text-box">
                     <div>
-                        <h3>乔巴</h3>
+                        <h3><a href="https://book.douban.com/subject/35651703/">书与钥匙的季节</a></h3>
                         <p>托形。</p>
                     </div>
                 </div>
@@ -314,8 +317,9 @@ copyright: false
 
 <br>
 
-| 已阅读(37)                                                        | 作者       | 分类    | 标签             | 日期      |
+| 已阅读(38)                                                        | 作者       | 分类    | 标签             | 日期      |
 | -------------------------------------------------------------- | -------- | ----- | -------------- | ------- |
+| [独眼少女](https://book.douban.com/subject/25918073/)              | 麻耶雄嵩     | 日本 推理 | 反转 崩坏 情节       | 2023年6月 |
 | [刀与伞](https://book.douban.com/subject/36187796/)               | 伊吹亚门     | 日本 推理 | 短篇 历史 民俗       | 2023年5月 |
 | [溶于雾中](https://book.douban.com/subject/36194208/)              | 笹泽左保     | 日本 推理 | 社会 诡计          | 2023年5月 |
 | [岛和我们](https://book.douban.com/subject/26277997/)              | 辻村深月     | 日本 其他 | 校园 治愈 文学       | 2023年5月 |
@@ -353,6 +357,8 @@ copyright: false
 | [两人距离的概算](https://book.douban.com/subject/25885612/)           | 米泽穗信     | 日本 推理 | 日常 短篇 幽默 校园    | 2023年1月 |
 | [德尔塔的悲剧](https://book.douban.com/subject/36075911/)            | 浦贺和宏     | 日本 悬疑 | 诡计             | 2023年1月 |
 | [绕远路的雏人偶](https://book.douban.com/subject/25808629/)           | 米泽穗信     | 日本 推理 | 日常 短篇 校园       | 2023年1月 |
+
+
 
 
 未完待续 ✌🏻
