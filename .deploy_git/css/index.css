@@ -3715,7 +3715,7 @@ h1.page-title + .tag-cloud-list {
   overflow: hidden;
   margin-top: 40px;
   width: 100%;
-  background: #000;
+  background: #e3e3e3;
 }
 .layout > .recent-posts .pagination > * {
   display: inline-block;
