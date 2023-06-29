@@ -1464,7 +1464,7 @@ table td {
   vertical-align: middle;
 }
 *::selection {
-  background: #27374d;
+  background: #ffc100;
   color: #f7f7f7;
 }
 button {
@@ -1521,7 +1521,7 @@ img:not([src]) {
 blockquote {
   margin: 0 0 20px;
   padding: 12px 15px;
-  border-left: 3px solid #3e3e3e;
+  border-left: 3px solid #d4d4d4;
   background-color: var(--blockquote-bg);
   color: var(--blockquote-color);
 }
@@ -2810,7 +2810,7 @@ h1.page-title + .tag-cloud-list {
   color: #000;
 }
 #aside-content #card-toc .toc-content .toc-link.active {
-  background: #000;
+  background: #e3e3e3;
   color: #fff;
 }
 #aside-content .sticky_layout:only-child > :first-child {
@@ -3680,7 +3680,7 @@ h1.page-title + .tag-cloud-list {
   text-align: center;
 }
 #pagination .page-number.current {
-  background: #00c4b6;
+  background: #e3e3e3;
   color: var(--white);
 }
 #pagination .pagination-info {
