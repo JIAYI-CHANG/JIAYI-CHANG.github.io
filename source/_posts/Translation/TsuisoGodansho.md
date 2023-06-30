@@ -26,14 +26,86 @@ copyright: true
                 border: none; /* 移除默认的边框样式 */
                 border-top: 2.5px dashed #E3E3E3; /* 设置上边框为1像素的虚线，颜色为黑色 */
             }
+            .hhr {
+                border: none; /* 移除默认的边框样式 */
+                border-bottom: 2.5px dotted rgba(230, 230, 230,.9); /* 设置上边框为1像素的虚线，颜色为黑色 */
+            }
+            .container {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: space-between;
+                width: AUTO;
+                height: 300PX;
+                background-color: transparent;
+                border: .01px solid rgba(0, 0, 0,.05);
+                box-sizing: border-box;
+                box-shadow: 10px 10px 7.5px rgba(0, 0, 0,.1);
+                margin-bottom:40px;
+                margin-top:-25px;
+             }
+            .content {
+                display: flex;
+            }
+            .image {
+                flex: 0.5;
+                width:auto;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                margin-left: 20px;
+                margin-right: -60px;
+                margin-bottom: 0px;
+            }
+            .text {
+                flex: 1.2;
+                padding: 10px;
+                margin-right: 20px;
+                text-align:justify;
+            }
+            .title {
+                order:-1;
+                display: flex;
+                MARGIN-TOP:5PX;
+                MARGIN-BOTTOM:-20PX;
+                justify-content: space-between;
+                align-items: center;
+                text-align: center;
+                font-size: 18px; 
+            }
+            .vertical-line {
+                border: none; /* 移除默认的边框样式 */
+                margin-bottom:20px;
+                border-left: 2.5px dashed rgba(230,230,230,0.75); /* 设置上边框为1像素的虚线，颜色为黑色 */
+            }
         </style>
     </head>
 <body>
 
 
 <center>米澤穂信『追想五断章』刊行記念インタビュー</center>
-
 <HR>
+<BR>
+<div class="container">
+    <div class="title">
+        <P><a href="https://book.douban.com/subject/5395176/">追想五断章</a></P>
+    </div>
+    <div class="content">
+        <div class="image">
+            <img src="https://m.media-amazon.com/images/I/71XJjqU-qkL.jpg" height=200px alt="追想五断章">
+        </div>
+        <div class="vertical-line"></div>
+        <div class="text">
+            <p><b>内容简介</b>: 北里可南子在父亲北里参吾的遗物里发现了五张稿纸，每张上面都只写了一行文字。她委托在旧书店打工的菅生芳光帮忙寻找这五篇没有结局的小说。没想到在补全作品的过程中，芳光发现了22年前“安特卫普的枪声”事件中惊人的事实——事情的真相，就隐藏在那5篇小说之中。</p>
+            <p><b>作者简介</b>: 米泽穗信，1978年生于岐阜县，23岁时凭借《冰菓》获得第五届角川学园小说大奖而正式出道。作品以青春推理小说为主，代表作包括“古典部系列”、“小市民系列”以及《再见，妖精》、《黑牢城》、《折断的龙骨》等非系列作品。</p>
+        </div>
+    </div>
+</div>
+
+
+<BR>
+
+
 
 不知您是否已经阅读过了，米泽穗信先生久违的非系列长篇小说《追想五断章》已于今年夏天出版。
 
@@ -41,7 +113,8 @@ copyright: true
 
 这是一部将五个谜语小说编织其中的正统推理长篇小说。编辑将对在这部作品中展现出新面孔的米泽先生展开采访，同时，我们还了解了创作的幕后故事，请务必读到最后！
 
-### 小说创作的两个坐标轴
+### <div class="hhr">小说创作的两个坐标轴</div>
+
 
 > ――米泽先生通过[《小市民》系列](https://book.douban.com/series/48702)和[《古典部》系列](https://book.douban.com/series/19371)等青春推理小说已经赢得了许多读者的喜爱，听说这次新作《追想五断章》是从“无论如何要写出苦涩的故事（渋い話）”开始的。
 
@@ -106,6 +179,8 @@ copyright: true
 > ――那么，在写“生活在稍早时代的中年男性的文章”时，你有什么感想？
 
 米泽：我想象的是[久生十兰](https://book.douban.com/author/372014/)。只要拿起笔，自然而然地就会出现巴黎、蒂罗尔和菲律宾，一种时髦或者说波西米亚的男性氛围，如果能表达出这样的感觉就好了。当然，这不是真正的十兰，而是我从作品中浮现出的自由想象（笑）。
+
+---
 
 ### 既非“现实主义”亦非“精心制作”（ウェルメイド）
 
