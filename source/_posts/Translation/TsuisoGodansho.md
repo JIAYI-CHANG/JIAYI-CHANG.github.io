@@ -4,6 +4,9 @@ tags: [翻译,推理小说,摸鱼]
 categories: [翻译,推理小说]
 description: 本文为2009年8月《追想五断章》一书出版时，集英社编辑对米泽穗信老师的采访。本文仅供学习交流，不得用于商业目的。<br><a href="https://www.bungei.shueisha.co.jp/contents/shinkan_list/temaemiso/090826_book01.html/">原文链接：米澤穂信『追想五断章』刊行記念インタビュー</a>
 copyright: true
+top_img: /Attachment/GRANDBLUE.jpg
+cover: https://www.mottainaihonpo.com/kaitori/contents/cat01/img/024img/yonezawahonobu.jpg
+备用封面: https://tkhd05.com/wp-content/uploads/2020/05/yonezawa-honobu-osusume.png
 ---
 
 <html>
