@@ -5,8 +5,7 @@ categories: [翻译,推理小说]
 description: 本文为「毒入りコーヒー事件」的翻译。原文版权归作者与宝島社所有，本文仅供学习交流，禁止一切形式的转载。
 copyright: true
 top_img: /Attachment/GRANDBLUE.jpg
-cover: https://www.mottainaihonpo.com/kaitori/contents/cat01/img/024img/yonezawahonobu.jpg
-备用封面: https://tkhd05.com/wp-content/uploads/2020/05/yonezawa-honobu-osusume.png
+cover: https://m.media-amazon.com/images/I/81SsaRT9xSL.jpg
 ---
 
 <html>
