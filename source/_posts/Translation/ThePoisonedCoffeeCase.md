@@ -1,10 +1,10 @@
 ---
-title: [民翻] 毒咖啡事件（朝永理人）
+title: 【民翻】毒咖啡事件（朝永理人）
 tags: [翻译,推理小说,摸鱼]
 categories: [翻译,推理小说]
 description: 本文为「毒入りコーヒー事件」的翻译。原文版权归作者与宝島社所有，本文仅供学习交流，禁止一切形式的转载。
 copyright: true
-top_img: /Attachment/GRANDBLUE.jpg
+top_img: https://t4.ftcdn.net/jpg/05/97/13/53/360_F_597135363_kEWA0i5UZlYlZBqfGc3Krcv9WPJJADhK.jpg
 cover: https://m.media-amazon.com/images/I/81SsaRT9xSL.jpg
 ---
 
@@ -94,7 +94,7 @@ cover: https://m.media-amazon.com/images/I/81SsaRT9xSL.jpg
     </div>
     <div class="content">
         <div class="image">
-            <img src="https://m.media-amazon.com/images/I/81SsaRT9xSL.jpg" height=200px alt="毒咖啡事件封面">
+            <img src="https://m.media-amazon.com/images/I/81SsaRT9xSL.jpg" height=250px alt="毒咖啡事件封面">
         </div>
         <div class="vertical-line"></div>
         <div class="text">
