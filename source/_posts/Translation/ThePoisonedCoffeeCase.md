@@ -75,6 +75,23 @@ copyright_info: 原文版权归作者与宝島社所有，本文仅供学习交�
                 text-align: center;
                 font-size: 18px; 
             }
+            @media screen and (max-width: 800px) {
+                .content {
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: flex-start;
+                }
+                .image {
+                    order:1;
+                    flex:1;
+                    margin: 0;
+                }
+                .text {
+                    order:2;
+                    flex:1;
+                    margin: 0;
+                }
+            }
         </style>
     </head>
 <body>
@@ -246,8 +263,3 @@ copyright_info: 原文版权归作者与宝島社所有，本文仅供学习交�
 
 <details><summary>原句</summary> 「願わくばこの話が、退屈というものとは無縁な、時の流れを速めるものでありますように」 <br> 翻译参考北京联合出版公司2016年版《暴风雨》（朱生豪/译）</details>
 
-
-
-<HR>
-
-（第1章更新时间·2023-08-18）
