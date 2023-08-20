@@ -5,7 +5,7 @@ tags: [翻译,推理小说]
 categories: [翻译,推理小说]
 description: 本文为<a href="https://book.douban.com/subject/36459448/"><b>「毒入りコーヒー事件」</b></a>的翻译。原文版权归作者与宝島社所有，本文仅供学习交流，禁止一切形式的转载。
 copyright: true
-top_img: https://t4.ftcdn.net/jpg/05/97/13/53/360_F_597135363_kEWA0i5UZlYlZBqfGc3Krcv9WPJJADhK.jpg
+top_img: ../../Attachment/CoffeeCase.jpg
 cover: https://m.media-amazon.com/images/I/81SsaRT9xSL.jpg
 copyright_author: CHJY
 copyright_author_href: https://www.douban.com/people/CHJY2000/notes?_i=2247840rKyl-MY
