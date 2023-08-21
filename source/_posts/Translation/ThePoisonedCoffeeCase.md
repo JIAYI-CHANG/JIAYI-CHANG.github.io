@@ -963,7 +963,7 @@ copyright_info: 原文版权归作者与宝島社所有，本文仅供学习交�
 
 “什么是平勺？”
 
-> <details><summary><b>平勺 「すり切りで」：</b> 指称量粉末或粒状物时、去除勺子边缘以上的部分，使内容物不超过其边缘。</summary><br><img src="https://d17uhz2kob7es4.cloudfront.net/images/pictures/images/000/020/377/IMG_7875-thumb_960.JPG?1586873902"　alt="惠比寿脸" height=200px></details>
+> <details><summary><b>平勺 「すり切りで」：</b> 指称量粉末或粒状物时、去除勺子边缘以上的部分，使内容物不超过其边缘。</summary><br><img src="https://d17uhz2kob7es4.cloudfront.net/images/pictures/images/000/020/377/IMG_7875-thumb_960.JPG?1586873902"　alt="平勺" height=200px></details>
 
 “诶？”
 
