@@ -9,7 +9,7 @@ top_img: ../../Attachment/CoffeeCase.jpg
 cover: https://m.media-amazon.com/images/I/81SsaRT9xSL.jpg
 copyright_author: CHJY
 copyright_author_href: https://www.douban.com/people/CHJY2000/notes?_i=2247840rKyl-MY
-copyright_url: https://jiayi-chang.github.io/Translation/ThePoisonedCoffeeCase/
+copyright_url: https://www.HereisCHJY.blog/Translation/ThePoisonedCoffeeCase/
 copyright_info: 原文版权归作者与宝島社所有，本文仅供学习交流，禁止一切形式的转载。
 ---
 
