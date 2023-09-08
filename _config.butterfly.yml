@@ -208,7 +208,7 @@ footer:
   owner:
     enable: true
     since: 2000
-  custom_text:
+  custom_text: <i class="fa-solid fa-location-dot"></i> &nbsp; Beijing, China
   copyright: false # Copyright of theme and framework
 
 # aside (側邊欄)
@@ -226,12 +226,12 @@ aside:
     category: true
   card_author:
     enable: true
-    description:
+    description: 
     button:
       enable: false
-      icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xxxxxx
+      icon: fas fa-map-pin
+      text: Location：Tokyo, Japan
+      link: 
   card_announcement:
     enable: false
     content: This is my Blog
@@ -253,7 +253,7 @@ aside:
     order: 1 # Sort of order. 1, asc for ascending; -1, desc for descending
     sort_order: # Don't modify the setting unless you know how it works
   card_archives:
-    enable: true
+    enable: false
     type: monthly # yearly or monthly
     format: MMMM YYYY # eg: YYYY年MM月
     order: -1 # Sort of order. 1, asc for ascending; -1, desc for descending
@@ -606,12 +606,12 @@ site_verification:
 # Theme color for customize
 theme_color:
   enable: true
-  main: "#000000"
+  main: "#C0C0C0"
   paginator: "#e3e3e3"
-  button_hover: "#B9E9FC"
+  button_hover: "#e3e3e3"
   text_selection: "#ffc100"
   link_color: "#000000"
-  meta_color: "#858585"
+  meta_color: "#3e3e3e"
   hr_color: "#A4D8FA"
   code_foreground: "#F47466"
   code_background: "rgba(246, 241, 241, .05)"
