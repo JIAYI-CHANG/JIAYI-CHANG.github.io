@@ -33,7 +33,6 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  fab fa-github: https://github.com/JIAYI-CHANG || Github || '#3e3e3e'
   fas fa-envelope: mailto:jychang@pku.edu.cn || Email || '#3e3e3e'
 
 # Image (圖片設置)
