@@ -36,6 +36,13 @@ copyright_info: 原文版权归作者与宝島社所有，本文仅供学习交�
                 border: none; /* 移除默认的边框样式 */
                 border-bottom: 2.5px dotted rgba(230, 230, 230,.9); /* 设置上边框为1像素的虚线，颜色为黑色 */
             }
+            .dots {
+                background-image: radial-gradient(.15em .15em at center center,black,black 50%,transparent);
+                background-position: bottom right;
+                background-repeat: repeat-x; 
+                background-size: 1em 0.3em;
+                padding-bottom: .4em; 
+            }
             .container {
                 display: flex;
                 flex-direction: column;
