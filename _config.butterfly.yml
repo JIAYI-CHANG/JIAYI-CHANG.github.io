@@ -209,7 +209,7 @@ footer:
   owner:
     enable: true
     since: 2000
-  custom_text: <i class="fa-solid fa-location-dot"></i> &nbsp; Beijing, China
+  custom_text: <i class="fa-solid fa-location-dot"></i> &nbsp; Dalian, China
   copyright: false # Copyright of theme and framework
 
 # aside (側邊欄)
