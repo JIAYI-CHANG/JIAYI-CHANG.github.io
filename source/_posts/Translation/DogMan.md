@@ -1,7 +1,7 @@
 ---
 title: 「民翻」Dog Man·白井智之
 date: 2023-10-20
-tags: [翻译,推理小说]
+tags: [翻译,推理小说,短篇]
 categories: [翻译,推理小说]
 description: 本文为ときわ書房限定<a href="https://book.douban.com/subject/36497658/"><b>「エレファントヘッド」</b></a>购入特典。版权归作者与出版社所有。翻译仅供学习交流，禁止用于商业用途。
 copyright: true

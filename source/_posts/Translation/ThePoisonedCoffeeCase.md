@@ -1,7 +1,7 @@
 ---
 title: 「民翻」毒咖啡事件·朝永理人
 date: 2023-08-17
-tags: [翻译,推理小说]
+tags: [翻译,推理小说,长篇]
 categories: [翻译,推理小说]
 description: 本文为<a href="https://book.douban.com/subject/36459448/"><b>「毒入りコーヒー事件」</b></a>的翻译。原文版权归作者与宝島社所有，本文仅供学习交流，禁止一切形式的转载。
 copyright: true
