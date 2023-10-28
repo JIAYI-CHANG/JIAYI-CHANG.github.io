@@ -24,6 +24,10 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
                 text-decoration-style: none;
                 border-bottom: 2px solid #e3e3e3;
             }
+            pextra {
+                font-family: "STSong";
+                color: Grey;
+            }
             CENTER {
                 font-size: 27PX;
                 font-style: bold;
