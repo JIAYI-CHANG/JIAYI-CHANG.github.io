@@ -162,7 +162,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 
 <BR>
 
-> 本文为<a href="https://book.douban.com/subject/10809297/"><b>「時鐘館の殺人」</b></a>标题作的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
+> 本文为<a href="https://book.douban.com/subject/10809297/"><b>「<ruby>時鐘<rt>とけい</rt></ruby>館の殺人」</b></a>标题作的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
 
 <BR>
 
@@ -291,7 +291,7 @@ QED？啊啊《QED》啊，与《推理杂志》和《EQ》齐名的专业推理
 
 <div class="containerab">
     <div class ="centerab">
-        其角椟为橡，配之茶色框。<br>藏于寒壁内，封于棺之中。<br>其为时之骨，嗄吱声不断。<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;此乃时钟之所惧也。
+        其角椟为橡，配之茶色框。<br>藏于寒壁内，封于棺之中。<br>其为时之骨，嗄吱声不断。<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;此乃时钟之惧也。
         <br><br><br>
         ——摘自 上田敏译《海潮音》之<br>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp&nbsp; &nbsp; &nbsp埃米尔·维尔哈伦《时钟》
     </div>
