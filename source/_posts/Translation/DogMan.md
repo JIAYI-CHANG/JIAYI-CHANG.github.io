@@ -3,7 +3,7 @@ title: 「民翻」Dog Man·白井智之
 date: 2023-10-20
 tags: [翻译,推理小说,短篇]
 categories: [翻译,推理小说]
-description: 本文为ときわ書房限定<a href="https://book.douban.com/subject/36497658/"><b>「エレファントヘッド」</b></a>购入特典。版权归作者与出版社所有。翻译仅供学习交流，禁止用于商业用途。
+description: 本文为ときわ書房限定<a href="https://book.douban.com/subject/36497658/"><b>「エレファントヘッド」</b></a>购入特典的翻译。翻译仅供学习交流，禁止用于商业用途。
 copyright: true
 top_img: https://m.media-amazon.com/images/I/71hp0phUIwL._SL1500_.jpg
 cover: https://m.media-amazon.com/images/I/71hp0phUIwL._SL1500_.jpg
@@ -12,11 +12,10 @@ copyright_author_href: https://www.douban.com/people/CHJY2000/notes?_i=2247840rK
 copyright_url: https://www.HereisCHJY.blog/Translation/DogMan
 copyright_info: 原文版权归作者与出版社所有，本文仅供学习交流，禁止用于商业用途。
 ---
-
 <html>
     <head>
         <style>
-            /* 设置链接的样式 */
+            @import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Shippori+Mincho+B1:wght@600&display=swap');
             p a {
                 text-decoration: none;
                 text-decoration-line: none;
@@ -24,85 +23,14 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
                 text-decoration-style: none;
                 border-bottom: 2px solid #e3e3e3;
             }
-            pextra {
-                font-family: "STSong";
-                color: Grey;
-            }
-            CENTER {
+            center {
                 font-size: 27PX;
                 font-style: bold;
+                font-family: 'Shippori Mincho B1', serif;
             }
             hr {
                 border: none; /* 移除默认的边框样式 */
                 border-top: 2.5px dashed #E3E3E3; /* 设置上边框为1像素的虚线，颜色为黑色 */
-            }
-            .hhr {
-                border: none; /* 移除默认的边框样式 */
-                border-bottom: 2.5px dotted rgba(230, 230, 230,.9); /* 设置上边框为1像素的虚线，颜色为黑色 */
-            }
-            .dots {
-                background-image: radial-gradient(.15em .15em at center center,black,black 50%,transparent);
-                background-position: bottom right;
-                background-repeat: repeat-x; 
-                background-size: 1em 0.3em;
-                padding-bottom: .4em; 
-            }
-            .container {
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-                justify-content: space-between;
-                width: AUTO;
-                background-color: transparent;
-                border: .01px solid rgba(0, 0, 0,.05);
-                box-sizing: border-box;
-                box-shadow: 10px 10px 7.5px rgba(0, 0, 0,.1);
-                padding-bottom:0px;
-                padding-top:15px;
-             }
-            .content {
-                display: flex;
-            }
-            .image {
-                flex: 0.4;
-                display: flex;
-                align-items: center;
-                justify-content: space-between;
-                margin-left: 15px;
-                margin-right: 15px;
-                margin-top: -12px;
-            }
-            .text {
-                flex: 1.2;
-                padding: 10px;
-                margin-right: 20px;
-                text-align:justify;
-            }
-            .title {
-                order:-1;
-                display: flex;
-                MARGIN-TOP:5PX;
-                justify-content: space-between;
-                align-items: center;
-                text-align: center;
-                font-size: 18px; 
-            }
-            @media screen and (max-width: 800px) {
-                .content {
-                    flex-direction: column;
-                    align-items: center;
-                    justify-content: flex-start;
-                }
-                .image {
-                    order:1;
-                    flex:1;
-                    margin: 0;
-                }
-                .text {
-                    order:2;
-                    flex:1;
-                    margin: 0;
-                }
             }
         </style>
     </head>
