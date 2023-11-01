@@ -3856,7 +3856,7 @@ h1.page-title + .tag-cloud-list {
   overflow-wrap: break-word;
 }
 #article-container a {
-  color: #000;
+  color: #3e3e3e;
 }
 #article-container a:hover {
   text-decoration: underline;
