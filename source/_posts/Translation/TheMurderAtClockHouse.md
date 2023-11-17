@@ -176,7 +176,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
         </div>
         <div class="text">
             <p>集结了包括作家、评论家在内的推理爱好者寄宿舍——时钟馆。在编辑催稿前夕，年迈的推理小说家留下“原稿一页未写。恕我任性‘消失’。”这样一封信后便杳无踪影。翌日清晨，他的尸体被发现藏于雪人之中……这群推理迷会如何展开华丽而严谨的推理？
-            <br><br> 本文为短篇小说集《时钟馆事件》标题作，另收录「<a href="https://www.douban.com/note/851063386/?_i=8456568Sh6fRcN,8800039rKyl-MY"><b>行尸杀人事件</b></a>」·「<a href="https://www.douban.com/note/851062371/?_i=8455486Sh6fRcN,8800378rKyl-MY"><b>黑白的反转</b></a>」·「<a href="https://www.douban.com/group/topic/94158122/?_i=8455005Sh6fRcN,8800400rKyl-MY"><b>邻家杀人事件</b></a>」·「<b>那孩子是谁呀 (无翻译) </b>」·「<a href="https://www.douban.com/note/851061997/?_i=8455207Sh6fRcN,8800453rKyl-MY"><b>恋人啊</b></a>」5篇作品。</p>
+            <br><br> 本文为短篇小说集《时钟馆事件》标题作，另收录「<a href="https://www.douban.com/note/851063386/?_i=8456568Sh6fRcN,8800039rKyl-MY"><b>行尸杀人事件</b></a>」·「<a href="https://www.douban.com/note/851062371/?_i=8455486Sh6fRcN,8800378rKyl-MY"><b>黑白的反转</b></a>」·「<a href="https://www.douban.com/group/topic/94158122/?_i=8455005Sh6fRcN,8800400rKyl-MY"><b>邻家杀人事件</b></a>」·「<a href="https://www.douban.com/note/856022725/?_i=0218283rKyl-MY"><b>那孩子乃何人</b></a>」·「<a href="https://www.douban.com/note/851061997/?_i=8455207Sh6fRcN,8800453rKyl-MY"><b>恋人啊</b></a>」5篇作品。</p>
             <br>
         </div>
     </div>
