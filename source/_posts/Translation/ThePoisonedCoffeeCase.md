@@ -25,6 +25,10 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
                 text-decoration-style: none;
                 border-bottom: 2px solid #e3e3e3;
             }
+            .pextra {
+                font-family: "STSong";
+                color: Black;
+            }
             CENTER {
                 font-size: 27PX;
                 font-style: bold;
@@ -140,6 +144,8 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 <HR>
 
 ## 1-1
+
+<div class="pextra">
 
 “呦，你来啦，太好了。”
 
@@ -274,6 +280,9 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 “但愿这个与枯燥无缘的故事，会使时间很快溜过。”
 
 > **译者注**：原文为「願わくばこの話が、退屈というものとは無縁な、時の流れを速めるものでありますように」翻译参考北京联合出版公司2016年版《暴风雨》（朱生豪/译）
+
+
+</div>
 
 ## 1-2
 下了公交车、吸一口气，濡湿的土壤与青草的气味便扑鼻而来。箕轮真由真切地意识到，自己又回到了这个村庄。

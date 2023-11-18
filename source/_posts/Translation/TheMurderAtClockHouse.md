@@ -26,7 +26,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
             }
             .pextra {
                 font-family: "STSong";
-                color: Grey;
+                color: Black;
             }
             CENTER {
                 font-size: 27PX;
