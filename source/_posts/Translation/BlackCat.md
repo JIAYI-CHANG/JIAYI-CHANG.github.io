@@ -109,10 +109,10 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
     </div>
     <div class="content">
         <div class="image">
-            <img src="https://m.media-amazon.com/images/I/71UfwQkzXCL._SL1436_.jpg" height=260px alt="开始养黑猫了封面">
+            <img src="https://m.media-amazon.com/images/I/71UfwQkzXCL._SL1436_.jpg" height=240px alt="开始养黑猫了封面">
         </div>
         <div class="text">
-            <p>暴风雨之夜，「死亡」造访了这个家庭……两个极为相似的死亡现场中隐藏着怎样的真相？！<br> 12年前，箕轮家的长子·要，在自己的房间里喝下毒咖啡自杀。虽然找到了一张写有“遗书”二字的信纸，但其内容却是一片空白。12年后的祭日，在家人们再度相聚的暴风雨之夜，这次是父亲在自己的房间内离世，旁边放着疑似有毒的咖啡和白纸遗书——与箕轮要死亡时相同的情况……<br> 已有「<a href="https://www.douban.com/note/848086601/?_i=1097697rKyl-MY,1775914rKyl-MY"><b>三津田信三 · 独居的母亲</b></a>」丨「<a href="https://www.douban.com/note/848086250/?_i=1097990rKyl-MY,1775926rKyl-MY"><b>青崎有吾 · 直到厌倦</b></a>」丨「<a href="https://www.douban.com/note/845714063/?_i=1097403rKyl-MY,1775990rKyl-MY"><b>纸城境介 · 灰中同学答应替我保密</b></a>」。</p>
+            <p> 本书为会员制读书俱乐部 Mephisto Readers Club（MRC）的26名成员集结出版的作品。规则只有一条：必须以“<ruby>开始养黑猫了<rt>猫を飼い始めた</rt></ruby>”为全文的起点。从第二行开始，则由作家自由发挥想象力，完成一篇超短篇小说。<br><br> 已有「<a href="https://www.douban.com/note/848086601/?_i=1097697rKyl-MY,1775914rKyl-MY"><b>三津田信三 · 独居的母亲</b></a>」「<a href="https://www.douban.com/note/848086250/?_i=1097990rKyl-MY,1775926rKyl-MY"><b>青崎有吾 · 直到厌倦</b></a>」「<a href="https://www.douban.com/note/845714063/?_i=1097403rKyl-MY,1775990rKyl-MY"><b>纸城境介 · 灰中同学答应替我保密</b></a>」三篇民翻。</p>
             <br>
         </div>
     </div>
@@ -123,7 +123,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 
 <BR>
 
-## 杉山幌·然后我找到了黑猫 <i class="fa-solid fa-paw"></i> 
+## 杉山幌·然后找到了黑猫 <i class="fa-solid fa-paw"></i> 
 
 <HR>
 
