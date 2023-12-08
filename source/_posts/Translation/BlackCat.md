@@ -32,6 +32,63 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
                 border: none; /* 移除默认的边框样式 */
                 border-top: 2.5px dashed #E3E3E3; /* 设置上边框为1像素的虚线，颜色为黑色 */
             }
+            .container {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: space-between;
+                width: AUTO;
+                background-color: transparent;
+                border: .01px solid rgba(0, 0, 0,.05);
+                box-sizing: border-box;
+                box-shadow: 10px 10px 7.5px rgba(0, 0, 0,.1);
+                padding-bottom:0px;
+                padding-top:15px;
+             }
+            .content {
+                display: flex;
+            }
+            .image {
+                flex: 0.4;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                margin-left: 15px;
+                margin-right: 15px;
+                margin-top: -12px;
+            }
+            .text {
+                flex: 1.2;
+                padding: 10px;
+                margin-right: 20px;
+                text-align:justify;
+            }
+            .title {
+                order:-1;
+                display: flex;
+                MARGIN-TOP:5PX;
+                justify-content: space-between;
+                align-items: center;
+                text-align: center;
+                font-size: 18px; 
+            }
+            @media screen and (max-width: 800px) {
+                .content {
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: flex-start;
+                }
+                .image {
+                    order:1;
+                    flex:1;
+                    margin: 0;
+                }
+                .text {
+                    order:2;
+                    flex:1;
+                    margin: 0;
+                }
+            }
         </style>
     </head>
 <body>
@@ -46,6 +103,26 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 
 <BR>
 
+<div class="container">
+    <div class="title">
+        <P><a href="https://book.douban.com/subject/36218458/"><b>内容简介</b></a></P>
+    </div>
+    <div class="content">
+        <div class="image">
+            <img src="https://m.media-amazon.com/images/I/71UfwQkzXCL._SL1436_.jpg" height=260px alt="开始养黑猫了封面">
+        </div>
+        <div class="text">
+            <p>暴风雨之夜，「死亡」造访了这个家庭……两个极为相似的死亡现场中隐藏着怎样的真相？！<br> 12年前，箕轮家的长子·要，在自己的房间里喝下毒咖啡自杀。虽然找到了一张写有“遗书”二字的信纸，但其内容却是一片空白。12年后的祭日，在家人们再度相聚的暴风雨之夜，这次是父亲在自己的房间内离世，旁边放着疑似有毒的咖啡和白纸遗书——与箕轮要死亡时相同的情况……<br> 已有「<a href="https://www.douban.com/note/848086601/?_i=1097697rKyl-MY,1775914rKyl-MY"><b>三津田信三 · 独居的母亲</b></a>」丨「<a href="https://www.douban.com/note/848086250/?_i=1097990rKyl-MY,1775926rKyl-MY"><b>青崎有吾 · 直到厌倦</b></a>」丨「<a href="https://www.douban.com/note/845714063/?_i=1097403rKyl-MY,1775990rKyl-MY"><b>纸城境介 · 灰中同学答应替我保密</b></a>」。</p>
+            <br>
+        </div>
+    </div>
+</div>
+
+
+<BR>
+
+<BR>
+
 ## 杉山幌·然后我找到了黑猫 <i class="fa-solid fa-paw"></i> 
 
 <HR>
@@ -57,17 +134,17 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 
 事情的经过是这样的。
 
-昨晚11点过后，我结束了在综合大楼里的一家居酒屋的打工，从小门往回走。虽然雨不大，但我得骑自行车回家，所以心里多少有些不爽。我朝员工停车场的方向小跑着，但在那前面的垃圾场中发现了一个装着小小只黑猫的纸箱。
+昨晚11点刚过，我结束了在综合大楼里一家居酒屋的打工，从小门往外走。虽然雨不大，但得骑自行车回家的我多少有些不开心。我朝员工停车场的方向小跑着，但在停车场前面的垃圾箱附近发现了一个装在纸箱里的小小只黑猫。
 
-我与从纸箱里仰望的黑猫四目相对。
+从纸箱里探出头来的黑猫与我四目相对。
 
-我环顾四周。在综合大楼后的狭窄巷子里，除了我，看不见别人的身影。
+我环顾四周。综合大楼后身的狭窄巷子里，除我之外再无他人。
 
-我果然不能就这样无视它。虽然我只是个大学生，但我同时也在一个名为“喵之桥”的协助流浪猫领养的猫协中担任志愿者。
+我果然不能就这样无视它。虽然我只是个大学生，但我同时也在一个名为“<ruby>喵之桥<rt>にゃんブリッジ</rt></ruby>”的帮助领养流浪猫的协会中担任志愿者。
 
-我试着抱起装着黑猫的纸箱。它还是只小猫，身体也很瘦弱，但所幸没怎么被雨淋到，只是稍有濡湿。它戴着一个装饰着小饰品的项圈，看起来像是手工制作的。它应该原本是一只家猫吧。而前饲主处于各种原因没法接着养它了。
+我试着抱起装着黑猫的纸箱。它还是只小猫，身体也很瘦弱，但所幸没怎么被雨淋到，只是稍有濡湿。它戴着一个装饰着小饰品的项圈，看起来像是手工制作的。应该原本是一只家猫吧，而前饲主处于各种原因没法接着养它了。
 
-再次和黑猫对视的时候，我深信这就是命运的安排，立刻将学生宿舍禁止养宠物的规定抛之脑后。宿舍里不乏偷偷养着鹦鹉或热带鱼的学生。就算万一出了什么问题，向“喵之桥”求助就好了。
+再次和黑猫对视的时候，我感受到了命运的存在，立刻将学生宿舍禁止饲养宠物的规定抛之脑后。宿舍里不乏偷偷养着鹦鹉或热带鱼的学生。就算真出了什么问题，向“喵之桥”求助就好了。
 
 就这样，我把黑猫放进自行车车筐里，骑车回了宿舍。
 
