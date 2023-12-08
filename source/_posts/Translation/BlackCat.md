@@ -5,7 +5,7 @@ tags: [翻译,推理小说,短篇]
 categories: [翻译,推理小说]
 description: 本文为超短篇小说集<a href="https://book.douban.com/subject/36218458/"><b>「黒猫を飼い始めた」</b></a>中部分作品的翻译。翻译仅供学习交流，禁止用于商业用途。
 copyright: true
-top_img: https://img.tree-novel.com/talk/4df7f75a70e654f65965d30d1bd93743.jpg
+top_img: https://m.media-amazon.com/images/I/71UfwQkzXCL._SL1436_.jpg
 cover: https://m.media-amazon.com/images/I/71UfwQkzXCL._SL1436_.jpg
 copyright_author: CHJY
 copyright_author_href: https://www.douban.com/people/CHJY2000/notes?_i=2247840rKyl-MY
