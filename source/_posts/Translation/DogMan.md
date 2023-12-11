@@ -1,5 +1,5 @@
 ---
-title: 「民翻」Dog Man·白井智之
+title: 「翻译」Dog Man·白井智之
 date: 2023-10-20
 tags: [翻译,推理小说,短篇]
 categories: [翻译,推理小说]
