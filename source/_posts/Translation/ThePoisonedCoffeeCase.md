@@ -18,6 +18,9 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
         <style>
             @import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Shippori+Mincho+B1:wght@600&display=swap');
             /* 设置链接的样式 */
+            p {
+                text-align:justify;
+            }
             p a {
                 text-decoration: none;
                 text-decoration-line: none;
@@ -28,6 +31,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
             .pextra {
                 font-family: "STSong";
                 color: Black;
+                text-align:justify;
             }
             CENTER {
                 font-size: 27PX;
