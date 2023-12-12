@@ -30,6 +30,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
             .pextra {
                 font-family: "STSong";
                 color: Black;
+                text-align:justify;
             }
             CENTER {
                 font-size: 27PX;
