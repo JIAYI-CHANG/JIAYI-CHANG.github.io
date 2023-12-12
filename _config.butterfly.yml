@@ -607,16 +607,16 @@ site_verification:
 # Theme color for customize
 theme_color:
   enable: true
-  main: "#C0C0C0"
-  paginator: "#e3e3e3"
-  button_hover: "#e3e3e3"
-  text_selection: "#ffc100"
-  link_color: "#3e3e3e"
-  meta_color: "#3e3e3e"
-  hr_color: "#A4D8FA"
+  main: "#60281E"
+  paginator: "#884A39"
+  button_hover: "#884A39"
+  text_selection: "#884A39"
+  link_color: "#884A39"
+  meta_color: "#3E3E3E"
+  hr_color: "#ffc100"
   code_foreground: "#F47466"
   code_background: "rgba(246, 241, 241, .05)"
-  toc_color: "#e3e3e3"
+  toc_color: "#60281E"
   blockquote_padding_color: "#d4d4d4"
   blockquote_background_color: "#e3e3e3"
   scrollbar_color: "#e3e3e3"
@@ -850,7 +850,7 @@ aplayerInject:
 snackbar:
   enable: false
   position: bottom-left
-  bg_light: '#49b1f5' # The background color of Toast Notification in light mode
+  bg_light: '#60281E' # The background color of Toast Notification in light mode
   bg_dark: '#1f1f1f' # The background color of Toast Notification in dark mode
 
 # https://instant.page/
