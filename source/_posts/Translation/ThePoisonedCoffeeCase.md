@@ -120,6 +120,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 <BR>
 
 > 本文为<a href="https://book.douban.com/subject/36459448/"><b>「毒入りコーヒー事件」</b></a>的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
+> <a href="https://github.com/JIAYI-CHANG/JIAYI-CHANG.github.io/raw/main/source/Attachment/File/%E6%AF%92%E5%92%96%E5%95%A1%E4%BA%8B%E4%BB%B6%C2%B7%E6%9C%9D%E6%B0%B8%E7%90%86%E4%BA%BA.epub" download>Epub文件下载链接</a>
 
 <BR>
 
