@@ -303,7 +303,7 @@ QED？啊啊《QED》啊，与《Mystery Magazine》和《EQ》齐名的专业�
 <br>
 
 
-<img src="../../Attachment/Translation/ClockHouse.jpg" height=260px alt="时钟馆平面图">
+<img src="../../Attachment/Translation/ClockHouse.jpg" height=260px alt="时钟馆平面图" id="clockHouse">
 
 ### 1
 
@@ -312,5 +312,7 @@ QED？啊啊《QED》啊，与《Mystery Magazine》和《EQ》齐名的专业�
 时钟馆。
 
 它像一座孤岛，漂浮在名为东京的混凝土海洋中。
+
+
 
 </div>
