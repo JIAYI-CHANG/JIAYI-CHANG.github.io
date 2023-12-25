@@ -220,7 +220,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 
 “我是QED的××。”
 
-QED？啊——《QED》啊，与《Mystery Magazine》和《EQ》齐名的专业推理杂志。
+QED？啊啊《QED》啊，与《Mystery Magazine》和《EQ》齐名的专业推理杂志。
 
 “我是贵刊的忠实读者。”
 
