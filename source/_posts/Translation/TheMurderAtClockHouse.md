@@ -10,7 +10,7 @@ cover: https://m.media-amazon.com/images/I/51a1d1WFw2L.jpg
 copyright_author: CHJY
 copyright_author_href: https://www.douban.com/people/CHJY2000/notes?_i=2247840rKyl-MY
 copyright_url: https://www.HereisCHJY.blog/Translation/TheMurderAtClockHouse
-copyright_info: 原文版权归作者与出版社所有，本文仅供学习交流，禁止用于商业用途。
+copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交流，转载请注明出处，禁止用于商业用途。
 ---
 
 <html>
@@ -194,7 +194,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 
 <BR>
 
-> 本文为<a href="https://book.douban.com/subject/10809297/"><b>「<ruby>時鐘<rt>とけい</rt></ruby>館の殺人」</b></a>标题作的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
+> 本文为<a href="https://book.douban.com/subject/10809297/"><b>「<ruby>時鐘<rt>とけい</rt></ruby>館の殺人」</b></a>标题作的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，转载请注明出处，禁止用于商业用途。
 
 <BR>
 
