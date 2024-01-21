@@ -607,16 +607,16 @@ site_verification:
 # Theme color for customize
 theme_color:
   enable: true
-  main: "#60281E"
-  paginator: "#884A39"
-  button_hover: "#884A39"
-  text_selection: "#884A39"
-  link_color: "#884A39"
+  main: "#6D8B74"
+  paginator: "#5F7161"
+  button_hover: "#5F7161"
+  text_selection: "#5F7161"
+  link_color: "#5F7161"
   meta_color: "#3E3E3E"
   hr_color: "#ffc100"
   code_foreground: "#F47466"
   code_background: "rgba(246, 241, 241, .05)"
-  toc_color: "#60281E"
+  toc_color: "#5F7161"
   blockquote_padding_color: "#d4d4d4"
   blockquote_background_color: "#e3e3e3"
   scrollbar_color: "#e3e3e3"
