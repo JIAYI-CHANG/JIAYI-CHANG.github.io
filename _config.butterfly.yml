@@ -607,7 +607,7 @@ site_verification:
 # Theme color for customize
 theme_color:
   enable: true
-  main: "#6D8B74"
+  main: "#5F7161"
   paginator: "#5F7161"
   button_hover: "#5F7161"
   text_selection: "#5F7161"
