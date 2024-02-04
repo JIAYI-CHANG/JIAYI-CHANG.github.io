@@ -76,7 +76,7 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                 background-image: linear-gradient(#FFF9D4 1px, transparent 0), linear-gradient(90deg, #FFFFFF 1px, transparent 0);
                 background-size: 21px 21px, 21px 21px;
                 background-position: center;
-                font-family: 'Ma Shan Zheng', cursive;
+                font-family: 'Ma Shan Zheng';
                 font-size:18PX;
                 border: .0px solid rgba(0, 0, 0,.05);
                 box-sizing: border-box;
@@ -503,7 +503,7 @@ X号室的住户是梶叶子。她刚搬来不到三个月，可以说是最新�
 
 <br>
 
-<div class="bg-blank">亲爱的野间君：<br>&nbsp; &nbsp; &nbsp; &nbsp;我一页稿子都没能写出来。明明在电话里说了那样的大话，现在实在无颜面对你。请原谅我的任性“消失”。以防万一，我特此声明一下，目前在这座宅邸里的人都不是协助我“消失”的帮手。当他们知道我“消失”了的时候，恐怕会比你还要吃惊。<br>&nbsp; &nbsp; &nbsp; &nbsp; 另外，我打算从正门玄关处堂堂正正地离开。我安顿好后自会通知你，不要引起轩然大波。<br><br><p style="text-align:right">傍晚六时三十五分</p></div>
+<div class="bg-blank">亲爱的野间君：<br>&nbsp; &nbsp; &nbsp; &nbsp;我一页稿子都没能写出来。明明在电话里说了那样的大话，现在实在无颜面对你。请原谅我的任性“消失”。以防万一，我特此声明一下，目前在这座宅邸里的人都不是协助我“消失”的帮手。当他们知道我“消失”了的时候，恐怕会比你还要吃惊。<br>&nbsp; &nbsp; &nbsp; &nbsp; 另外，我打算从正门玄关处堂堂正正地离开。我安顿好后自会通知你，不要引起轩然大波。<br><p style="text-align:right">傍晚六时三十五分</p></div>
 
 <br>
 
@@ -1252,6 +1252,17 @@ X号室的住户是梶叶子。她刚搬来不到三个月，可以说是最新�
 我又读了一遍这个“纪念”。
 
 内容如下：
+
+<br>
+
+<div class="bg-grid">
+    <div class="centera">来自读者的挑战书</div>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;今邑老师的《时钟馆事件》问题篇中存在一个重大失误。有趣的是，这个极易被忽视的小错误将会完全颠覆既有情节。杀死大楠润也的真凶另有其人。
+    <br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;那个失误是什么？看穿这个失误后所浮现出的真凶又是谁？我恳切希望作者能为我们推理一番。并且，我希望贵刊能够将这个推理以小说的形式刊载于○月刊或△月刊之中。
+    <br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;另外，为了证明贵刊未将挑战书束之高阁，切望贵刊能将此信刊载于本月的《读者之页》上。<br><div style="text-align: right;">K市 山浦亚巳<br></div>
+</div>
 
 <br>
 </div>
