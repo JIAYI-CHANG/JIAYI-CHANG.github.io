@@ -1261,7 +1261,7 @@ X号室的住户是梶叶子。她刚搬来不到三个月，可以说是最新�
     <br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;那个失误是什么？看穿这个失误后所浮现出的真凶又是谁？我恳切希望作者能为我们推理一番。并且，我希望贵刊能够将这个推理以小说的形式刊载于○月刊或△月刊之中。
     <br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;另外，为了证明贵刊未将挑战书束之高阁，切望贵刊能将此信刊载于本月的《读者之页》上。<br><div style="text-align: right;">K市 山浦亚巳<br></div>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;另外，为了证明贵刊未将挑战书束之高阁，切望贵刊能将此信刊载于本月的《读者之页》上。<br><div style="text-align: right;">K市 山浦亚巳<br><br></div>
 </div>
 
 <br>
