@@ -72,6 +72,8 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                 height: auto;
                 padding: 10px;
                 padding-top: 20px;
+                padding-left: 30px;
+                padding-right: 30px;
                 background-color: hsla(60, 100%, 95%, 0.2);
                 background-image: linear-gradient(#FFF9D4 1px, transparent 0), linear-gradient(90deg, #FFFFFF 1px, transparent 0);
                 background-size: 21px 21px, 21px 21px;
