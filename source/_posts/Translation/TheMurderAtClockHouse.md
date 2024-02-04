@@ -32,6 +32,11 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                 color: Black;
                 text-align:justify;
             }
+            .pextra2 {
+                color: Black;
+                text-align:justify;
+                text-indent: 20px;
+            }
             CENTER {
                 font-size: 27PX;
                 font-style: bold;
@@ -1405,9 +1410,13 @@ X号室的住户是梶叶子。她刚搬来不到三个月，可以说是最新�
 
 <BR>
 
+<div class="pextra2">
+
 我一边想着这些有的没的，一边漫不经心地拿起打火机。就在这时，背后的门“吱嘎”一声打开了。
 
 走廊里那不准的时钟嘎吱嘎吱地发出了“咚——”的一声。
+
+</div>
 
 <br>
 <hr>
