@@ -40,7 +40,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 <body>
 
 
-<center> 『ドッグマン』（白井智之·2023）</center>
+<center> 『ドッグマン』（白井智之 · 2023）</center>
 <HR>
 
 <BR>
