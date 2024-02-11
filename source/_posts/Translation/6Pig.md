@@ -402,7 +402,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 
 就这样，早乙女端着的盘子上，摆放着一整块漂亮的炸猪排。而桌上剩下的炸猪排则是一塌糊涂，活像一个缺了牙的糊涂老爷爷。（参见图1）
 
-<img src="../../Attachment/Translation/5pig-1.png" height=360px alt="五块炸猪排图一" id="pig">
+<img src="../../Attachment/Translation/5pig-1.png" height=360px alt="五块炸猪排·图一" id="pig">
 
 早乙女冲我会心一笑，说道：
 
