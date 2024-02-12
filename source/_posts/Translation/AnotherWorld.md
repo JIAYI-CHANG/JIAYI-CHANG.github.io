@@ -3,7 +3,7 @@ title: 「翻译」异世界系·名仓编
 date: 2024-02-12
 tags: [翻译,推理小说,长篇]
 categories: [翻译,推理小说]
-description: 本文为第58回梅菲斯特赏受赏作<a href="https://book.douban.com/subject/30257831/"><b>「異セカイ系」</b></a>的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
+description: 本文为第58回梅菲斯特赏受赏作<a href="https://book.douban.com/subject/30257831/"><b>「異セカイ系」</b></a>的翻译。翻译仅供学习交流，禁止用于商业用途。
 copyright: true
 top_img: https://cv.bkmkn.kodansha.co.jp/9784065125557/9784065125557_w.jpg
 cover: https://cv.bkmkn.kodansha.co.jp/9784065125557/9784065125557_w.jpg
