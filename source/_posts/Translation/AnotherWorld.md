@@ -5,8 +5,8 @@ tags: [翻译,推理小说,长篇]
 categories: [翻译,推理小说]
 description: 本文为第58回梅菲斯特赏受赏作<a href="https://book.douban.com/subject/30257831/"><b>「異セカイ系」</b></a>的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
 copyright: true
-top_img: https://img2.doubanio.com/view/subject/l/public/s29854201.jpg
-cover: https://m.media-amazon.com/images/I/71M8C5TVAgL._SL1500_.jpg
+top_img: https://cv.bkmkn.kodansha.co.jp/9784065125557/9784065125557_w.jpg
+cover: https://cv.bkmkn.kodansha.co.jp/9784065125557/9784065125557_w.jpg
 copyright_author: CHJY
 copyright_author_href: https://www.douban.com/people/CHJY2000/notes?_i=2247840rKyl-MY
 copyright_url: https://www.HereisCHJY.blog/Translation/AnotherWorld
