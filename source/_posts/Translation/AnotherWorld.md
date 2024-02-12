@@ -195,7 +195,7 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 <body>
 
 
-<center> 『時鐘館の殺人』（今邑彩 · 1993）</center>
+<center> 『異セカイ系』（名倉編・2018）</center>
 
 <HR>
 

@@ -97,7 +97,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 <body>
 
 
-<center> 『六枚のとんかつ』（蘇部健一 · 1997）</center>
+<center> 『六枚のとんかつ』（蘇部健一・1997）</center>
 <HR>
 
 <BR>
