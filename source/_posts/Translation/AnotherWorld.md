@@ -20,6 +20,9 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
             p {
                 text-align:justify;
             }
+            b {
+                color: Black;
+            }
             p a {
                 text-decoration: none;
                 text-decoration-line: none;
