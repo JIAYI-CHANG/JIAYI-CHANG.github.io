@@ -21,6 +21,9 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
             p {
                 text-align:justify;
             }
+            b {
+                color: Black;
+            }
             p a {
                 text-decoration: none;
                 text-decoration-line: none;
@@ -115,7 +118,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 <body>
 
 
-<center> 『毒入りコーヒー事件』（朝永理人 · 2023）</center>
+<center> 『毒入りコーヒー事件』（朝永理人・2023）</center>
 <HR>
 <BR>
 
