@@ -207,11 +207,11 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 
 <div class="container">
     <div class="title">
-        <P><a href="https://book.douban.com/subject/10809297/"><b>内容简介</b></a></P>
+        <P><a href="https://book.douban.com/subject/30257831/"><b>内容简介</b></a></P>
     </div>
     <div class="content">
         <div class="image">
-            <img src="https://img2.doubanio.com/view/subject/l/public/s29854201.jpg" height=260px alt="时钟馆事件封面">
+            <img src="https://cv.bkmkn.kodansha.co.jp/9784065125557/9784065125557_w.jpg" height=260px alt="时钟馆事件封面">
         </div>
         <div class="text">
             <p></p>
