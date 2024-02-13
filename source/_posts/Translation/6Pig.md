@@ -15,7 +15,6 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 <html>
     <head>
         <style>
-            @import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Shippori+Mincho+B1:wght@600&display=swap');
             p {
                 text-align:justify;
             }

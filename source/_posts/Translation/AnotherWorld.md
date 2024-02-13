@@ -214,7 +214,7 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
     </div>
     <div class="content">
         <div class="image">
-            <img src="https://m.media-amazon.com/images/I/71M8C5TVAgL._SL1500_.jpg" height=260px alt="时钟馆事件封面">
+            <img src="https://cv.bkmkn.kodansha.co.jp/9784065125557/9784065125557_w.jpg" height=260px alt="异世界系封面">
         </div>
         <div class="text">
             <p>作者（おれ）が、きみもセカイも救ってみせる。
