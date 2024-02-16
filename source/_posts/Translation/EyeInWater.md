@@ -28,6 +28,11 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
                 text-decoration-style: none;
                 border-bottom: 2px solid #e3e3e3;
             }
+            .pextra {
+                font-family: "STSong";
+                color: Black;
+                text-align:justify;
+            }
             center {
                 font-size: 27PX;
                 font-style: bold;
@@ -36,46 +41,6 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
             hr {
                 border: none; /* 移除默认的边框样式 */
                 border-top: 2.5px dashed #E3E3E3; /* 设置上边框为1像素的虚线，颜色为黑色 */
-            }
-            .container {
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-                justify-content: space-between;
-                width: AUTO;
-                background-color: transparent;
-                border: .01px solid rgba(0, 0, 0,.05);
-                box-sizing: border-box;
-                box-shadow: 10px 10px 7.5px rgba(0, 0, 0,.1);
-                padding-bottom:0px;
-                padding-top:15px;
-             }
-            .content {
-                display: flex;
-            }
-            .image {
-                flex: 0.4;
-                display: flex;
-                align-items: center;
-                justify-content: space-between;
-                margin-left: 15px;
-                margin-right: 15px;
-                margin-top: -12px;
-            }
-            .text {
-                flex: 1.2;
-                padding: 10px;
-                margin-right: 20px;
-                text-align:justify;
-            }
-            .title {
-                order:-1;
-                display: flex;
-                MARGIN-TOP:5PX;
-                justify-content: space-between;
-                align-items: center;
-                text-align: center;
-                font-size: 18px; 
             }
             @media screen and (max-width: 800px) {
                 .content {
@@ -107,6 +72,8 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 > 本文为<a href="https://book.douban.com/subject/36706706/"><b>「紙魚の手帖 vol.15 FEBRUARY 2024」</b></a>中「眼球は水の中」一文的翻译。版权归作者与出版社所有。翻译仅供学习交流，禁止用于商业用途。
 
 <BR>
+
+<div class="pextra">
 
 盲眼的米罗能够视物。做出此番告发的人是画家西野虹子（41岁）的儿时玩伴A子女士。
 
