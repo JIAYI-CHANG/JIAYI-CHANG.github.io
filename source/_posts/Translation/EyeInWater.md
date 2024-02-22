@@ -1480,7 +1480,7 @@ SNS上最初流传的，声称西野虹子是在活着的时候被剜去眼球�
 
 但在这种情况下，C也是雨谷小姐的眼镜，也就是说A、B、C三种镜片都有可能属于雨谷小姐。在这种情况下，雨谷小姐精心打扮的时候会佩戴A与B两种镜片，除此之外则只在单眼上佩戴C镜片。”
 
-<img src="https://s2.loli.net/2024/02/22/8lPgIJnLqYh9pfo.png" height=280px alt=水中的眼球·图2></a>
+<img src="https://s2.loli.net/2024/02/22/8lPgIJnLqYh9pfo.png" height=320px alt=水中的眼球·图2></a>
 
 影山在便签本上补充好三种组合，将其转向彩。
 
