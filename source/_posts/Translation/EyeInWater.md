@@ -1488,7 +1488,7 @@ SNS上最初流传的，声称西野虹子是在活着的时候被剜去眼球�
 
 <br>
 
-<img src="https://s2.loli.net/2024/02/22/8lPgIJnLqYh9pfo.png"alt=水中的眼球·图2></a>
+<img src="https://s2.loli.net/2024/02/22/8lPgIJnLqYh9pfo.png"　alt=水中的眼球·图2></a>
 
 <br>
 
