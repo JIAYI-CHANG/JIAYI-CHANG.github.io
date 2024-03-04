@@ -230,7 +230,7 @@ aside:
     button:
       enable: false
       icon: fas fa-map-pin
-      text: Location：Dalian, China
+      text: Location：Tokyo, Japan
       link: 
   card_announcement:
     enable: false
