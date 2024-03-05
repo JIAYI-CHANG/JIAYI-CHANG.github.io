@@ -405,7 +405,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 
 就这样，早乙女端着的盘子上，摆放着一整块漂亮的炸猪排。而桌上剩下的炸猪排则是一塌糊涂，活像一个缺了牙的糊涂老爷爷。（参见图1）
 
-<img src="../../Attachment/Translation/5pig-1.png" height=360px alt="五块炸猪排·图1" id="pig">
+<img src="https://s2.loli.net/2024/03/05/RxJGKAaTVI84fgX.png" height=360px alt=五块炸猪排·图1></a>
 
 早乙女冲我会心一笑，说道：
 
@@ -477,7 +477,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 
 我将从远端数第二份炸猪排最右边的那块放到离我最远的炸猪排的右侧。然后，将从远端数第三份炸猪排的右边两块移动到第二份的右侧。同样地，将第四份炸猪排右边的三块移动到第三份的右侧。最后，将离我最近的炸猪排的右边那四块移动到第四份炸猪排的右侧。（参见图2）
 
-<img src="../../Attachment/Translation/5pig-2.png" height=400px alt="五块炸猪排·图2" id="pig">
+<img src="https://s2.loli.net/2024/03/05/fnldDq2IG6rKgRY.png" height=400px alt=五块炸猪排·图2></a>
 
 “好了，完成了。”
 
