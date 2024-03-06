@@ -28,15 +28,11 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
                 text-decoration-style: none;
                 border-bottom: 2px solid #e3e3e3;
             }
-            .pextra {
-                font-family: "STSong";
-                color: Black;
-                text-align:justify;
-            }
             center {
-                font-size: 27PX;
+                font-size: 20PX;
                 font-style: bold;
-                font-family: 'Shippori Mincho B1', serif;
+                color: Black;
+                font-family: 'STSONG', serif;
             }
             hr {
                 border: none; /* 移除默认的边框样式 */
@@ -81,6 +77,33 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
                 align-items: center;
                 text-align: center;
                 font-size: 18px; 
+            }
+            .bg-blank {
+                position: relative;
+                height: auto;
+                padding: 10px;
+                padding-top: 20px;
+                padding-left: 50px;
+                padding-right: 50px;
+                background-color: white;
+                background-image: white;
+                background-size: 21px 21px, 21px 21px;
+                background-position: center;
+                font-family: 'STSONG';
+                font-size:15px;
+                border: .25px solid rgba(0, 0, 0,.05);
+                box-sizing: border-box;
+                box-shadow: 10px 10px 15px rgba(0, 0, 0,.1);
+                text-align:justify;
+            }
+            .bg-blank:before {
+                top: 0;
+                width: 30px;
+            }
+            .bg-blank:after {
+                top: 26px;
+                width: 50px;
+                border-radius: 50%;
             }
             @media screen and (max-width: 800px) {
                 .content {
@@ -880,6 +903,40 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 那、那是……
 
 “我、我明白了！！”
+
+<br>
+
+<div class="bg-blank">
+    <center>「给读者的挑战书」</center><br>
+    我在此向各位读者提出挑战。<BR>
+    杀害Y社长的犯人究竟是谁？他又是如何做到的？<BR>
+    当然，解决这个案子所需要的全部数据都已经摆在大家面前了。<BR>
+    话虽如此，我想，大部分读者在第二章的提示出现之前，就已经轻轻松松地解开了案件之谜吧......<BR>
+    <br>
+    那么，你们可能已经注意到了，我的这篇小说受到了岛田庄司先生《占星术杀人魔法》一书的启发。可以说，这篇小说中的诡计，就是《占星术杀人魔法》诡计的不在场证明版。只是，名侦探御手洗洁是通过一个被撕坏的○○解开了事件之谜，而本篇小说的主角，也就是我，是通过炸猪排发现了犯人的不在场证明诡计。
+    <br>
+    好了，行文至此，您应该明白了吧。想必不存在尚未意识到犯人构建的不在场证明诡计的读者了罢。<br><br>
+</div>
+
+<br>
+
+### 3
+
+“我、我明白了！！”
+
+早乙女被我的喊声吓得虎躯一震。
+
+“怎、怎么了，前辈！？到底发生了什么？”
+
+“我知道了！摧毁六兄弟不在场证明的方法。”
+
+“您说什么？找到了摧毁他们不在场证明的方法！？”
+
+“啊，是啊，我找到了。这样啊，原来是这么一回事啊，炸猪排它，炸猪排就是雪地摩托啊！！”
+
+“您说什么？炸猪排是雪地摩托！？”
+
+早乙女抬高了声音。
 
 <hr>
 
