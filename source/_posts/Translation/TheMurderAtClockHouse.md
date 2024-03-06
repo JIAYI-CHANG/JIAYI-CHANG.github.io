@@ -343,7 +343,7 @@ QED？啊啊《QED》啊，与《Mystery Magazine》和《EQ》齐名的专业�
 <br>
 
 
-<img src="../../Attachment/Translation/ClockHouse.jpg" height=260px alt="时钟馆平面图" id="clockHouse">
+<img src="https://s2.loli.net/2024/03/06/HM4vNCcokAsySX2.jpg" height=260px alt="时钟馆平面图" id="clockHouse">
 
 ### 1
 
