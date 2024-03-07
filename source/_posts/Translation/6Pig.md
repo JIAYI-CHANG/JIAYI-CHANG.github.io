@@ -121,6 +121,24 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
                     flex:1;
                     margin: 0;
                 }
+                .bg-blank {
+                position: relative;
+                height: auto;
+                padding: 10px;
+                padding-top: 20px;
+                padding-left: 10px;
+                padding-right: 10px;
+                background-color: white;
+                background-image: white;
+                background-size: 21px 21px, 21px 21px;
+                background-position: center;
+                font-family: 'STSONG';
+                font-size:15px;
+                border: .25px solid rgba(0, 0, 0,.05);
+                box-sizing: border-box;
+                box-shadow: 10px 10px 15px rgba(0, 0, 0,.1);
+                text-align:justify;
+            }
             }
         </style>
     </head>
