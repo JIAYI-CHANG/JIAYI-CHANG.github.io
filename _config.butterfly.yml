@@ -76,6 +76,7 @@ category_img:
 # format:
 #  - category name: xxxxx
 category_per_img:
+  翻译: https://media.newyorker.com/photos/5b982007fe41f16c1071ea61/16:9/w_4543,h_2555,c_limit/NBA-Translation-2018.jpg
 
 cover:
   # display the cover or not (是否顯示文章封面)
@@ -230,7 +231,7 @@ aside:
     button:
       enable: false
       icon: fas fa-map-pin
-      text: Location：Tokyo, Japan
+      text:
       link: 
   card_announcement:
     enable: false
@@ -629,8 +630,8 @@ index_top_img_height:
 # The user interface setting of category and tag page (category和tag頁的UI設置)
 # index - same as Homepage UI (index 值代表 UI將與首頁的UI一樣)
 # default - same as archives UI 默認跟archives頁面UI一樣
-category_ui: # 留空或 index
-tag_ui: # 留空或 index
+category_ui: "index" # 留空或 index
+tag_ui: "index" # 留空或 index
 
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
