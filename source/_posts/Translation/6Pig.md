@@ -994,7 +994,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 
 “诶？我从桌上拿走了六块，三十六减六等于三十，剩下的就是三十块。因为一份炸猪排是六块，三十除以六等于五，所以剩下五份炸猪排呗。”
 
-“对，就是这样！<html><span class="dots">所以实际上五份炸猪排就够了</span></html>！<html><span class="dots">不</span></html>，<html><span class="dots">是五辆雪地摩托就够了</span></html>！！”
+“对，就是这样！<html><span class="dots">所以实际上五份炸猪排就够了</span></html>！<html><span class="dots">不</span></html>，<html><span class="dots">是五辆雪地摩托车就够了</span></html>！！”
 
 “诶——！？”
 
