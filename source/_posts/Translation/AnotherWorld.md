@@ -245,7 +245,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 }
                 .tooltip .tooltiptext {
                     position: fixed;
-                    top: 50%;
+                    top: 30%;
                     left: 50%;
                     min-height:75PX;
                 }
