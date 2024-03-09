@@ -185,7 +185,7 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                 background-color: #17242C;
                 color: #fff;
                 font-family: "STSong";
-                text-align: left;
+                text-align: justify;
                 font-size: 13PX;
                 border-radius: 6px;
                 padding: 5px 0;
@@ -230,7 +230,6 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                     margin: 0;
                 }
                 .tooltip {
-                    display: none;
                     position: absolute;
                     background-color: black;
                     color: white;
@@ -238,31 +237,22 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                     border-radius: 5px;
                     font-size: 12px;
                 }
-                document.addEventListener('DOMContentLoaded', function() {
-                    var links = document.querySelectorAll('.tooltip-link');
-                    links.forEach(function(link) {
-                        link.addEventListener('click', function(e) {
+                <script>
+                    document.addEventListener("DOMContentLoaded", function() {
+                        var link = document.getElementById("myLink");
+                        var tooltip = document.getElementById("tooltip");
+                        function toggleTooltip(e) {
+                            // 阻止默认行为，包括链接跳转和触摸事件的默认操作
                             e.preventDefault();
-                    var tooltip = document.querySelector('.tooltip') || document.createElement('div');
-                        tooltip.className = 'tooltip';
-                        tooltip.style.display = 'block';
-                        tooltip.textContent = link.getAttribute('data-tooltip');
-                    var rect = link.getBoundingClientRect();
-                        tooltip.style.top = rect.bottom + 'px';
-                        tooltip.style.left = rect.left + 'px';
-                document.body.appendChild(tooltip);
-                });
-                });
-                document.addEventListener('click', function(e) {
-                    if (!e.target.classList.contains('tooltip-link')) {
-                        var tooltip = document.querySelector('.tooltip');
-                        if (tooltip) {
-                            tooltip.style.display = 'none';
+                            // 显示或隐藏注释
+                            tooltip.style.display = tooltip.style.display === "none" ? "block" : "none";
                         }
-                    }
-                });
-                });
-            }
+                        // 监听点击事件
+                        link.addEventListener("click", toggleTooltip);
+                        // 监听触摸事件，为了更好的移动设备兼容性
+                        link.addEventListener("touchstart", toggleTooltip);
+                    });
+                </script>
         </style>
     </head>
 <body>
