@@ -246,10 +246,11 @@ document.addEventListener("DOMContentLoaded", function() {
                 .tooltip .tooltiptext {
                     position: fixed;
                     top: 50%;
+                    left: 50%;
+                    min-height:75PX;
                 }
                 .tooltip .tooltiptext::after {
                     display: none;
-                    left: 50%;
                 }           
         </style>
     </head>
