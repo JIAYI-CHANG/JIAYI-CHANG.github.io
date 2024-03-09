@@ -229,6 +229,39 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                     flex:1;
                     margin: 0;
                 }
+                .tooltip {
+                    display: none;
+                    position: absolute;
+                    background-color: black;
+                    color: white;
+                    padding: 5px;
+                    border-radius: 5px;
+                    font-size: 12px;
+                }
+                document.addEventListener('DOMContentLoaded', function() {
+                    var links = document.querySelectorAll('.tooltip-link');
+                    links.forEach(function(link) {
+                        link.addEventListener('click', function(e) {
+                            e.preventDefault();
+                    var tooltip = document.querySelector('.tooltip') || document.createElement('div');
+                        tooltip.className = 'tooltip';
+                        tooltip.style.display = 'block';
+                        tooltip.textContent = link.getAttribute('data-tooltip');
+                    var rect = link.getBoundingClientRect();
+                        tooltip.style.top = rect.bottom + 'px';
+                        tooltip.style.left = rect.left + 'px';
+                document.body.appendChild(tooltip);
+                });
+                });
+                document.addEventListener('click', function(e) {
+                    if (!e.target.classList.contains('tooltip-link')) {
+                        var tooltip = document.querySelector('.tooltip');
+                        if (tooltip) {
+                            tooltip.style.display = 'none';
+                        }
+                    }
+                });
+                });
             }
         </style>
     </head>
@@ -288,7 +321,12 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 
 哈—— 睡了睡了。之后的明天再写。呼。被窝好舒服。嗯。然后明天是……啊完了。明天要打工。啊啊。不想去啊。做不来啊。对咱来说。打工什么的。做不到啊。完全做不到啊。佐布岛啊<a href="#" class="tooltip"><sup>[1-1]</sup><span class="tooltiptext">原文为「絶対むり。むりすぎ。フリスビー。」フリスビー(直译是飞盘)和むりすぎ发音类似。</span></a>。哈啊好困好困。上次面包厂那位因为咱迟到了就把倒垃圾的活儿推给咱的大叔可真是。明明咱对气味很敏感啊真的是。
 
-
+<br>
+<br>
+<br>
 <br>
 
+
+
+<br>
 <HR>
