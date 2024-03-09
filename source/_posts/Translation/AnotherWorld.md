@@ -28,7 +28,6 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                 text-decoration-line: none;
                 text-decoration-color: none;
                 text-decoration-style: none;
-                border-bottom: 2px solid #e3e3e3;
             }
             .pextra {
                 font-family: "STSong";
@@ -176,6 +175,44 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                 text-align: center;
                 font-size: 18px; 
             }
+            .tooltip {
+                position: relative;
+                display: inline-block;
+            }
+            .tooltip .tooltiptext {
+                visibility: hidden;
+                width: 300px;
+                background-color: #17242C;
+                color: #fff;
+                font-family: "STSong";
+                text-align: left;
+                font-size: 13PX;
+                border-radius: 6px;
+                padding: 5px 0;
+                position: absolute;
+                z-index: 1;
+                bottom: 100%;
+                left: 50%;
+                margin-left: -60px;
+                padding-left: 15px;
+                padding-right: 10px;
+                opacity: 0;
+                transition: opacity 0.3s;
+            }
+            .tooltip .tooltiptext::after {
+                content: " ";
+                position: absolute;
+                top: 100%; /* At the bottom of the tooltip */
+                left: 50%;
+                margin-left: -5px;
+                border-width: 5px;
+                border-style: solid;
+                border-color: black transparent transparent transparent;
+            }
+            .tooltip:hover .tooltiptext {
+                visibility: visible;
+                opacity: 1;
+            }
             @media screen and (max-width: 1200px) {
                 .content {
                     flex-direction: column;
@@ -227,27 +264,30 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 
 <BR>
 
-# 第1章 异世界
+## 第1章 异世界
 
 <HR>
 
-## 第1话 写吧小说在网上
+### 第1话 写吧小说在网上
 
 <br>
 
 哦吼
 
-<br>
-
 好可爱
 
-<br>
+超级赞呀这句台词！ 什么情况。好可爱。好可爱。这个好可爱。
 
-超级赞啊这句台词！ 什么情况。好可爱。好可爱。这个好可爱。
+哦吼！ 超赞呀！ 这个展开！ 果然咱是天才？ 这一话绝对会受欢迎哇。回收前一话的伏笔再来一个咚————！ 再就是这句台词。伤感得恰到好处。超级赞呀。
 
-<br>
+不愧是咱 ———————————————— 完稿提交砰。
+好嘞本周份大功告成！
+这次真不赖。点赞数肯定会蹭蹭蹭上去。吼吼。真不愧是。咱。
 
-哦吼！ 超赞啊！ 这个展开！ 果然我是天才？ 这一话绝对会受欢迎。回收前一话的伏笔再来一个咚———！ 再就是这句台词。恰到好处的伤感。超级赞。
+心急如焚地点击浏览器的“刷新”键。F5也按一下。刷新。《<ruby>卧龙转生<rt>がりょうてんせい</rt></ruby>》最新话界面。但。毫无反应。嗯毕竟是深夜。没招嘞。没招嘞。……果然还是再按一次F5啪！有评论了！果然！<ruby>帕拉黎<rt>パラリ</rt></ruby>佬一如既往地快！给他的评论点个赞。真是感恩不尽哇。
+
+哈—— 睡了睡了。之后的明天再写。呼。被窝好舒服。嗯。然后明天是……啊完了。明天要打工。啊啊。不想去啊。做不来啊。对咱来说。打工什么的。做不到啊。完全做不到啊。佐布岛啊<a href="#" class="tooltip"><sup>[1-1]</sup><span class="tooltiptext">原文为「絶対むり。むりすぎ。フリスビー。」フリスビー(直译是飞盘)和むりすぎ发音类似。</span></a>。哈啊好困好困。上次面包厂那位因为咱迟到了就把倒垃圾的活儿推给咱的大叔可真是。明明咱对气味很敏感啊真的是。
+
 
 <br>
 
