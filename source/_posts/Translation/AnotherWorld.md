@@ -12,7 +12,24 @@ copyright_author_href: https://www.douban.com/people/CHJY2000/notes?_i=2247840rK
 copyright_url: https://www.HereisCHJY.blog/Translation/AnotherWorld
 copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交流，转载请注明出处，禁止用于商业用途。
 ---
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var link = document.getElementById("myLink");
+    var tooltip = document.getElementById("tooltip");
 
+    link.addEventListener("click", function(e) {
+        // 阻止链接默认行为
+        e.preventDefault();
+        // 显示或隐藏注释
+        if(tooltip.style.display === "none") {
+            tooltip.style.display = "block";
+            // 可以在这里添加定位逻辑，使tooltip出现在链接附近
+        } else {
+            tooltip.style.display = "none";
+        }
+    });
+});
+</script>
 <html>
     <head>
         <style>
@@ -229,30 +246,14 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                     flex:1;
                     margin: 0;
                 }
-                .tooltip {
+                #tooltip {
+                    border: 1px solid #ddd;
+                    background-color: #f7f7f7;
+                    padding: 10px;
+                    display: none; /* 默认不显示，将通过JS控制显示 */
                     position: absolute;
-                    background-color: black;
-                    color: white;
-                    padding: 5px;
-                    border-radius: 5px;
-                    font-size: 12px;
+                    z-index: 1000;
                 }
-                <script>
-                    document.addEventListener("DOMContentLoaded", function() {
-                        var link = document.getElementById("myLink");
-                        var tooltip = document.getElementById("tooltip");
-                        function toggleTooltip(e) {
-                            // 阻止默认行为，包括链接跳转和触摸事件的默认操作
-                            e.preventDefault();
-                            // 显示或隐藏注释
-                            tooltip.style.display = tooltip.style.display === "none" ? "block" : "none";
-                        }
-                        // 监听点击事件
-                        link.addEventListener("click", toggleTooltip);
-                        // 监听触摸事件，为了更好的移动设备兼容性
-                        link.addEventListener("touchstart", toggleTooltip);
-                    });
-                </script>
         </style>
     </head>
 <body>
@@ -310,6 +311,10 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 心急如焚地点击浏览器的“刷新”键。F5也按一下。刷新。《<ruby>卧龙转生<rt>がりょうてんせい</rt></ruby>》最新话界面。但。毫无反应。嗯毕竟是深夜。没招嘞。没招嘞。……果然还是再按一次F5啪！有评论了！果然！<ruby>帕拉黎<rt>パラリ</rt></ruby>佬一如既往地快！给他的评论点个赞。真是感恩不尽哇。
 
 哈—— 睡了睡了。之后的明天再写。呼。被窝好舒服。嗯。然后明天是……啊完了。明天要打工。啊啊。不想去啊。做不来啊。对咱来说。打工什么的。做不到啊。完全做不到啊。佐布岛啊<a href="#" class="tooltip"><sup>[1-1]</sup><span class="tooltiptext">原文为「絶対むり。むりすぎ。フリスビー。」フリスビー(直译是飞盘)和むりすぎ发音类似。</span></a>。哈啊好困好困。上次面包厂那位因为咱迟到了就把倒垃圾的活儿推给咱的大叔可真是。明明咱对气味很敏感啊真的是。
+
+<a href="javascript:void(0);" id="myLink"><sup>1-1</sup></a>
+<div id="tooltip" style="display:none;">原文为絶対むり。むりすぎ。フリスビー。算是谐音梗</div>
+
 
 <br>
 <br>
