@@ -18,12 +18,9 @@ document.addEventListener("DOMContentLoaded", function() {
     var tooltip = document.getElementById("tooltip");
 
     link.addEventListener("click", function(e) {
-        // 阻止链接默认行为
         e.preventDefault();
-        // 显示或隐藏注释
         if(tooltip.style.display === "none") {
             tooltip.style.display = "block";
-            // 可以在这里添加定位逻辑，使tooltip出现在链接附近
         } else {
             tooltip.style.display = "none";
         }
@@ -198,39 +195,39 @@ document.addEventListener("DOMContentLoaded", function() {
             }
             .tooltip .tooltiptext {
                 visibility: hidden;
-                width: 300px;
+                min-width:350PX;
+                max-width: 500px;
                 background-color: #17242C;
                 color: #fff;
                 font-family: "STSong";
-                text-align: justify;
-                font-size: 13PX;
-                border-radius: 6px;
-                padding: 5px 0;
+                text-align: center;
+                font-size: 13px;
+                border-radius: 10px;
+                padding: 5px 15px;
                 position: absolute;
                 z-index: 1;
                 bottom: 100%;
                 left: 50%;
-                margin-left: -60px;
-                padding-left: 15px;
-                padding-right: 10px;
-                opacity: 0;
+                transform: translateX(-50%); /* 使用transform来居中 */
+                opacity: 0.5;
                 transition: opacity 0.3s;
             }
             .tooltip .tooltiptext::after {
                 content: " ";
                 position: absolute;
-                top: 100%; /* At the bottom of the tooltip */
+                top: 100%;
                 left: 50%;
-                margin-left: -5px;
+                margin-left: 0px;
                 border-width: 5px;
                 border-style: solid;
-                border-color: black transparent transparent transparent;
+                border-color: #17242C transparent transparent transparent;
+                transform: translateX(-50%);
             }
             .tooltip:hover .tooltiptext {
                 visibility: visible;
-                opacity: 1;
+                opacity: 0.9;
             }
-            @media screen and (max-width: 1200px) {
+            @media screen and (max-width: 1000px) {
                 .content {
                     flex-direction: column;
                     align-items: center;
@@ -246,14 +243,14 @@ document.addEventListener("DOMContentLoaded", function() {
                     flex:1;
                     margin: 0;
                 }
-                #tooltip {
-                    border: 1px solid #ddd;
-                    background-color: #f7f7f7;
-                    padding: 10px;
-                    display: none; /* 默认不显示，将通过JS控制显示 */
-                    position: absolute;
-                    z-index: 1000;
+                .tooltip .tooltiptext {
+                    position: fixed;
+                    top: 50%;
                 }
+                .tooltip .tooltiptext::after {
+                    display: none;
+                    left: 50%;
+                }           
         </style>
     </head>
 <body>
@@ -310,7 +307,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 心急如焚地点击浏览器的“刷新”键。F5也按一下。刷新。《<ruby>卧龙转生<rt>がりょうてんせい</rt></ruby>》最新话界面。但。毫无反应。嗯毕竟是深夜。没招嘞。没招嘞。……果然还是再按一次F5啪！有评论了！果然！<ruby>帕拉黎<rt>パラリ</rt></ruby>佬一如既往地快！给他的评论点个赞。真是感恩不尽哇。
 
-哈—— 睡了睡了。之后的明天再写。呼。被窝好舒服。嗯。然后明天是……啊完了。明天要打工。啊啊。不想去啊。做不来啊。对咱来说。打工什么的。做不到啊。完全做不到啊。佐布岛啊<a href="javascript:void(0);" class="tooltip"><sup>[1]</sup><span class="tooltiptext">原文为「絶対むり。むりすぎ。フリスビー。」フリスビー(直译是飞盘)和むりすぎ发音类似。</span></a>。哈啊好困好困。上次面包厂那位因为咱迟到了就把倒垃圾的活儿推给咱的大叔可真是。明明咱对气味很敏感啊真的是。
+哈—— 睡了睡了。之后的明天再写。呼。被窝好舒服。嗯。然后明天是……啊完了。明天要打工。啊啊。不想去啊。做不来啊。对咱来说。打工什么的。做不到啊。完全做不到啊。佐布岛啊<a href="javascript:void(0);" class="tooltip"><sup>[1]</sup><span class="tooltiptext">原文为「絶対むり。むりすぎ。フリスビー。」フリスビー(直译是飞盘)和むりすぎ发音类似。</span></a>。哈啊好困好困。上次面包厂<a href="javascript:void(0);" class="tooltip"><sup>[1]</sup><span class="tooltiptext">原文为「絶対むり。むりすぎ。フリスビー。」フリスビー(直译是飞盘)和むりすぎ发音类似。</span></a>那位因为咱迟到了就把倒垃圾的活儿推给咱的大叔可真是。明明咱对气味很敏感啊真的是。
 
 
 <br>
