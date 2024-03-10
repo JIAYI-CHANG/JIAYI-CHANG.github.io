@@ -1536,6 +1536,8 @@ SNS上最初流传的，声称西野虹子是在活着的时候被剜去眼球�
 “感激不尽。”
 
 <br>
+<center><HR style="FILTER: alpha(opacity=1,finishopacity=O,style=3)" width="25%" color=#E3E3E3 SIZE=3></center>
+<br>
 
 在这栋公寓中发现的金户真奈子小姐的遗体，不仅脖子上存在勒痕，同时左右眼均被挖去。六本木三丁目地区前天也发生了一起男性被杀案件，居民们的不安情绪正日益蔓延——
 
