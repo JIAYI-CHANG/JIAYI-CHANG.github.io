@@ -611,7 +611,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 “哈喵！？ 您。您在说什么啊榊铭大人？”
 
-“呀。咱啥都妹说。”
+“<b>呀。咱啥都妹说。</b>”
 
 “咱啥都妹说？”
 
@@ -662,4 +662,10 @@ document.addEventListener("DOMContentLoaded", function() {
 一切都太迟了。
 
 <br>
+
+## 第2话 真不想被迷之黑暗吞进去啊
 <HR>
+
+<hr>
+
+龟速翻译中……。
