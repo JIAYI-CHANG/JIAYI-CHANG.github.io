@@ -269,12 +269,14 @@ document.addEventListener("DOMContentLoaded", function() {
     </div>
     <div class="content">
         <div class="image">
-            <img src="https://m.media-amazon.com/images/I/51a1d1WFw2L.jpg" height=260px alt="时钟馆事件封面">
+            <img src="https://m.media-amazon.com/images/I/712acjY36OL._SL1424_.jpg" height=260px alt="叙述性诡计短篇集封面">
         </div>
         <div class="text">
-            <p>集结了包括作家、评论家在内的推理爱好者寄宿舍——时钟馆。在截稿日前夕，年迈的推理小说家留下“我一页稿子都没能写出来。请原谅我的任性‘消失’”这样一封信后便杳无踪影。翌日清晨，他的尸体被发现藏于雪人之中……这群推理宅会如何展开华丽而严谨的推理？
-             本文为短篇小说集《时钟馆事件》标题作，另收录「<a href="https://www.douban.com/note/851063386/?_i=8456568Sh6fRcN,8800039rKyl-MY"><b>行尸杀人事件</b></a>」·「<a href="https://www.douban.com/note/851062371/?_i=8455486Sh6fRcN,8800378rKyl-MY"><b>黑白的反转</b></a>」·「<a href="https://www.douban.com/group/topic/94158122/?_i=8455005Sh6fRcN,8800400rKyl-MY"><b>邻家杀人事件</b></a>」·「<a href="https://www.douban.com/note/856022725/?_i=0218283rKyl-MY"><b>那孩子乃何人</b></a>」·「<a href="https://www.douban.com/note/851061997/?_i=8455207Sh6fRcN,8800453rKyl-MY"><b>恋人啊</b></a>」5篇作品。<br><br> 如无特殊说明，本文中的注释均为<b>作者注</b>。</p>
+            <p>
+             本文为《叙述性诡计短篇集》中的部分作品，已有「<b>２・背靠背的恋人</b><a href="https://www.jianshu.com/p/c0780af53a72"><b>（上）</b></a><a href="https://www.jianshu.com/p/7346a4291fb5"><b>（下）</b></a>」・「<a href="https://www.douban.com/note/784163293/"><b>３・被关起来的三人和两人</b></a>」两篇民翻。<br><br> 如无特殊说明，本文中的注释均为<b>作者注</b>。</p>
             <br>
         </div>
     </div>
 </div>
+
+## １・好好冲厕所之神
