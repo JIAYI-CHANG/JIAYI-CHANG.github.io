@@ -219,7 +219,7 @@ footer:
 aside:
   enable: true
   hide: false
-  button: true
+  button: false
   mobile: true # display on mobile
   position: left # left or right
   display:
@@ -235,7 +235,7 @@ aside:
       text:
       link: 
   card_announcement:
-    enable: true
+    enable: false
     content: 
   card_recent_post:
     enable: true
