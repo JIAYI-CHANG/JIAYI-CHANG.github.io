@@ -235,7 +235,7 @@ aside:
       text:
       link: 
   card_announcement:
-    enable: false
+    enable: true
     content: This is my Blog
   card_recent_post:
     enable: true
@@ -659,7 +659,7 @@ enter_transitions: true
 activate_power_mode:
   enable: false
   colorful: true # open particle animation (冒光特效)
-  shake: true #  open shake (抖動特效)
+  shake: false #  open shake (抖動特效)
   mobile: false
 
 # Background effects (背景特效)
