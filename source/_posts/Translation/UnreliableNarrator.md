@@ -1,15 +1,15 @@
 ---
-title: 「翻译」异世界系·名仓编
-date: 2024-03-09
-tags: [翻译,推理小说,长篇]
+title: 「翻译」叙述性诡计短篇集·似鸟鸡
+date: 2024-03-11
+tags: [翻译,推理小说,短篇]
 categories: [翻译,推理小说]
-description: 本文为第58回梅菲斯特赏受赏作<a href="https://book.douban.com/subject/30257831/"><b>「異セカイ系」</b></a>的翻译。翻译仅供学习交流，禁止用于商业用途。
+description: 本文为<a href="https://book.douban.com/subject/30299990/">「叙述トリック短編集」</a>中部分作品的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
 copyright: true
-top_img: https://cv.bkmkn.kodansha.co.jp/9784065125557/9784065125557_w.jpg
-cover: https://cv.bkmkn.kodansha.co.jp/9784065125557/9784065125557_w.jpg
+top_img: https://m.media-amazon.com/images/I/81HSCLhLCEL._SL1500_.jpg
+cover: https://m.media-amazon.com/images/I/81HSCLhLCEL._SL1500_.jpg
 copyright_author: CHJY
 copyright_author_href: https://www.douban.com/people/CHJY2000/notes
-copyright_url: https://www.HereisCHJY.blog/Translation/AnotherWorld
+copyright_url: https://www.HereisCHJY.blog/Translation/UnreliableNarrator
 copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交流，转载请注明出处，禁止用于商业用途。
 ---
 <script>

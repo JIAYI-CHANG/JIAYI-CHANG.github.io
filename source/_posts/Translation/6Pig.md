@@ -8,7 +8,7 @@ copyright: true
 top_img: https://cdn.sbfoods.co.jp/recipes/09713_l.jpg
 cover: https://m.media-amazon.com/images/I/81LFIjOAlpL._SL1500_.jpg
 copyright_author: CHJY
-copyright_author_href: https://www.douban.com/people/CHJY2000/notes?_i=2247840rKyl-MY
+copyright_author_href: https://www.douban.com/people/CHJY2000/notes
 copyright_url: https://www.HereisCHJY.blog/Translation/6Pig
 copyright_info: 原文版权归作者与出版社所有，本文仅供学习交流，禁止用于商业用途。
 ---

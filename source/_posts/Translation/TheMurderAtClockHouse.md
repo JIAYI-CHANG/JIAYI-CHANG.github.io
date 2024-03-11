@@ -8,7 +8,7 @@ copyright: true
 top_img: ../../Attachment/Translation/ClockHouseTop.jpg
 cover: https://m.media-amazon.com/images/I/91qeGgdqrML._SL1500_.jpg
 copyright_author: CHJY
-copyright_author_href: https://www.douban.com/people/CHJY2000/notes?_i=2247840rKyl-MY
+copyright_author_href: https://www.douban.com/people/CHJY2000/notes
 copyright_url: https://www.HereisCHJY.blog/Translation/TheMurderAtClockHouse
 copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交流，转载请注明出处，禁止用于商业用途。
 ---
