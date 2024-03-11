@@ -9,7 +9,7 @@ top_img: https://m.media-amazon.com/images/I/81HSCLhLCEL._SL1500_.jpg
 cover: https://m.media-amazon.com/images/I/81HSCLhLCEL._SL1500_.jpg
 copyright_author: CHJY
 copyright_author_href: https://www.douban.com/people/CHJY2000/notes
-copyright_url: https://www.HereisCHJY.blog/Translation/UnreliableNarrator
+copyright_url: https://www.HereisCHJY.blog/Translation/KeiNitadoriIsUnreliableNarrator
 copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交流，转载请注明出处，禁止用于商业用途。
 ---
 <script>
@@ -288,5 +288,3 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 <hr>
-
-《好好冲厕所之神》翻译中…… 预计3月22日更新。
