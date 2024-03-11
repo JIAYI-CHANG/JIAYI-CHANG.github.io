@@ -273,10 +273,15 @@ document.addEventListener("DOMContentLoaded", function() {
         </div>
         <div class="text">
             <p>
-             本文为《叙述性诡计短篇集》中的部分作品，已有「<b>２・背靠背的恋人</b><a href="https://www.jianshu.com/p/c0780af53a72"><b>（上）</b></a><a href="https://www.jianshu.com/p/7346a4291fb5"><b>（下）</b></a>」・「<a href="https://www.douban.com/note/784163293/"><b>３・被关起来的三人和两人</b></a>」两篇民翻。<br><br> 如无特殊说明，本文中的注释均为<b>作者注</b>。</p>
+             本文为《叙述性诡计短篇集》中的部分作品，已有「<b>2 背靠背的恋人</b><a href="https://www.jianshu.com/p/c0780af53a72"><b>（上）</b></a><a href="https://www.jianshu.com/p/7346a4291fb5"><b>（下）</b></a>」・「<a href="https://www.douban.com/note/784163293/"><b>3 被关起来的三人和两人</b></a>」两篇民翻。<br><br> 如无特殊说明，本文中的注释均为<b>作者注</b>。</p>
             <br>
         </div>
     </div>
 </div>
 
-## １・好好冲厕所之神
+
+<BR>
+
+## 1 好好冲厕所之神
+<HR>
+
