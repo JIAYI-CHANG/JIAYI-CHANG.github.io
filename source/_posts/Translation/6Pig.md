@@ -940,7 +940,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 <br>
 
 <div class="bg-blank">
-    <div class="centera">「给读者的挑战书」</div><br>
+    <div class="centera">「致读者的挑战书」</div><br>
     我在此向各位读者提出挑战。<BR>
     杀害Y社长的犯人究竟是谁？他又是如何做到的？<BR>
     当然，解决这个案子所需要的全部数据都已经摆在大家面前了。<BR>
