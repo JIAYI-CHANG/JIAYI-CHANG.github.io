@@ -300,6 +300,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
 心急如焚地点击浏览器的“刷新”键。F5也按一下。刷新。《<ruby>卧龙转生<rt>がりょうてんせい</rt></ruby>》最新话界面。但。毫无反应。嗯毕竟是深夜。没招嘞。没招嘞。……果然还是再按一次F5啪！有评论了！果然！<ruby>帕拉黎<rt>パラリ</rt></ruby>佬一如既往地快！给他的评论点个赞。真是感恩不尽。
 
+<img src="https://s2.loli.net/2024/03/13/wE1O39tzXxuSUF8.gif" class="overlay-image" alt="">
+
 <br>
 
 哈—— 睡了睡了。之后的明天再写。呼。被窝超舒服。嗯。然后明天是……啊完了。明天要打工。啊啊。不想去啊。做不来啊。对咱来说。打工什么的。做不到啊。完全做不到啊。佐布岛啊<a href="javascript:void(0);" class="tooltip"><sup>[1]</sup><span class="tooltiptext">原文为「絶対むり。むりすぎ。フリスビー。」フリスビー（直译是飞盘）和むりすぎ发音类似。</span></a>。哈—— 好困好困。上次面包厂那位因为咱迟到了就把倒垃圾的活儿推给咱的大叔可真是。明明咱对气味很敏感啊真的是。
@@ -326,6 +328,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <br>
 
 唔唔。
+
 这样啊。早上了啊。知道了。起来了。不行好困——。再睡会。
 
 “哥哥！早上了哦！”
