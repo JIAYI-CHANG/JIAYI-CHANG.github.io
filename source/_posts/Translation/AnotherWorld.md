@@ -48,11 +48,6 @@ document.addEventListener("DOMContentLoaded", function() {
                 color: Black;
                 text-align:justify;
             }
-            .pextra2 {
-                color: Black;
-                text-align:justify;
-                padding-left: 30px;
-            }
             CENTER {
                 font-size: 27PX;
                 font-style: bold;
@@ -61,10 +56,6 @@ document.addEventListener("DOMContentLoaded", function() {
             hr {
                 border: none; /* 移除默认的边框样式 */
                 border-top: 2.5px dashed #E3E3E3; /* 设置上边框为1像素的虚线，颜色为黑色 */
-            }
-            .hhr {
-                border: none; /* 移除默认的边框样式 */
-                border-bottom: 2.5px dashed #E3E3E3; /* 设置上边框为1像素的虚线，颜色为黑色 */
             }
             .centera{
                 font-size: 22PX;
@@ -299,8 +290,6 @@ document.addEventListener("DOMContentLoaded", function() {
 这次真不赖。点赞数肯定会蹭蹭蹭上去。吼吼。真不愧是。咱。
 
 心急如焚地点击浏览器的“刷新”键。F5也按一下。刷新。《<ruby>卧龙转生<rt>がりょうてんせい</rt></ruby>》最新话界面。但。毫无反应。嗯毕竟是深夜。没招嘞。没招嘞。……果然还是再按一次F5啪！有评论了！果然！<ruby>帕拉黎<rt>パラリ</rt></ruby>佬一如既往地快！给他的评论点个赞。真是感恩不尽。
-
-<img src="https://s2.loli.net/2024/03/13/wE1O39tzXxuSUF8.gif" class="overlay-image" alt="">
 
 <br>
 
