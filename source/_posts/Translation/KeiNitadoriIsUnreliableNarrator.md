@@ -265,7 +265,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <div class="container">
     <div class="title">
-        <P><a href="https://book.douban.com/subject/10809297/"><b>内容简介</b></a></P>
+        <P><a href="https://book.douban.com/subject/30299990/"><b>内容简介</b></a></P>
     </div>
     <div class="content">
         <div class="image">
@@ -273,7 +273,7 @@ document.addEventListener("DOMContentLoaded", function() {
         </div>
         <div class="text">
             <p>
-             本文为《叙述性诡计短篇集》中的部分作品，已有「<b>2 背靠背的恋人</b><a href="https://www.jianshu.com/p/c0780af53a72"><b>(上)</b></a><a href="https://www.jianshu.com/p/7346a4291fb5"><b> (下)</b></a>」・「<a href="https://www.douban.com/note/784163293/"><b>3 被关起来的三人和两人</b></a>」两篇民翻。<br><br> 如无特殊说明，本文注释均为<b>作者注</b>。</p>
+             本文为《叙述性诡计短篇集》中的部分作品，已有「<a href="https://www.douban.com/note/860201946/"><b>0 致读者的挑战状</b></a>」「<b>2 背靠背的恋人</b><a href="https://www.jianshu.com/p/c0780af53a72"><b>(上)</b></a><a href="https://www.jianshu.com/p/7346a4291fb5"><b> (下)</b></a>」・「<a href="https://www.douban.com/note/784163293/"><b>3 被关起来的三人和两人</b></a>」两篇民翻。<br><br> 如无特殊说明，本文注释均为<b>作者注</b>。</p>
             <br>
         </div>
     </div>
