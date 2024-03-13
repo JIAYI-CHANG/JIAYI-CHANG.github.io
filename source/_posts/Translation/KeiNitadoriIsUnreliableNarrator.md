@@ -286,7 +286,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <p id="footnote1-1">*1 准确来说不是蒲公英而是菊花。<a href="#context1-1">&#8203;&hookleftarrow;&#8203;</a><p>
     <p id="footnote1-2">*2 。<a href="#context1-2"><b>&hookleftarrow;</b></a><p>
     <p id="footnote1-3">*2 。<a href="#context1-3"><b>↩</b></a><p>
-    <p id="footnote1-4">*2 。<a href="#context1-4">↩</a><p>
+    <p id="footnote1-4">*2 。<a href="#context1-4">↑</a><p>
 </div>
 
 <hr>
