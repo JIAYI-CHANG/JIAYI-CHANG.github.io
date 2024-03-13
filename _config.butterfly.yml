@@ -154,7 +154,7 @@ toc:
   number: false
   expand: true
   style_simple: true # for post
-  scroll_percent: true
+  scroll_percent: false
 
 post_copyright:
   enable: true
