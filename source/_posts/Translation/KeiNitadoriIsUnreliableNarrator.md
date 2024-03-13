@@ -41,11 +41,10 @@ document.addEventListener("DOMContentLoaded", function() {
                 text-decoration-style: none;
             }
             .pextra {
-                text-indent:2em;
                 font-family: "STSong";
                 font-size:14px;
                 color: Black;
-                text-align:justify;
+                padding-left:30px;
             }
             CENTER {
                 font-size: 27PX;
@@ -280,11 +279,11 @@ document.addEventListener("DOMContentLoaded", function() {
 ## 「1」好好冲厕所之神
 <HR>
 
-我一直觉得，将英文中的"God"翻译为日语的“神”可能不太合适。英文中的God所指代的基本上是基督教，即一神教中的唯一神。只要提到神，就是那位全知全能绝对唯一的"The One"之存在。而在日本，据说光是得到了认证的神就有八百万。土地神、水神、牛神、田神、爱神，如果只把这些重要神灵列举出来的话至多也就八百尊，所以想必是存在着诸如“价格标签之神”、“左膝半月板之神”、“摆在生鱼片上的蒲公英<a href="#footnote1-1" id="context1-1" class="tooltip"><sup>*1</sup><span class="tooltiptext">准确来说不是蒲公英而是菊花</span></a>之神”这种更为细致、零碎的神明吧。这样一来，用同一个单词来表达英语圈中的“<ruby>那位存在<rt>God</rt></ruby>”和日本的“神明”，怎么想都觉得有些对前者不敬。怎能将“摆在生鱼片上的蒲公英之神”与全知全能的主相提并论呢。或许本该像圣经一样，将英文中的"God"翻译为“主”，但事到如今为时已晚。一度普及过的词汇很难再改变说法。E电<a href="#footnote1-2" id="context1-2" class="tooltip"><sup>*2</sup><span class="tooltiptext"></span></a>也好、珠穆朗玛峰<a href="#footnote1-3" id="context1-3" class="tooltip"><sup>*1</sup><span class="tooltiptext"></span></a>也好、“妈妈救我”诈骗<a href="#footnote1-4" id="context1-4" class="tooltip"><sup>*1</sup><span class="tooltiptext"></span></a>也好，最终都没能流行起来。
+我一直觉得，将英文中的"God"翻译为日语的“神”可能不太合适。英文中的God所指代的基本上是基督教，即一神教中的唯一神。只要提到神，就是那位全知全能绝对唯一的"The One"之存在。而在日本，据说光是得到了认证的神就有八百万。土地神、水神、牛神、田神、爱神，如果只把这些重要神灵列举出来的话至多也就八百尊，所以想必是存在着诸如“价格标签之神”、“左膝半月板之神”、“摆在生鱼片上的蒲公英<a href="#footnote1-1" id="context1-1" class="tooltip"><sup>*1</sup><span class="tooltiptext">准确来说不是蒲公英而是菊花</span></a>之神”这种更为细致、零碎的神明吧。这样一来，用同一个单词来表达英语圈中的“<ruby>那位存在<rt>God</rt></ruby>”和日本的“神明”，怎么想都觉得有些对前者不敬。怎能将“摆在生鱼片上的蒲公英之神”与全知全能的主相提并论呢。或许本该像圣经一样，将英文中的"God"翻译为“主”，但事到如今为时已晚。一度普及过的词汇很难再改变说法。E电<a href="#footnote1-2" id="context1-2" class="tooltip"><sup>*2</sup><span class="tooltiptext">即JR。在国铁分割・民营化的1987年，作为替代“国电”（国铁的近距离电车）的新称呼登场。虽然该名称由JR东日本公司公开征集决定，但大家最后还是将其称为JR</span></a>也好、珠穆朗玛峰<a href="#footnote1-3" id="context1-3" class="tooltip"><sup>*3</sup><span class="tooltiptext"></span></a>也好、“妈妈救我”诈骗<a href="#footnote1-4" id="context1-4" class="tooltip"><sup>*4</sup><span class="tooltiptext"></span></a>也好，最终都没能流行起来。
 
 <div class="pextra">
     <p id="footnote1-1">*1 准确来说不是蒲公英而是菊花。<a href="#context1-1">↩</a><p>
-    <p id="footnote1-2">*2 。<a href="#context1-2">↩</a><p>
+    <p id="footnote1-2">*2 即JR。在国铁分割・民营化的1987年，作为替代“国电”（国铁的近距离电车）的新称呼登场。虽然该名称由JR东日本公司公开征集决定，但大家最后还是将其称为JR。<a href="#context1-2">↩</a><p>
     <p id="footnote1-3">*3 。<a href="#context1-3">↩</a><p>
     <p id="footnote1-4">*4 。<a href="#context1-4">↩</a><p>
 </div>
