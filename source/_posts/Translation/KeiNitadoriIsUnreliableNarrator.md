@@ -12,21 +12,6 @@ copyright_author_href: https://www.douban.com/people/CHJY2000/notes
 copyright_url: https://www.HereisCHJY.blog/Translation/KeiNitadoriIsUnreliableNarrator
 copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交流，转载请注明出处，禁止用于商业用途。
 ---
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    var link = document.getElementById("myLink");
-    var tooltip = document.getElementById("tooltip");
-
-    link.addEventListener("click", function(e) {
-        e.preventDefault();
-        if(tooltip.style.display === "none") {
-            tooltip.style.display = "block";
-        } else {
-            tooltip.style.display = "none";
-        }
-    });
-});
-</script>
 <html>
     <head>
         <style>

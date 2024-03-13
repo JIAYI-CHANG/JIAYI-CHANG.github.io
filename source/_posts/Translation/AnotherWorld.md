@@ -12,21 +12,6 @@ copyright_author_href: https://www.douban.com/people/CHJY2000/notes
 copyright_url: https://www.HereisCHJY.blog/Translation/AnotherWorld
 copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交流，转载请注明出处，禁止用于商业用途。
 ---
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    var link = document.getElementById("myLink");
-    var tooltip = document.getElementById("tooltip");
-
-    link.addEventListener("click", function(e) {
-        e.preventDefault();
-        if(tooltip.style.display === "none") {
-            tooltip.style.display = "block";
-        } else {
-            tooltip.style.display = "none";
-        }
-    });
-});
-</script>
 <html>
     <head>
         <style>
@@ -45,8 +30,9 @@ document.addEventListener("DOMContentLoaded", function() {
             }
             .pextra {
                 font-family: "STSong";
+                font-size:14px;
                 color: Black;
-                text-align:justify;
+                padding-left:30px;
             }
             CENTER {
                 font-size: 27PX;
@@ -186,17 +172,17 @@ document.addEventListener("DOMContentLoaded", function() {
             }
             .tooltip .tooltiptext {
                 visibility: hidden;
-                min-width:350PX;
+                min-width:320PX;
                 max-width: 500px;
                 background-color: #17242C;
                 color: #fff;
                 font-family: "STSong";
-                text-align: center;
+                text-align: justify;
                 font-size: 13px;
                 border-radius: 10px;
                 padding: 5px 15px;
                 position: absolute;
-                z-index: 1;
+                z-index: 0;
                 bottom: 100%;
                 left: 50%;
                 transform: translateX(-50%); /* 使用transform来居中 */
@@ -235,14 +221,11 @@ document.addEventListener("DOMContentLoaded", function() {
                     margin: 0;
                 }
                 .tooltip .tooltiptext {
-                    position: fixed;
-                    top: 30%;
-                    left: 50%;
-                    min-height:75PX;
+                    display: none;
                 }
                 .tooltip .tooltiptext::after {
                     display: none;
-                }           
+                }              
         </style>
     </head>
 <body>
@@ -293,7 +276,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <br>
 
-哈—— 睡了睡了。之后的明天再写。呼。被窝超舒服。嗯。然后明天是……啊完了。明天要打工。啊啊。不想去啊。做不来啊。对咱来说。打工什么的。做不到啊。完全做不到啊。佐布岛啊<a href="javascript:void(0);" class="tooltip"><sup>[1]</sup><span class="tooltiptext">原文为「絶対むり。むりすぎ。フリスビー。」フリスビー（直译是飞盘）和むりすぎ发音类似。</span></a>。哈—— 好困好困。上次面包厂那位因为咱迟到了就把倒垃圾的活儿推给咱的大叔可真是。明明咱对气味很敏感啊真的是。
+哈—— 睡了睡了。之后的明天再写。呼。被窝超舒服。嗯。然后明天是……啊完了。明天要打工。啊啊。不想去啊。做不来啊。对咱来说。打工什么的。做不到啊。完全做不到啊。佐布岛啊<a href="#footnote1-1" id="context1-1" class="tooltip"><sup>[1]</sup><span class="tooltiptext">原文为「絶対むり。むりすぎ。フリスビー。」フリスビー（直译是飞盘）和むりすぎ发音类似。</span></a>。哈—— 好困好困。上次面包厂那位因为咱迟到了就把倒垃圾的活儿推给咱的大叔可真是。明明咱对气味很敏感啊真的是。
 
 <br>
 <br>
@@ -652,6 +635,15 @@ document.addEventListener("DOMContentLoaded", function() {
 然后陷入绝望。
 
 一切都太迟了。
+
+<br>
+
+<div class="pextra">
+    <p id="footnote1-1">[1] 原文为「絶対むり。むりすぎ。フリスビー。」フリスビー（直译是飞盘）和むりすぎ发音类似。<a href="#context1-1">↩</a><p>
+    <p id="footnote1-2">[2] 即JR。在国铁分割・民营化的1987年，作为替代“国电”（国铁的近距离电车）的新称呼登场。虽然该名称由JR东日本公司公开征集决定，但大家最后还是将其称为JR。<a href="#context1-2">↩</a><p>
+    <p id="footnote1-3">[3] 。<a href="#context1-3">↩</a><p>
+    <p id="footnote1-4">[4] 尽管曾公开征集过“<ruby>是我是我<rt>オレオレ</rt></ruby>诈骗”、“汇款诈骗”的替代名称，但最终仍未确定用词。考虑到此类特殊诈骗并不总是以“妈妈救我”为开场白，没能确定用词或许是件好事。不过，有没有人曾经提出过“太长了谁会用啊”的意见呢。<a href="#context1-4">↩</a><p></ol>
+</div>
 
 <br>
 
