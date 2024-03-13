@@ -188,7 +188,7 @@ document.addEventListener("DOMContentLoaded", function() {
             }
             .tooltip .tooltiptext {
                 visibility: hidden;
-                min-width:300PX;
+                min-width:320PX;
                 max-width: 500px;
                 background-color: #17242C;
                 color: #fff;
