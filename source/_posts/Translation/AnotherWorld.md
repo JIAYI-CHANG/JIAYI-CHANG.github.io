@@ -281,7 +281,7 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 <br>
 <br>
 
-<center><HR style="FILTER: alpha(opacity=1,finishopacity=O,style=3)" width="30%" color=#E3E3E3 SIZE=10></center>
+<center><div style="background:linear-gradient(to left,#FFFFFF,#e3e3e3,#FFFFFF);height:1px;"></div></center>
 
 <br>
 <br>
@@ -525,7 +525,7 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 
 <br>
 <br>
-<center><HR style="FILTER: alpha(opacity=1,finishopacity=O,style=3)" width="30%" color=#E3E3E3 SIZE=10></center>
+<center><div style="background:linear-gradient(to left,#FFFFFF,#e3e3e3,#FFFFFF);height:1px;"></div></center>
 <br>
 <br>
 
