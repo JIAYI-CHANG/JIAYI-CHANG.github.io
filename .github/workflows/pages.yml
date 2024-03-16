@@ -12,13 +12,10 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v2
-      - name: Restore file modification time
-        run: |
-          git ls-files -z | while read -d '' path; do touch -d "$(git log -1 --format="@%ct" "$path")" "$path"; done
-      - name: Use Node.js 18.x
-        uses: actions/setup-node@v2
+      - name: Use Node.js 20.x
+        uses: actions/setup-node@v3
         with:
-          node-version: "18"
+          node-version: "20"
       - name: Cache NPM dependencies
         uses: actions/cache@v2
         with:
