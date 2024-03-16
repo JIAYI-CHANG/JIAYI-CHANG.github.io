@@ -182,7 +182,7 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                 border-radius: 10px;
                 padding: 5px 15px;
                 position: absolute;
-                z-index: 0;
+                z-index: 3;
                 bottom: 100%;
                 left: 50%;
                 transform: translateX(-50%); /* 使用transform来居中 */
