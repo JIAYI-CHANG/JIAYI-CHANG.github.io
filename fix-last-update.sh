@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 export TZ='Asia/Tokyo'
 git ls-files -z | while read -d '' path; do
     if [[ $path == source/_posts/* ]]; then

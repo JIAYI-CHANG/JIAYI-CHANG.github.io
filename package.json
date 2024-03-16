@@ -6,7 +6,6 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "fix-last-update": "./fix-last-update.sh",
     "server": "hexo server"
   },
   "hexo": {
