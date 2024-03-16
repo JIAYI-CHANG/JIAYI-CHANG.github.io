@@ -15,7 +15,6 @@ jobs:
         run: |
           git ls-files -z | while read -d '' path; do touch -d "$(git log -1 --format="@%ct" "$path")" "$path"; done
       - uses: actions/checkout@v2
-        fetch-depth: 0
       - name: Use Node.js 18.x
         uses: actions/setup-node@v2
         with:
