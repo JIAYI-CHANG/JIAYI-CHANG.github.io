@@ -1,7 +1,7 @@
 ---
 title: 「翻译」开始养黑猫了·MRC
 date: 2023-12-08
-updated: 
+updated: 2024-03-15
 tags: [翻译,推理小说,短篇,似鸟鸡]
 categories: [翻译,推理小说]
 description: 本文为超短篇小说集<a href="https://book.douban.com/subject/36218458/"><b>「黒猫を飼い始めた」</b></a>中部分作品的翻译。翻译仅供学习交流，禁止用于商业用途。
