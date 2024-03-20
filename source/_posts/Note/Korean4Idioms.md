@@ -69,7 +69,7 @@ copyright_info: 本文仅供学习交流，转载请注明出处。
         <th></th>
         <td>韩语</td>
         <td>汉字</td>
-        <td>汉语</td>
+        <td>中文</td>
         <td>例句</td>
     </tr>
     <tr>
