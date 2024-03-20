@@ -28,7 +28,7 @@ copyright_info: 本文仅供学习交流，转载请注明出处。
                 border-bottom: 2px solid #e3e3e3;
             }
             center {
-                font-size: 28PX;
+                font-size: 30PX;
                 font-style: bold;
                 font-family: "Song Myung", serif;
             }
@@ -38,7 +38,6 @@ copyright_info: 本文仅供学习交流，转载请注明出处。
             }
             table, th, td {
                 border: none; /* 完全移除边框 */
-                border-collapse: collapse; /* 合并边框，虽然已经移除 */
                 width: 100%；
             }
             td, th {
