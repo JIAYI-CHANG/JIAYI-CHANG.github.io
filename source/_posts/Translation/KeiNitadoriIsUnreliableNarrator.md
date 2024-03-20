@@ -4,7 +4,7 @@ date: 2024-03-11
 updated: 2024-03-20
 tags: [翻译,推理小说,短篇,似鸟鸡]
 categories: [翻译,推理小说]
-description: 本文为<a href="https://book.douban.com/subject/30299990/">「叙述トリック短編集」</a>中部分作品的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
+description: 本文为<a href="https://book.douban.com/subject/30299990/">「叙述トリック短編集」</a>中部分作品的翻译。翻译仅供学习交流，禁止用于商业用途。
 copyright: true
 top_img: https://m.media-amazon.com/images/I/81HSCLhLCEL._SL1500_.jpg
 cover: https://m.media-amazon.com/images/I/81HSCLhLCEL._SL1500_.jpg

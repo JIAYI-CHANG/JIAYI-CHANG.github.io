@@ -4,7 +4,7 @@ date: 2024-03-20
 updated: 2024-03-20
 tags: [韩语,单词]
 categories: [笔记,韩语]
-description: 本文为常见韩语成语40选。根据TalkToMeInKorean的「Essential Korean 4-Character Idioms」整理而成。
+description: 本文为常见韩语成语40选。根据TalkToMeInKorean的讲义「Essential Korean 4-Character Idioms」整理而成。
 copyright: true
 top_img: https://s2.loli.net/2024/03/20/so56PkwOf4i7Zlr.png
 cover: https://s2.loli.net/2024/03/20/so56PkwOf4i7Zlr.png
@@ -35,6 +35,23 @@ copyright_info: 本文仅供学习交流，转载请注明出处。
             hr {
                 border: none; /* 移除默认的边框样式 */
                 border-top: 2.5px dashed #E3E3E3; /* 设置上边框为1像素的虚线，颜色为黑色 */
+            }
+            table, th, td {
+                border: none; /* 完全移除边框 */
+                border-collapse: collapse; /* 合并边框，虽然已经移除 */
+                width: 100%；
+            }
+            td, th {
+                padding: 8px;
+            }
+            tr:first-child {
+                background-color: #e3e3e3; /* 第一行背景色 */
+            }
+            tr:nth-child(odd):not(:first-child) {
+                background-color: #f9f9f9; /* 灰色背景 */
+                border: 0;
+            }
+            tr:nth-child(even) {
             }
             td:nth-child(2), td:nth-child(3) {
                 white-space: nowrap;
