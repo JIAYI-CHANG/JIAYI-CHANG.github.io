@@ -550,6 +550,17 @@ crisp:
   enable: false
   website_id:
 
+# Artitalk
+# see https://artitalk.js.org/
+artitalk:
+  enable: true
+  appId: RjyDanYV9URptixuSKlWfwoc-MdYXbMMI
+  appKey: M2ir4pB5N241nimg9ifuZVxY
+  path: moment
+  js:
+  option:
+  front_matter:
+
 # messenger
 # https://developers.facebook.com/docs/messenger-platform/discovery/facebook-chat-plugin/
 messenger:
