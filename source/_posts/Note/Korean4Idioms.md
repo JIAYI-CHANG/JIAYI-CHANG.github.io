@@ -45,6 +45,7 @@ copyright_info: 本文仅供学习交流，转载请注明出处。
             }
             tr:first-child {
                 background-color: #e3e3e3; /* 第一行背景色 */
+                text-align:center;
             }
             tr:nth-child(odd):not(:first-child) {
                 background-color: #f9f9f9; /* 灰色背景 */
