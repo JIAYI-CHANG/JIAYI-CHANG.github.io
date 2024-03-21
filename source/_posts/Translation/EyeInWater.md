@@ -1,7 +1,7 @@
 ---
 title: 「翻译」水中的眼球·白井智之
 date: 2024-02-14
-updated: 2024-03-11
+updated: 2024-03-21
 tags: [翻译,推理小说,中篇,白井智之]
 categories: [翻译,推理小说]
 description: 本文为<a href="https://book.douban.com/subject/36706706/"><b>「紙魚の手帖 vol.15」</b></a>中「眼球は水の中」一文的翻译。翻译仅供学习交流，禁止用于商业用途。
