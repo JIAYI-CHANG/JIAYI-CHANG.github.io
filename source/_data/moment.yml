@@ -1,23 +1,13 @@
 - class_name: 即刻短文
   moment_number: -1 # -1：显示全部；需填入整数如：10 或 100等
   moment_list:
+    - content: 收到了任天堂的招聘礼物 ♪ 点击下方链接进入任天堂招聘官网，选择右上角的「pre-entry/Logon」，填好个人信息即可。无需简历，点击即送任天堂护照、护照夹与机票（或许是任天堂最稀有周边？）#薅羊毛#日本留学😂 
+      date: 2024/03/22 20:30:00
+      image: 
+      link: https://www.nintendo.co.jp/jobs/recruit/index.html
+      from: 日本・东京
+
     - content: Hello World ♪
       date: 2024/03/22 14:30:50
-
-    - content: iCat
-      date: 2023/03/24 16:54:25
-      link: https://meuicat.com/blog/14/
-
-    - content: 各种观影史集于一体！
-      date: 2023/02/19 14:50:17
-      link: /collect/
-    - content: Hello World ♪
-      date: 2024/03/22 14:30:50
-
-    - content: iCat 新启程
-      date: 2023/03/24 16:54:25
-      link: https://meuicat.com/blog/14/
-
-    - content: 各种观影史集于一体！
-      date: 2023/02/19 14:50:17
-      link: /collect/
+      link: https://meuicat.com/blog/67/
+      from: 日本・东京
