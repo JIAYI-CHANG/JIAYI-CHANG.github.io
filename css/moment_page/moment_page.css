@@ -19,15 +19,16 @@
     width: 100%;
     border: 0.5px solid rgba(0, 0, 0,.1);
     box-sizing: border-box;
-    border-radius: 10px;
+    border-radius: 12px;
     padding: 3rem 1rem 0.9rem;
     display: flex;
     flex-flow: column nowrap;
     justify-content: space-between;
     align-items: flex-start;
     background: transparent;
-    box-shadow: -2.5px -2.5px 2.5px rgba(0, 0, 0,.05);
+    box-shadow: 2.5px 2.5px 0 rgba(0, 0, 0,.05);
     margin-right: 2%;
+    margin-top: 15px;
     animation: slide-in .6s .4s backwards;
   }
   #icat-bber > section > #waterfall > .icat-bber-item {
