@@ -1,6 +1,7 @@
 ---
 title: 「翻译」时钟馆事件·今邑彩
 date: 2023-11-01
+updated: 2024-03-21
 tags: [翻译,推理小说,中篇]
 categories: [翻译,推理小说]
 description: 本文为<a href="https://book.douban.com/subject/10809297/"><b>「時鐘館の殺人」</b></a>标题作的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
@@ -19,9 +20,6 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
             @import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Shippori+Mincho+B1:wght@600&display=swap');
             p {
                 text-align:justify;
-            }
-            b {
-                color: Black;
             }
             p a {
                 text-decoration: none;

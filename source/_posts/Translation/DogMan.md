@@ -1,6 +1,7 @@
 ---
 title: 「翻译」Dog Man·白井智之
 date: 2023-10-20
+updated: 2024-03-18
 tags: [翻译,推理小说,短篇,白井智之]
 categories: [翻译,推理小说]
 description: 本文为ときわ書房限定<a href="https://book.douban.com/subject/36497658/"><b>「エレファントヘッド」</b></a>购入特典的翻译。翻译仅供学习交流，禁止用于商业用途。

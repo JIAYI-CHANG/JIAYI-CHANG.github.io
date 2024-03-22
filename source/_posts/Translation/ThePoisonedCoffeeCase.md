@@ -1,6 +1,7 @@
 ---
 title: 「翻译」毒咖啡事件·朝永理人
 date: 2023-08-17
+updated: 2024-03-21
 tags: [翻译,推理小说,长篇]
 categories: [翻译,推理小说]
 description: 本文为<a href="https://book.douban.com/subject/36459448/"><b>「毒入りコーヒー事件」</b></a>的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
@@ -20,9 +21,6 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
             /* 设置链接的样式 */
             p {
                 text-align:justify;
-            }
-            b {
-                color: Black;
             }
             p a {
                 text-decoration: none;
