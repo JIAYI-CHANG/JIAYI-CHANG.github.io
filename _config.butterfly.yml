@@ -834,7 +834,7 @@ note:
 # It may contain bugs and unstable, give feedback when you find the bugs.
 # https://github.com/MoOx/pjax
 pjax:
-  enable: false
+  enable: true
   exclude:
     # - xxxx
     # - xxxx
@@ -904,9 +904,10 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    - <link rel="stylesheet" href="/css/custom.css">
+    - <link rel="stylesheet" href="/css/moment_page/moment_page.css">
   bottom:
     - <script async data-pjax src="/js/custom.js"></script>
+    - <script async data-pjax src="/js/waterfall/waterfall.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
