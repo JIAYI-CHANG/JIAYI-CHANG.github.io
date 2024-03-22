@@ -1,7 +1,6 @@
 ---
 title: 「笔记」韩语中的四字成语
 date: 2024-03-20
-updated: 2024-03-21
 tags: [韩语,单词]
 categories: [笔记,韩语]
 description: 本文为常见韩语成语40选。根据TalkToMeInKorean的讲义「Essential Korean 4-Character Idioms」整理而成。
