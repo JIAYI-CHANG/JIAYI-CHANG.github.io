@@ -5,7 +5,7 @@ tags: [翻译,推理小说,长篇]
 categories: [翻译,推理小说]
 description: 本文为<a href="https://book.douban.com/subject/36459448/"><b>「毒入りコーヒー事件」</b></a>的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
 copyright: true
-top_img: ../../Attachment/Translation/CoffeeCase.jpg
+top_img: https://s2.loli.net/2024/03/22/BL3fye4uv2GlIgh.jpg
 cover: https://m.media-amazon.com/images/I/81SsaRT9xSL.jpg
 copyright_author: CHJY
 copyright_author_href: https://www.douban.com/people/CHJY2000/notes

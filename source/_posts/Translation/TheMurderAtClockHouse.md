@@ -5,7 +5,7 @@ tags: [翻译,推理小说,中篇]
 categories: [翻译,推理小说]
 description: 本文为<a href="https://book.douban.com/subject/10809297/"><b>「時鐘館の殺人」</b></a>标题作的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
 copyright: true
-top_img: ../../Attachment/Translation/ClockHouseTop.jpg
+top_img: https://s2.loli.net/2024/03/22/BaQkVu68r1ORxNf.jpg
 cover: https://m.media-amazon.com/images/I/91qeGgdqrML._SL1500_.jpg
 copyright_author: CHJY
 copyright_author_href: https://www.douban.com/people/CHJY2000/notes
