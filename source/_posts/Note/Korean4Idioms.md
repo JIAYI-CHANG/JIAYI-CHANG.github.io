@@ -54,8 +54,11 @@ aside: false
             }
             tr:nth-child(even) {
             }
-            td:nth-child(2), td:nth-child(3) {
+            td:nth-child(2), td:nth-child(3), td:nth-child(4) {
                 white-space: nowrap;
+            }
+            td:nth-child(2), td:nth-child(3), td:nth-child(4) {
+                text-align:center;
             }
         </style>
     </head>
@@ -168,7 +171,7 @@ aside: false
         <th>14</th>
         <td>첩첩산중</td>
         <td>疊疊山中</td>
-        <td>层峦叠嶂 <br> 层出不穷</td>
+        <td>层峦叠嶂 <br> [困难]层出不穷</td>
         <td>① 저희 집은 휴대폰도 안 터지는 첩첩산중에 있어요.  <br> ② 길을 잃었는데 기름까지 떨어지다니 정말 첩첩산중이네요.</td>
     </tr>
     <tr>
