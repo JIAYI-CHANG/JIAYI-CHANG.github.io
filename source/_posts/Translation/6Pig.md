@@ -175,7 +175,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
             <img src="https://m.media-amazon.com/images/I/81LFIjOAlpL._SL1500_.jpg" height=240px alt="六块炸猪排封面">
         </div>
         <div class="text">
-            <p> 本文为第3届梅菲斯特赏受赏短篇集<a href="https://book.douban.com/subject/3102168/"><b>「六枚のとんかつ」</b></a>中部分作品的翻译。<br><br> 已有「<a href="https://www.douban.com/note/730954638/"><b> File 3 黄金</b></a>」「<a href="https://www.douban.com/note/501124324/"><b>File 6 潮风17号四十九分钟之壁</b></a>」「<a href="https://www.douban.com/note/860551049"><b>File 11 消失的黑衣女子</b></a>」以及同系列作品「<a href="https://www.douban.com/note/720747134/"><b>最后的事件</b></a>」４篇民翻。</p>
+            <p> 本文为第3届梅菲斯特赏受赏短篇集<a href="https://book.douban.com/subject/3102168/"><b>「六枚のとんかつ」</b></a>中部分作品的翻译。<br><br> 已有「<a href="https://www.douban.com/note/730954638/"><b> File 3 黄金</b></a>」「<a href="https://www.douban.com/note/501124324/"><b>File 6 潮风17号四十九分钟之壁</b></a>」「<a href="https://www.douban.com/note/860578180/"><b>File 9 缺少的东西</b></a>」「<a href="https://www.douban.com/note/860551049"><b>File 11 消失的黑衣女子</b></a>」以及同系列作品「<a href="https://www.douban.com/note/720747134/"><b>最后的事件</b></a>」４篇民翻。</p>
             <br>
         </div>
     </div>
