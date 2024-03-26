@@ -1,7 +1,7 @@
 ---
 title: 「翻译」叙述性诡计短篇集·似鸟鸡
 date: 2024-03-11
-updated: 2024-03-25
+updated: 2024-03-26
 tags: [翻译,推理小说,短篇,似鸟鸡]
 categories: [翻译,推理小说]
 description: 本文为<a href="https://book.douban.com/subject/30299990/">「叙述トリック短編集」</a>中部分作品的翻译。翻译仅供学习交流，禁止用于商业用途。
