@@ -1,7 +1,7 @@
 - class_name: 即刻短文
   moment_number: -1 # -1：显示全部；需填入整数如：10 或 100等
   moment_list:
-    - content: "推荐「Douban Book+」插件♪ 安装后可以从豆瓣图书页面直接跳转到微信读书、安娜的档案、Zlib等多个图书资源平台👍🏻　#安利"
+    - content: "推荐「Douban Book+」插件~ 安装后可以从豆瓣图书页面直接跳转到微信读书、安娜的档案、Zlib等多个图书资源平台 ♪　#安利"
       date: 2024/03/26 19:00:00
       image: 
       link: https://doubanbook.plus/
