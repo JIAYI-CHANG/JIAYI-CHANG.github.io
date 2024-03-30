@@ -241,6 +241,19 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 > 本文为<a href="https://book.douban.com/subject/36769243/">「永劫館超連続殺人事件」</a>的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
 
 ## 登场人物
+ ◇ <ruby>希斯克里夫<rt>Heathcliff</rt></ruby>・<ruby>布拉德伯里<rt>Bradbury</rt></ruby>：布拉德伯里家的长男。时隔三年重返故居“永劫馆”。
+ ◇ <ruby>珂蒂莉亚<rt>Cordelia</rt></ruby>・<ruby>布拉德伯里<rt>Bradbury</rt></ruby>：希斯克里夫的妹妹，坐轮椅的盲眼少女。
+ ◇ <ruby>西奥多<rt>Theodor</rt></ruby>・<ruby>布拉德伯里<rt>Bradbury</rt></ruby>：希斯克里夫的父亲。布拉德伯里家前任家主。已故。
+ ◇ <ruby>夏洛特<rt>Charlotte</rt></ruby>・<ruby>布拉德伯里<rt>Bradbury</rt></ruby>：希斯克里夫的母亲。布拉德伯里家临时家主。已故。
+ ◇ <ruby>爱德华<rt>Edward</rt></ruby>・<ruby>布拉德伯里<rt>Bradbury</rt></ruby>：希斯克里夫的伯父。海运公司的社长。
+ ◇ <ruby>杰斐逊<rt>Jefferson</rt></ruby>・<ruby>布拉德伯里<rt>Bradbury</rt></ruby>：希斯克里夫的堂兄。爱德华之子。
+ ◇ <ruby>凯恩<rt>Cane</rt></ruby>・<ruby>珀特维<rt>Pertwee</rt></ruby>：永劫馆的管家。
+ ◇ <ruby>戈登<rt>Gordon</rt></ruby>・<ruby>康拉德<rt>Conrad</rt></ruby>：永劫馆的厨师。
+ ◇ <ruby>汉娜<rt>Hanna</rt></ruby>・<ruby>富林吉姆<rt>Fullingim</rt></ruby>：永劫馆的女佣。
+ ◇ <ruby>切斯特顿<rt>Chesterton</rt></ruby>：老牧师。古董家具收藏家。
+ ◇ <ruby>贝萨妮<rt>Bethany</rt></ruby>・<ruby>威廉姆斯<rt>Williams</rt></ruby>：考古学家。夏洛特大学时代的朋友。
+ ◇ <ruby>杰罗<rt>Jairo</rt></ruby>・<ruby>戴斯<rt>Dice</rt></ruby>：名侦探。
+ ◇ <ruby>莉莉<rt>Lily</rt></ruby><ruby>茱迪斯<rt>Judith</rt></ruby>・<ruby>艾尔<rt>Air</rt></ruby>：同归于尽的魔女。
 
 ## 〈序〉魔女决定去拜访X
 <HR>
