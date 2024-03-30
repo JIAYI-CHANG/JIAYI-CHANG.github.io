@@ -1,10 +1,10 @@
 - class_name: 即刻短文
   moment_number: -1 # -1：显示全部；需填入整数如：10 或 100等
   moment_list:
-    - content: "大阪的“国立民族学博物馆”很值得一去！"
+    - content: "大阪的「国立民族学博物馆」非常值得一去！"
       date: 2024/03/30 18:30:00
       image: 
-      link: https://www.jreast.co.jp/tickets/info.aspx?txt_keyword=%90%C2%8Ft18&mode=keyw&SearchFlag=1&GoodsCd=2896
+      link: https://www.minpaku.ac.jp/
       from: 日本・大阪　　#随机漫游
 
     - content: "成功利用「青春18」从东京移动到神户，交通费低至115元♪　　路线：駒場東大前（東京）→ 渋谷（東京）→ 茅ヶ崎（神奈川）→ 熱海（静岡）→ 島田（静岡）→ 浜松（静岡）→ 豊橋（愛知）→ 金山（愛知）→ 米原（滋賀）→ 三ノ宮（兵庫）"
