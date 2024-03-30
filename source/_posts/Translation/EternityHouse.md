@@ -240,15 +240,42 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 
 > 本文为<a href="https://book.douban.com/subject/36769243/">「永劫館超連続殺人事件」</a>的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
 
-## 平面图
+<BR>
 
-<img src="https://s2.loli.net/2024/03/30/XyCZcUDweORkfAP.jpg" heigh="AUTO" alt="永劫馆周边图">
+<div class="container">
+    <div class="title">
+        <P><a href="https://book.douban.com/subject/36769243/"><b>内容简介</b></a></P>
+    </div>
+    <div class="content">
+        <div class="image">
+            <img src="https://m.media-amazon.com/images/I/71L3FMRXePL._SL1423_.jpg" height=260px alt="永劫馆超连续杀人事件封面">
+        </div>
+        <div class="text">
+            <p>
+             没落贵族布拉德伯里家的长男希斯克里夫在得知母亲病危后，时隔三年回到了故居・永劫馆，却未能见到母亲的最后一面。<br> 因暴风雨而化为<ruby>陆上孤岛<rt>Closed Circle</rt></ruby>的永劫馆。以心爱的妹妹为目标的密室杀人与针对魔女的连环杀人。希斯克里夫究竟能否解开这个通过魔女的“死而复生”而循环往复的超连续杀人事件——<br><br>『馆』x『密室』x『时间循环』　本格推理三重奏！</p>
+        </div>
+    </div>
+</div>
+
+<BR>
+
+## 平面图
+<HR>
+
+<img src="https://s2.loli.net/2024/03/30/XyCZcUDweORkfAP.jpg" height="670PX" alt="永劫馆周边图">
 
 <br>
+<center><div style="background:linear-gradient(to left,#FFFFFF,#e3e3e3,#FFFFFF);height:1px;"></div></center>
+<br>
 
-<img src="https://s2.loli.net/2024/03/30/msRlb8SpkuftLG7.jpg" heigh="AUTO" alt="永劫馆2·3层平面图">
+<img src="https://s2.loli.net/2024/03/30/msRlb8SpkuftLG7.jpg" height="750px" alt="永劫馆2·3层平面图">
+
+<br>
+<br>
 
 ## 登场人物
+<HR>
+
 ◇ **希斯克里夫・布拉德伯里** (Heathcliff Bradbury) 
 　 布拉德伯里家的长男。时隔三年重返故居“永劫馆”。
 ◇ **珂蒂莉亚・布拉德伯里** (Cordelia Bradbury) 
@@ -258,7 +285,7 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 ◇ **夏洛特・布拉德伯里** (Charlotte Bradbury) 
 　 希斯克里夫的母亲。布拉德伯里家临时家主。已故。
 ◇ **爱德华・布拉德伯里** (Edward Bradbury) 
-　 希斯克里夫的伯父。海运公司的社长。
+　 希斯克里夫的叔父。海运公司的社长。
 ◇ **杰斐逊・布拉德伯里** (Jefferson Bradbury) 
 　 希斯克里夫的堂兄。爱德华之子。
 ◇ **凯恩・珀特维** (Cane Pertwee) 
@@ -266,7 +293,7 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 ◇ **戈登・康拉德** (Gordon Conrad) 
 　 永劫馆的厨师。
 ◇ **汉娜・富林吉姆** (Hanna Fullingim) 
-　 永劫馆的女佣。
+　 永劫馆的女仆。
 ◇ **切斯特顿** (Chesterton) 
 　 老牧师。古董家具收藏家。
 ◇ **贝萨妮・威廉姆斯** (Bethany Williams) 
@@ -282,7 +309,7 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 ## 〈序〉魔女决定去拜访X
 <HR>
 
-“看着我的眼睛，直到最后一刻。”
+“请注视着我的眼睛， 直到最后一刻。”
 
 魔女窥视着我的瞳孔，如是说道。
 
