@@ -262,13 +262,13 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 ## 平面图
 <HR>
 
-<img src="https://s2.loli.net/2024/03/30/XyCZcUDweORkfAP.jpg" height="600PX" alt="永劫馆周边图">
+<img src="https://s2.loli.net/2024/03/30/XyCZcUDweORkfAP.jpg" alt="永劫馆周边图">
 
 <br>
 <center><div style="background:linear-gradient(to left,#FFFFFF,#e3e3e3,#FFFFFF);height:1px;"></div></center>
 <br>
 
-<img src="https://s2.loli.net/2024/03/30/msRlb8SpkuftLG7.jpg" height="650px" alt="永劫馆2·3层平面图">
+<img src="https://s2.loli.net/2024/03/30/msRlb8SpkuftLG7.jpg" alt="永劫馆2·3层平面图">
 
 <br>
 <br>
