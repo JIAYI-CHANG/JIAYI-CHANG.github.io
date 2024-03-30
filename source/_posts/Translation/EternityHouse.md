@@ -242,11 +242,15 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 
 ## 平面图
 
+<img src="https://s2.loli.net/2024/03/30/XyCZcUDweORkfAP.jpg" heigh="AUTO" alt="永劫馆周边图">
+
+<br>
+
 <img src="https://s2.loli.net/2024/03/30/msRlb8SpkuftLG7.jpg" heigh="AUTO" alt="永劫馆2·3层平面图">
 
 ## 登场人物
 ◇ 希斯克里夫・布拉德伯里 (Heathcliff Bradbury) ：布拉德伯里家的长男。时隔三年重返故居“永劫馆”。
-◇ 珂蒂莉亚・布拉德伯里 (Cordelia Bradbury) ：希斯克里夫的妹妹，坐轮椅的盲眼少女。
+◇ 珂蒂莉亚・布拉德伯里 (Cordelia Bradbury) ：希斯克里夫的妹妹。坐轮椅的盲眼少女。
 ◇ 西奥多・布拉德伯里 (Theodor Bradbury) ：希斯克里夫的父亲。布拉德伯里家前任家主。已故。
 ◇ 夏洛特・布拉德伯里 (Charlotte Bradbury) ：希斯克里夫的母亲。布拉德伯里家临时家主。已故。
 ◇ 爱德华・布拉德伯里 (Edward Bradbury) ：希斯克里夫的伯父。海运公司的社长。
