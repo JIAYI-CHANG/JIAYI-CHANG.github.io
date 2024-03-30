@@ -240,7 +240,9 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 
 > 本文为<a href="https://book.douban.com/subject/36769243/">「永劫館超連続殺人事件」</a>的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
 
-## 永劫馆平面图
+## 平面图
+
+<img src="https://s2.loli.net/2024/03/30/msRlb8SpkuftLG7.jpg" height=750px alt="永劫馆2·3层平面图">
 
 ## 登场人物
 ◇ 希斯克里夫・布拉德伯里 (Heathcliff Bradbury) ：布拉德伯里家的长男。时隔三年重返故居“永劫馆”。
