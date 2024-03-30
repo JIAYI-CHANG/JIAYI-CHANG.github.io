@@ -249,19 +249,32 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 <img src="https://s2.loli.net/2024/03/30/msRlb8SpkuftLG7.jpg" heigh="AUTO" alt="永劫馆2·3层平面图">
 
 ## 登场人物
-◇ 希斯克里夫・布拉德伯里 (Heathcliff Bradbury) ：布拉德伯里家的长男。时隔三年重返故居“永劫馆”。
-◇ 珂蒂莉亚・布拉德伯里 (Cordelia Bradbury) ：希斯克里夫的妹妹。坐轮椅的盲眼少女。
-◇ 西奥多・布拉德伯里 (Theodor Bradbury) ：希斯克里夫的父亲。布拉德伯里家前任家主。已故。
-◇ 夏洛特・布拉德伯里 (Charlotte Bradbury) ：希斯克里夫的母亲。布拉德伯里家临时家主。已故。
-◇ 爱德华・布拉德伯里 (Edward Bradbury) ：希斯克里夫的伯父。海运公司的社长。
-◇ 杰斐逊・布拉德伯里 (Jefferson Bradbury) ：希斯克里夫的堂兄。爱德华之子。
-◇ 凯恩・珀特维 (Cane Pertwee) ：永劫馆的管家。
-◇ 戈登・康拉德 (Gordon Conrad) ：永劫馆的厨师。
-◇ 汉娜・富林吉姆 (Hanna Fullingim) ：永劫馆的女佣。
-◇ 切斯特顿 (Chesterton) ：老牧师。古董家具收藏家。
-◇ 贝萨妮・威廉姆斯 (Bethany Williams) ：考古学家。夏洛特大学时代的朋友。
-◇ 杰洛・戴斯 (Jairo Dice) ：名侦探。
-◇ 莉莉茱迪斯・艾尔 (Lily Judith Air) ：同归于尽的魔女。
+◇ 希斯克里夫・布拉德伯里 (Heathcliff Bradbury) 
+　 布拉德伯里家的长男。时隔三年重返故居“永劫馆”。
+◇ 珂蒂莉亚・布拉德伯里 (Cordelia Bradbury) 
+　 希斯克里夫的妹妹。坐轮椅的盲眼少女。
+◇ 西奥多・布拉德伯里 (Theodor Bradbury) 
+　 希斯克里夫的父亲。布拉德伯里家前任家主。已故。
+◇ 夏洛特・布拉德伯里 (Charlotte Bradbury) 
+　 希斯克里夫的母亲。布拉德伯里家临时家主。已故。
+◇ 爱德华・布拉德伯里 (Edward Bradbury) 
+　 希斯克里夫的伯父。海运公司的社长。
+◇ 杰斐逊・布拉德伯里 (Jefferson Bradbury) 
+　 希斯克里夫的堂兄。爱德华之子。
+◇ 凯恩・珀特维 (Cane Pertwee) 
+　 永劫馆的管家。
+◇ 戈登・康拉德 (Gordon Conrad) 
+　 永劫馆的厨师。
+◇ 汉娜・富林吉姆 (Hanna Fullingim) 
+　 永劫馆的女佣。
+◇ 切斯特顿 (Chesterton) 
+　 老牧师。古董家具收藏家。
+◇ 贝萨妮・威廉姆斯 (Bethany Williams) 
+　 考古学家。夏洛特大学时代的朋友。
+◇ 杰洛・戴斯 (Jairo Dice) 
+　 名侦探。
+◇ 莉莉茱迪斯・艾尔 (Lily Judith Air) 
+　 同归于尽的魔女。
 
 <br>
 <br>
