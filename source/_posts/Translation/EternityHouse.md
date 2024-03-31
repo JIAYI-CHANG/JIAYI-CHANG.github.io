@@ -49,7 +49,7 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                 height: 670px; /* 第一张图片的高度为640px */
             }
             .image2 {
-                height: 640px; /* 第二张图片的高度为480px */
+                height: 575px; /* 第二张图片的高度为480px */
             }
             .image3 {
                 height: 750px; /* 第三张图片的高度为720px */
