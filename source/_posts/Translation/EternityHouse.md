@@ -45,6 +45,15 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                 border: none; /* 移除默认的边框样式 */
                 border-bottom: 2.5px dashed #E3E3E3; /* 设置上边框为1像素的虚线，颜色为黑色 */
             }
+            .image1 {
+                height: 670px; /* 第一张图片的高度为640px */
+            }
+            .image2 {
+                height: 640px; /* 第二张图片的高度为480px */
+            }
+            .image3 {
+                height: 750px; /* 第三张图片的高度为720px */
+            }
             .centera{
                 font-size: 22PX;
                 text-align: center;
@@ -266,13 +275,11 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 ## 平面图
 <HR>
 
-<img src="https://s2.loli.net/2024/03/30/XyCZcUDweORkfAP.jpg" height="640px" alt="永劫馆周边图">
+<img src="https://s2.loli.net/2024/03/30/XyCZcUDweORkfAP.jpg" class="image1" alt="永劫馆周边图">
 
-<br>
-<img src="https://s2.loli.net/2024/03/31/42BgAtwe6JcKNrk.jpg" alt="永劫馆1层平面图">
-<br>
+<img src="https://s2.loli.net/2024/03/31/42BgAtwe6JcKNrk.jpg" class="image2" alt="永劫馆1层平面图">
 
-<img src="https://s2.loli.net/2024/03/30/msRlb8SpkuftLG7.jpg" alt="永劫馆2·3层平面图">
+<img src="https://s2.loli.net/2024/03/30/msRlb8SpkuftLG7.jpg" class="image3" alt="永劫馆2·3层平面图">
 
 <br>
 <br>
