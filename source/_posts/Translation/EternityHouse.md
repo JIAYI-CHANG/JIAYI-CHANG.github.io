@@ -207,6 +207,9 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                 opacity: 0.9;
             }
             @media screen and (max-width: 1000px) {
+                img{
+                    height: "AUTO";
+                }
                 .content {
                     flex-direction: column;
                     align-items: center;
@@ -263,10 +266,10 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 ## 平面图
 <HR>
 
-<img src="https://s2.loli.net/2024/03/30/XyCZcUDweORkfAP.jpg" alt="永劫馆周边图">
+<img src="https://s2.loli.net/2024/03/30/XyCZcUDweORkfAP.jpg" height="640px" alt="永劫馆周边图">
 
 <br>
-<center><div style="background:linear-gradient(to left,#FFFFFF,#e3e3e3,#FFFFFF);height:1px;"></div></center>
+<img src="https://s2.loli.net/2024/03/31/42BgAtwe6JcKNrk.jpg" alt="永劫馆1层平面图">
 <br>
 
 <img src="https://s2.loli.net/2024/03/30/msRlb8SpkuftLG7.jpg" alt="永劫馆2·3层平面图">
