@@ -1,7 +1,7 @@
 ---
 title: 「翻译」永劫馆超连续杀人事件·南海遊
 date: 2024-03-30
-updated: 2024-03-30
+updated: 2024-03-31
 tags: [翻译,推理小说,长篇]
 categories: [翻译,推理小说]
 description: 本文为<a href="https://book.douban.com/subject/36769243/">「永劫館超連続殺人事件」</a>的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
@@ -287,31 +287,31 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 ## 登场人物
 <HR>
 
-◇ **希斯克里夫・布拉德伯里** (Heathcliff Bradbury) 
+◇ **希斯克里夫・布拉德伯里** (Heathcliff Bradbury)
 　 布拉德伯里家的长男。时隔三年重返故居“永劫馆”。
-◇ **珂蒂莉亚・布拉德伯里** (Cordelia Bradbury) 
+◇ **珂蒂莉亚・布拉德伯里** (Cordelia Bradbury)
 　 希斯克里夫的妹妹。坐轮椅的盲眼少女。
-◇ **西奥多・布拉德伯里** (Theodor Bradbury) 
+◇ **西奥多・布拉德伯里** (Theodor Bradbury)
 　 希斯克里夫的父亲。布拉德伯里家前任家主。已故。
-◇ **夏洛特・布拉德伯里** (Charlotte Bradbury) 
+◇ **夏洛特・布拉德伯里** (Charlotte Bradbury)
 　 希斯克里夫的母亲。布拉德伯里家临时家主。已故。
-◇ **爱德华・布拉德伯里** (Edward Bradbury) 
+◇ **爱德华・布拉德伯里** (Edward Bradbury)
 　 希斯克里夫的叔父。海运公司的社长。
-◇ **杰斐逊・布拉德伯里** (Jefferson Bradbury) 
+◇ **杰斐逊・布拉德伯里** (Jefferson Bradbury)
 　 希斯克里夫的堂兄。爱德华之子。
-◇ **凯恩・珀特维** (Cane Pertwee) 
+◇ **凯恩・珀特维** (Cane Pertwee)
 　 永劫馆的管家。
-◇ **戈登・康拉德** (Gordon Conrad) 
+◇ **戈登・康拉德** (Gordon Conrad)
 　 永劫馆的厨师。
-◇ **汉娜・富林吉姆** (Hanna Fullingim) 
+◇ **汉娜・富林吉姆** (Hanna Fullingim)
 　 永劫馆的女仆。
-◇ **切斯特顿** (Chesterton) 
+◇ **切斯特顿** (Chesterton)
 　 老牧师。古董家具收藏家。
-◇ **贝萨妮・威廉姆斯** (Bethany Williams) 
+◇ **贝萨妮・威廉姆斯** (Bethany Williams)
 　 考古学家。夏洛特大学时代的朋友。
-◇ **杰洛・戴斯** (Jairo Dice) 
+◇ **杰洛・戴斯** (Jairo Dice)
 　 名侦探。
-◇ **莉莉茱迪斯・艾尔** (Lily Judith Air) 
+◇ **莉莉茱迪斯・艾尔** (Lily Judith Air)
 　 同归于尽的魔女。
 
 <br>
