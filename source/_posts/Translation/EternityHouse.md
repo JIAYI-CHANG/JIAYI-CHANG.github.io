@@ -216,8 +216,14 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                 opacity: 0.9;
             }
             @media screen and (max-width: 1000px) {
-                img{
-                    height: "AUTO";
+                .image1 {
+                    height: auto;
+                }
+                .image2 {
+                    height: auto;
+                }
+                .image3 {
+                    height: auto;
                 }
                 .content {
                     flex-direction: column;
