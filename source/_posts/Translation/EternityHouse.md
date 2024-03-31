@@ -283,7 +283,7 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 
 <img src="https://s2.loli.net/2024/03/30/XyCZcUDweORkfAP.jpg" class="image1" alt="永劫馆周边图">
 
-<img src="https://s2.loli.net/2024/03/31/42BgAtwe6JcKNrk.jpg" class="image2" alt="永劫馆1层平面图">
+<img src="https://s2.loli.net/2024/03/31/uafeJnUKjC7r46x.jpg" class="image2" alt="永劫馆1层平面图">
 
 <img src="https://s2.loli.net/2024/03/30/msRlb8SpkuftLG7.jpg" class="image3" alt="永劫馆2·3层平面图">
 
