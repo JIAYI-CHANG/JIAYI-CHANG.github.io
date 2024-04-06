@@ -3,7 +3,8 @@ title: '2024春・照片集'
 date: 2024-04-06 23:13:12
 aside: FALSE
 ---
-### 鸟取・柯南小镇
+
+## 鸟取・柯南小镇
 
 {% gallery %}
 ![万恶之源（笑）](https://s2.loli.net/2024/04/06/AWtHz2Nf1oXcT95.jpg)
@@ -16,5 +17,7 @@ aside: FALSE
 ![📍　青山老师小时候常去的朝仓书店（在这家书店买书会赠送青山老师绘制的柯南书签！）](https://s2.loli.net/2024/04/06/oiZtVUueBQw4cX9.jpg)
 {% endgallery %}
 
+## 广岛
+![大久野岛的兔子们~](https://s2.loli.net/2024/04/06/9rBK48gxyeokjaA.jpg)
 
 
