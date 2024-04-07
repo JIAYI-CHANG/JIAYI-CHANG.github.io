@@ -5,9 +5,7 @@ aside: FALSE
 ---
 ## 北海道・带广　2024-02-26
 {% gallery %}
-![tokachi_4.jpg](https://s2.loli.net/2024/04/07/I74NFnk2fWpgL5T.jpg)
 ![tokachi_2.jpg](https://s2.loli.net/2024/04/07/H3GxbBWmCuQ4Zzs.jpg)
-![tokachi_1.jpg](https://s2.loli.net/2024/04/07/ZYMcNmpjgGLvkTI.jpg)
 ![tokachi_3.jpg](https://s2.loli.net/2024/04/07/XluJWg7LxRnwmdf.jpg)
 {% endgallery %}
 
