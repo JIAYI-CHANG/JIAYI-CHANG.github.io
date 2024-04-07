@@ -6,6 +6,11 @@ aside: FALSE
 
 ## 北海道・网走　2024-03-02
 ![📍　贝塚馆附近 日落时的网走真是美极了！](https://s2.loli.net/2024/04/06/rT2d8hK7btJAsD6.jpg)
+![📍　网走极光号破冰船，五星推荐](https://s2.loli.net/2024/04/07/J9NFf3u1PKRtZXU.jpg)
+{% gallery %}
+![鄂霍次克海上的流冰](https://s2.loli.net/2024/04/07/TYJmWkxqN1tl3P7.jpg)
+![开船前的风景](https://s2.loli.net/2024/04/07/OZR3dsgk7N9WJYF.jpg)
+{% endgallery %}
 
 
 ## 鸟取・柯南小镇　2024-04-01
