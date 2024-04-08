@@ -52,6 +52,6 @@ aside: FALSE
 <br>
 
 ## 广岛
-![大久野岛的兔子们~](https://s2.loli.net/2024/04/06/9rBK48gxyeokjaA.jpg)
+![📍　大久野岛，岛上居住着几百只亲人小兔　／(≧ x ≦)＼](https://s2.loli.net/2024/04/06/9rBK48gxyeokjaA.jpg)
 
 
