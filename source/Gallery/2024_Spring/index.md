@@ -45,6 +45,7 @@ aside: FALSE
 ![神奇标识2号](https://s2.loli.net/2024/04/06/Sv1AW5qjbticdYm.jpg)
 ![北荣町的三大特产：柯南、山药和西瓜。以及风力发电机](https://s2.loli.net/2024/04/06/rFDqui68lRTt9bX.jpg)
 ![📍　青山老师小时候常去的朝仓书店（在这家书店买书会赠送青山老师绘制的柯南书签！）](https://s2.loli.net/2024/04/06/oiZtVUueBQw4cX9.jpg)
+![📍　青山刚昌故乡馆 挂着迄今为止所有单行本封面的展示墙 ♪](https://s2.loli.net/2024/04/08/LpyUvjixfgmN7YS.jpg)
 {% endgallery %}
 
 <br>
