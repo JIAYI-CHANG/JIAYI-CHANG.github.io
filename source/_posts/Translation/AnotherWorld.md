@@ -711,9 +711,13 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 
 因为咱没能把原本的“这个商品我买了”那句台词说出口还一直盯着小男孩的脸搞得现场氛围有点尴尬但我选择无视这一切继续盯着小男孩。当怒目而视的小男孩开始焦虑不安无所适从而我依然沉默不语时
 
+
 <img src="https://s2.loli.net/2024/04/16/oPQdy5U1TSXeOuC.jpg" alt="黑球1号.jpeg"></a>
 
 <img src="https://s2.loli.net/2024/04/16/HopBcl9XOKU1de5.jpg" alt="黑球2号.jpeg"></a>
+
+<BR>
+<BR>
 
 <img src="https://s2.loli.net/2024/04/16/TUcqS9yhCXzLIsa.jpg" alt="黑球3号.jpeg"></a>
 
