@@ -83,14 +83,18 @@
   }
   #icat-bber .icat-bber-container-img {
     display: flex;
+    gap: 8px;
     width: 100%;
     flex-wrap: wrap;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-right: 8px;
     justify-content: flex-end; /* 将图片靠右显示 */
   }
   #icat-bber .icat-bber-container-img .imgbox {
-    margin:-10px;
-    width: calc(100% / 4 - 8px);
+    width: calc(100%/2 - 8px);
     overflow: hidden;
+    aspect-ratio: 1 / 1;
     border-radius: 6px;
   }
   #icat-bber .icat-bber-container-img .imgbox .icat-bber-content-img {
