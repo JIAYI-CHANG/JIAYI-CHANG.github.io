@@ -40,6 +40,10 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
                 font-style: bold;
                 font-family: 'Shippori Mincho B1', serif;
             }
+            h1{
+                font-size: 27PX;
+                text-align:center;
+            }
             hr {
                 border: none; /* 移除默认的边框样式 */
                 border-top: 2.5px dashed #E3E3E3; /* 设置上边框为1像素的虚线，颜色为黑色 */
@@ -243,11 +247,13 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 
 <BR>
 
-# 第1章 异世界
+# 第一章 　异世界
 
-<HR>
+<BR>
+<BR>
 
 ## 第1话 写小说吧在网上
+<HR>
 
 <br>
 
