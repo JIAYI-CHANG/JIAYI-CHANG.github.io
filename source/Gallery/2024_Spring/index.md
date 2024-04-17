@@ -5,8 +5,8 @@ aside: FALSE
 ---
 ## 北海道・带广　2024-02-26
 {% gallery %}
-![tokachi_2.jpg](https://s2.loli.net/2024/04/07/H3GxbBWmCuQ4Zzs.jpg)
-![tokachi_3.jpg](https://s2.loli.net/2024/04/07/XluJWg7LxRnwmdf.jpg)
+![📍　带广赛马场](https://s2.loli.net/2024/04/07/H3GxbBWmCuQ4Zzs.jpg)
+![观看了十胜地区的挽曳赛马比赛 ♪](https://s2.loli.net/2024/04/07/XluJWg7LxRnwmdf.jpg)
 {% endgallery %}
 
 <br>
