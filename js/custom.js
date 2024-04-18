@@ -74,10 +74,11 @@ var icatmoment = {
   changeTimeInEssay: function () {
     document.querySelector("#icat-bber") &&
       document.querySelectorAll("#icat-bber time").forEach(function (e) {
-        var t = e,
-          datetime = t.getAttribute("datetime");
-        (t.innerText = icatmoment.diffDate(datetime, true)), (t.style.display = "inline");
-      });
+        var datetime = e.getAttribute("datetime");
+        e.innerText = new Date(datetime).toLocaleDateString("zh-CN"); // 使用中国的日期格式
+        e.style.display = "inline";
+    });
+  
   },
   reflashEssayWaterFall: function () {
     document.querySelector("#waterfall") &&
