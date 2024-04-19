@@ -1,6 +1,13 @@
 - class_name: 即刻短文
   moment_number: -1 # -1：显示全部；需填入整数如：10 或 100等
   moment_list:
+    - content: "在日本待了半年后，我的英语水平be like： "
+      date: 2024/04/20 00:00:00
+      image:
+        - https://s2.loli.net/2024/04/19/Z32jTSKoXMx6mRb.png
+      link: 
+      from: 日本・东京　　
+
     - content: "夏天的气息~ "
       date: 2024/04/16 17:00:00
       image:
