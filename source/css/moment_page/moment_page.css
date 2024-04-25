@@ -1,8 +1,12 @@
 #icat-bber {
     margin-top: 1.5rem;
-    width: 100%;
+    width: 120%;
+    justify-content: left;
+    margin-left: -180px;
+    margin-right: 20px;
   }
   #icat-bber #waterfall.list {
+    width:120%;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
@@ -16,7 +20,7 @@
   }
   #icat-bber .icat-timeline #waterfall .icat-bber-item {
     position: relative;
-    width: 49.1%;
+    width: 32%;
     border: 0.5px solid rgba(0, 0, 0,.1);
     box-sizing: border-box;
     border-radius: 12px;
@@ -252,3 +256,13 @@
     justify-content: center;
     margin-bottom: 2rem;
   }
+
+#page{
+    background: transparent;
+    border: none;
+    box-shadow: none;
+}
+
+#icat-bber .aside-content{
+  width:0;
+}
