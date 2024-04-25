@@ -10,8 +10,6 @@ nav:
 # Menu 目錄
 menu:
   主页: / || fas fa-home
-  分类: /categories/ || fas fa-folder-open
-  标签: /tags/ || fas fa-tags
   时间轴: /archives/ || fas fa-archive
   关于我 ||fa fa-ghost:
     碎碎念: /moment/ || fas fa-feather
@@ -21,6 +19,8 @@ menu:
   #   Movie: /movies/ || fas fa-video
   # Link: /link/ || fas fa-link
   # About: /about/ || fas fa-heart
+  # 分类: /categories/ || fas fa-folder-open
+  # 标签: /tags/ || fas fa-tags
 
 # Code Blocks (代碼相關)
 # --------------------------------------
