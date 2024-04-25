@@ -1,7 +1,6 @@
 #icat-bber {
     margin-top: 1.5rem;
     width: 120%;
-    justify-content: left;
     margin-left: -180px;
     margin-right: 20px;
   }
@@ -20,7 +19,7 @@
   }
   #icat-bber .icat-timeline #waterfall .icat-bber-item {
     position: relative;
-    width: 32%;
+    width: 31%;
     border: 0.5px solid rgba(0, 0, 0,.1);
     box-sizing: border-box;
     border-radius: 12px;
@@ -47,10 +46,18 @@
       margin-right: 1%;
     }
   }
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 750px) {
+    #icat-bber {
+      margin-top: 1.5rem;
+      width:100%;
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+    #icat-bber #waterfall.list {
+      width:100%;
+    }
     #icat-bber .icat-timeline #waterfall .icat-bber-item {
       width: 100%;
-      margin-right: 0px;
     }
   }
   /* 响应式 */
