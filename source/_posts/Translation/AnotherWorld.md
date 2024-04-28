@@ -805,7 +805,7 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 <br>
 <br>
 
-## 第4话 天丼与天井
+## 第4话 天丼与天井 <a href="#footnote4-1" id="context4-1" class="tooltip"><sup>[1]</sup></a>
 <HR>
 
 天妇罗。
@@ -938,6 +938,12 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 <br>
 这是咋回事啊。
 
+<br>
+
+<div class="pextra">
+    <p id="footnote4-1">[1] 日语中「天丼」指的是天妇罗盖饭，而「天井」指的是天花板。<a href="#context4-1">↩</a><p>
+</div>
+
 
 <br>
 <br>
@@ -949,6 +955,6 @@ copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交�
 
 <br>
 
-哼哼哼。原来如此。我逐渐理解一切。
+哼哼。原来如此。我逐渐理解一切。
 
 <HR>
