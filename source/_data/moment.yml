@@ -1,6 +1,13 @@
 - class_name: 即刻短文
   moment_number: -1 # -1：显示全部；需填入整数如：10 或 100等
   moment_list:
+    - content: "今日心情。"
+      date: 2024/04/29 23:00:00
+      image:
+        - https://s2.loli.net/2024/04/29/jTkC1PtMw9N8Iir.jpg
+      link: 
+      from: 日本・东京　　
+
     - content: "如果生活给你关上了一扇门，你就再开一次门。这是门。门就是这样用的。"
       date: 2024/04/22 01:00:00
       image:
