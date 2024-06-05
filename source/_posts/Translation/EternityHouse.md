@@ -1,7 +1,7 @@
 ---
 title: 「翻译」永劫馆超连续杀人事件·南海遊
 date: 2024-03-30
-updated: 2024-04-23
+updated: 2024-06-05
 tags: [翻译,推理小说,长篇]
 categories: [翻译,推理小说]
 description: 本文为<a href="https://book.douban.com/subject/36769243/">「永劫館超連続殺人事件」</a>的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
