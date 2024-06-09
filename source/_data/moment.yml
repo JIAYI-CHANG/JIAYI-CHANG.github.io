@@ -1,6 +1,12 @@
 - class_name: 即刻短文
   moment_number: -1 # -1：显示全部；需填入整数如：10 或 100等
   moment_list:
+    - content: "岛波海道骑行 赛高！"
+      date: 2024/06/07 18:00:00
+      image:
+        - https://s2.loli.net/2024/06/09/wiBoKeWlrjZkzV5.jpg
+      link: 
+      from: 日本・濑户内海　　
     - content: "多出去玩吧 ♪"
       date: 2024/05/11 18:00:00
       image:
