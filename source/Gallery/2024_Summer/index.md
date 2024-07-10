@@ -11,3 +11,5 @@ aside: FALSE
 ![📍 生口岛](https://s2.loli.net/2024/06/09/8zh7L6SAqN12EWe.jpg)
 ![📍 生口岛](https://s2.loli.net/2024/06/09/rsoNwE1GhYlbOqe.jpg)
 {% endgallery %}
+
+## 新潟・佐渡岛
