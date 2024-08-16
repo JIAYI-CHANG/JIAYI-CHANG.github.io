@@ -1,6 +1,13 @@
 - class_name: 即刻短文
   moment_number: -1 # -1：显示全部；需填入整数如：10 或 100等
   moment_list:
+    - content: "田中达也的作品 很有趣呢~♪"
+      date: 2024/08/17 00:00:01
+      image:
+        - https://s2.loli.net/2024/08/16/AOp3RoqBiWUXPwn.jpg
+        - https://s2.loli.net/2024/08/16/ynVe9GHsBU8F2qI.jpg
+      link: https://miniature-calendar.com/
+      from: 日本・东京　　#安利
     - content: "レッサーパンダ"
       date: 2024/07/08 22:00:00
       image:
