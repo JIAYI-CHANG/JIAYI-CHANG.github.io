@@ -13,6 +13,7 @@ copyright_author_href: https://HereisCHJY.blog
 copyright_url: https://www.HereisCHJY.blog/Note/Korean4Idioms
 copyright_info: 本文仅供学习交流，转载请注明出处。
 aside: false
+hide: true
 ---
 <html>
     <head>
