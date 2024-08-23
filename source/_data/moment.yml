@@ -1,6 +1,12 @@
 - class_name: 即刻短文
   moment_number: -1 # -1：显示全部；需填入整数如：10 或 100等
   moment_list:
+    - content: "「金牌得主」全世界最好看的运动漫画　😭"
+      date: 2024/08/24 00:15:00
+      image:
+        - https://s2.loli.net/2024/08/23/DMeYrhBEFCRs3PQ.jpg
+      link: https://manga.bilibili.com/detail/mc32263
+      from: 日本・东京　　#安利
     - content: "田中达也的作品 很有趣呢~♪"
       date: 2024/08/17 00:00:01
       image:
