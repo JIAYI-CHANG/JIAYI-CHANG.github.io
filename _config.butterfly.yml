@@ -11,7 +11,7 @@ nav:
 menu:
   主页: / || fas fa-home
   时间轴: /archives/ || fas fa-archive
-  关于我 ||fa fa-ghost:
+  关于我 ||fa fa-lemon:
     碎碎念: /moment/ || fas fa-feather
     照片集: /Gallery/ || fas fa-camera-retro
   # List||fas fa-list:
