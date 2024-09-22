@@ -13,7 +13,6 @@ copyright_author_href: https://www.douban.com/people/CHJY2000/notes
 copyright_url: https://www.HereisCHJY.blog/Translation/Christmas_Crime
 copyright_info: 原文版权归作者与出版社所有，本文仅供学习交流，禁止用于商业用途。
 aside: false
-hide: true
 ---
 <html>
     <head>
@@ -26,12 +25,17 @@ hide: true
                 text-align:center;
                 font-family: "STSong";
             }
+            .pextra {
+                font-family: "STSong";
+                font-size:14px;
+                color: Black;
+                padding-left:30px;
+            }
             p a {
                 text-decoration: none;
                 text-decoration-line: none;
                 text-decoration-color: none;
                 text-decoration-style: none;
-                border-bottom: 2px solid #e3e3e3;
             }
             center {
                 font-size: 30PX;
@@ -42,6 +46,51 @@ hide: true
                 border: none; /* 移除默认的边框样式 */
                 border-top: 2.5px dashed #E3E3E3; /* 设置上边框为1像素的虚线，颜色为黑色 */
             }
+            .tooltip {
+                position: relative;
+                display: inline-block;
+            }
+            .tooltip .tooltiptext {
+                visibility: hidden;
+                min-width:320PX;
+                max-width: 500px;
+                background-color: #17242C;
+                color: #fff;
+                font-family: "STSong";
+                text-align: center;
+                font-size: 13px;
+                border-radius: 10px;
+                padding: 5px 15px;
+                position: absolute;
+                z-index: 3;
+                bottom: 100%;
+                left: 50%;
+                transform: translateX(-50%); /* 使用transform来居中 */
+                opacity: 0.5;
+                transition: opacity 0.3s;
+            }
+            .tooltip .tooltiptext::after {
+                content: " ";
+                position: absolute;
+                top: 100%;
+                left: 50%;
+                margin-left: 0px;
+                border-width: 5px;
+                border-style: solid;
+                border-color: #17242C transparent transparent transparent;
+                transform: translateX(-50%);
+            }
+            .tooltip:hover .tooltiptext {
+                visibility: visible;
+                opacity: 0.9;
+            }
+            @media screen and (max-width: 1000px) {
+            .tooltip .tooltiptext {
+                display: none;
+            }
+            .tooltip .tooltiptext::after {
+                display: none;
+            }    
         </style>
     </head>
 <body>
@@ -70,9 +119,9 @@ hide: true
 
 <ruby>希尔达·特伦特<rt>Hilda Trent</rt></ruby>一边用她精心保养的手指翻动着圣诞贺卡，一边大声读着那些愚蠢的诗句。
 
-“还有比这更无病呻吟的东西吗？”她问丈夫，“真好奇这些东西到底是谁写的。蒂莫西，你认识叫利奇的人吗？”
+“还有比这更无病呻吟的东西吗？”她问丈夫，“真好奇这些东西到底是谁写的。<ruby>蒂莫西<rt>Timothy</rt></ruby>，你认识叫<ruby>利奇<rt>Leech</rt></ruby>的人吗？”
 
-“利奇？”  
+“利奇？”<a href="#footnote1" id="context1" class="tooltip"><sup>*1</sup><span class="tooltiptext">Leech在英文中有水蛭、吸血虫之意</span></a>
 
 “对——信上写着：‘来自你的朋友老利奇’。这肯定是你的朋友。我认识的唯一一位利奇是拼作Leach，用的是a，而这个名字却是两个e。”她看了看信封，“没错，这是寄给你的。这个‘老利奇’到底是谁？”她把卡片甩到早餐桌上。
 
@@ -98,5 +147,12 @@ hide: true
 
 当然，他终究会凑齐的。他必须凑齐。那令人作呕而又轻车熟路的例行公事又将再度上演。将现金换成政府债券，打包成一个不起眼的小包裹，放在滑铁卢车站的寄存处。第二天，他会像往常一样把车停在附近车站的铁路车厂里。车的挡风玻璃雨刷下——“<span style="font-family: 'STSong';">相约熟悉老地方</span>”——会放着寄存处的票据。等他于傍晚时分下班回来时，票据就已经不翼而飞了。这样就大功告成了——直到下一次。这是利奇喜欢的方法，而他除了照做，别无选择。
 
+<br>
+<br>
 
+<hr>
+
+<div class="pextra">
+    <p id="footnote1">*1 <b>译者注</b>：Leech在英文中有水蛭、吸血虫之意。<a href="#context1">↩</a><p>
+</div>
 
