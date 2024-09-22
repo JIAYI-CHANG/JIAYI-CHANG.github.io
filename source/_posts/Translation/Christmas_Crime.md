@@ -6,8 +6,8 @@ tags: [翻译,推理小说,短篇,欧美]
 categories: [翻译,推理小说]
 description: 本文为短篇小说<a href="https://book.douban.com/subject/30444329/"><b> Sister Bessie Or Your Old Leech </b></a> (1949) 的译文。
 copyright: true
-top_img: https://s2.loli.net/2024/09/22/shRkpmdTxMwJSjn.jpg
-cover: https://s2.loli.net/2024/09/22/shRkpmdTxMwJSjn.jpg
+top_img: https://m.media-amazon.com/images/I/91zE4naeH8L._SL1500_.jpg
+cover: https://m.media-amazon.com/images/I/91zE4naeH8L._SL1500_.jpg
 copyright_author: CHJY
 copyright_author_href: https://www.douban.com/people/CHJY2000/notes
 copyright_url: https://www.HereisCHJY.blog/Translation/Christmas_Crime
@@ -97,6 +97,7 @@ aside: false
 
 
 <center> Sister Bessie Or Your Old Leech（Cyril Hare・1949）</center>
+
 <HR>
 
 <BR>
