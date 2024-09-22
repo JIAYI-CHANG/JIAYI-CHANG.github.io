@@ -16,7 +16,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 <html>
     <head>
         <style>
-            @import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Shippori+Mincho+B1:wght@600&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
             p {
                 text-align:justify;
             }
@@ -28,9 +28,9 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
                 border-bottom: 2px solid #e3e3e3;
             }
             center {
-                font-size: 27PX;
+                font-size: 30PX;
                 font-style: bold;
-                font-family: 'Shippori Mincho B1', serif;
+                font-family: 'Kalam', serif;
             }
             hr {
                 border: none; /* 移除默认的边框样式 */
@@ -41,7 +41,7 @@ copyright_info: 原文版权归作者与出版社所有，本文仅供学习交�
 <body>
 
 
-<center> 『Sister Bessie Or Your Old Leech』（Cyril Hare・1949）</center>
+<center> Sister Bessie Or Your Old Leech（Cyril Hare・1949）</center>
 <HR>
 
 <BR>
