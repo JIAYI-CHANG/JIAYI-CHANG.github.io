@@ -47,7 +47,7 @@ favicon: /Attachment/ICON.png
 
 # Avatar (頭像)
 avatar:
-  img: /Attachment/AVATAR.jpg
+  img: /Attachment/AVATAR.png
   effect: false
 
 # Disable all banner image
