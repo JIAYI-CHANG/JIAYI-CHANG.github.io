@@ -1,5 +1,5 @@
 ---
-title: 「翻译」贝茜姐妹 抑或你的老利奇
+title: 「翻译」贝茜姐姐 抑或你的老利奇
 date: 2024-09-22
 updated: 2024-10-10
 tags: [翻译,推理小说,短篇,欧美]
@@ -58,7 +58,7 @@ aside: false
 
 <BR>
 
-> 本文为短篇小说<a href="https://book.douban.com/subject/30444329/"><b> Sister Bessie Or Your Old Leech </b></a> (1949) 的译文。版权归作者与出版社所有。翻译仅供学习交流，禁止用于商业用途。
+> <p style="text-indent: 0px;">本文为短篇小说<a href="https://book.douban.com/subject/30444329/"><b> Sister Bessie Or Your Old Leech </b></a> (1949) 的译文。版权归作者与出版社所有。翻译仅供学习交流，禁止用于商业用途。</p>
 
 <BR>
 
