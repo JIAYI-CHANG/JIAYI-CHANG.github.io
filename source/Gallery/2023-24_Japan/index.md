@@ -1,6 +1,6 @@
 ---
-title: '2024春・照片集'
-date: 2024-04-06 23:13:12
+title: '2023秋 → 2024夏・日本'
+date: 2024-10-16 23:13:12
 aside: FALSE
 ---
 ## 北海道・带广　2024-02-26
@@ -63,3 +63,11 @@ aside: FALSE
 ![宿舍附近的樱花](https://s2.loli.net/2024/04/16/Uy3FulhA9t6eoZC.jpg)
 ![20240428_ibaraki.jpg](https://s2.loli.net/2024/04/30/OLozk7AmRl9xPcq.jpg)
 
+{% gallery %}
+![📍 爱媛・今治 在跨海大桥上俯视濑户内海✌🏻](https://s2.loli.net/2024/06/09/oWBU7V2C4jlrPxA.jpg)
+![](https://s2.loli.net/2024/06/09/lxmsHo6q8LASBiU.jpg)
+![📍 伯方岛](https://s2.loli.net/2024/06/09/GULEs1QcgAaWy3F.jpg)
+![📍 生口岛](https://s2.loli.net/2024/06/09/8zh7L6SAqN12EWe.jpg)
+![📍 生口岛](https://s2.loli.net/2024/06/09/rsoNwE1GhYlbOqe.jpg)
+![📍 东京・上野 @2024-08-21](https://s2.loli.net/2024/08/21/hqdAnvUs4EXFZeM.jpg)
+{% endgallery %}
