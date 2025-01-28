@@ -40,6 +40,10 @@ aside: false
                 border: none; /* 移除默认的边框样式 */
                 border-top: 2.5px dashed #E3E3E3; /* 设置上边框为1像素的虚线，颜色为黑色 */
             }
+            @media screen and (max-width: 800px) {
+            image {
+                height:300px;
+            }
         </style>
     </head>
 <body>
@@ -201,7 +205,7 @@ aside: false
 
 <br>
 
-<img src="https://s2.loli.net/2025/01/28/nRIxkbDVAid5PLE.jpg"　alt="地图" height=500px>
+<img src="https://s2.loli.net/2025/01/28/nRIxkbDVAid5PLE.jpg"　alt="地图" style="max-width: 100%; height: auto; max-height: 450px;">
 <p style="text-align:center">（图片选自日文版封面，仅供参考）</p>
 
 <br>
