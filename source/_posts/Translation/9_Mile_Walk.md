@@ -199,7 +199,9 @@ aside: false
 
 他点点头，沉默地深思着。不知怎的，我总觉得自己不该打搅他的思绪。墙上挂着一幅巨大的市县地图，我走过去研究起来。
 
-<img src="https://s2.loli.net/2025/01/28/oiHpI2MxNlKWXAG.png"　alt="地图" height=500px>
+<br>
+
+<img src="https://s2.loli.net/2025/01/28/nRIxkbDVAid5PLE.jpg"　alt="地图" height=500px>
 <p style="text-align:center">（图片选自日文版封面，仅供参考）</p>
 
 <br>
