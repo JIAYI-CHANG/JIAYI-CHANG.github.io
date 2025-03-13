@@ -617,7 +617,7 @@ theme_color:
   text_selection: "#072700"
   link_color: "#072700"
   meta_color: "#3E3E3E"
-  hr_color: "#072700"
+  hr_color: "#e3e3e3"
   code_foreground: "#F47466"
   code_background: "rgba(246, 241, 241, .05)"
   toc_color: "#072700"
