@@ -57,7 +57,7 @@ disable_top_img: false
 index_img: 
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://s2.loli.net/2024/09/22/VaIFlRG6nc5MSHt.jpg
+default_top_img: https://s2.loli.net/2025/03/13/rE4J8VH72ygpQC6.jpg
 
 # The banner image of archive page
 archive_img: 
@@ -611,16 +611,16 @@ site_verification:
 # Theme color for customize
 theme_color:
   enable: true
-  main: "#702200"
-  paginator: "#702200"
-  button_hover: "#702200"
-  text_selection: "#702200"
-  link_color: "#702200"
+  main: "#072700"
+  paginator: "#072700"
+  button_hover: "#072700"
+  text_selection: "#072700"
+  link_color: "#072700"
   meta_color: "#3E3E3E"
-  hr_color: "#702200"
+  hr_color: "#072700"
   code_foreground: "#F47466"
   code_background: "rgba(246, 241, 241, .05)"
-  toc_color: "#702200"
+  toc_color: "#072700"
   blockquote_padding_color: "#d4d4d4"
   blockquote_background_color: "#e3e3e3"
   scrollbar_color: "#e3e3e3"
