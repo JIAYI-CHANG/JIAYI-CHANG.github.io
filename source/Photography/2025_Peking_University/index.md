@@ -1,5 +1,5 @@
 ---
-title: '2025春&夏・北京大学'
+title: '2025年 春&夏・北京大学'
 date: 2025-06-21 20:25:06
 aside: FALSE
 ---
@@ -20,6 +20,6 @@ aside: FALSE
 ![Invincible Summer丨20250602](https://s2.loli.net/2025/06/22/D89KjZxhpSCFHRG.jpg)
 ![梦回千禧年丨20250603](https://s2.loli.net/2025/06/22/7XAishkmvrfjwIg.jpg)
 ![鸭鸭与未名湖与博雅塔的幻影丨20250616](https://s2.loli.net/2025/06/22/AJeoXdtYjpREksU.jpg)
-![普通な日々・大好きな日々丨20250623](https://s2.loli.net/2025/06/24/Dft3CvOVQq7jxJU.jpg)
+![普通な日々、そして、大好きな日々丨20250623](https://s2.loli.net/2025/06/24/Dft3CvOVQq7jxJU.jpg)
 ![教我如何不想她丨20250624](https://s2.loli.net/2025/06/24/wZ8IzcbVQ6dlOjW.jpg)
 {% endgallery %}
