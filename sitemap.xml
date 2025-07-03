@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.hereischjy.blog/categories/index.html</loc>
-    
-    <lastmod>2025-07-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.hereischjy.blog/moment/index.html</loc>
     
     <lastmod>2025-07-03</lastmod>
@@ -29,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.hereischjy.blog/Photography/index.html</loc>
+    <loc>https://www.hereischjy.blog/categories/index.html</loc>
     
     <lastmod>2025-07-03</lastmod>
     
@@ -38,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.hereischjy.blog/Photography/2023-24_Japan/index.html</loc>
+    <loc>https://www.hereischjy.blog/Photography/index.html</loc>
     
     <lastmod>2025-07-03</lastmod>
     
@@ -65,6 +56,24 @@
   </url>
   
   <url>
+    <loc>https://www.hereischjy.blog/Photography/PKU_Bear/index.html</loc>
+    
+    <lastmod>2025-07-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hereischjy.blog/Photography/2023-24_Japan/index.html</loc>
+    
+    <lastmod>2025-07-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.hereischjy.blog/Translation/Another_World/</loc>
     
     <lastmod>2025-03-01</lastmod>
@@ -77,15 +86,6 @@
     <loc>https://www.hereischjy.blog/Translation/9_Mile_Walk/</loc>
     
     <lastmod>2025-01-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hereischjy.blog/Translation/Christmas_Crime/</loc>
-    
-    <lastmod>2024-10-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
