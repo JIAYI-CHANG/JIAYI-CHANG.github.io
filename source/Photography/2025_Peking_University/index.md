@@ -13,5 +13,6 @@ aside: FALSE
 ![Invincible Summer丨20250602](https://s2.loli.net/2025/06/22/D89KjZxhpSCFHRG.jpg)
 ![梦回千禧年丨20250603](https://s2.loli.net/2025/06/22/7XAishkmvrfjwIg.jpg)
 ![鸭鸭与未名湖与博雅塔的幻影丨20250616](https://s2.loli.net/2025/06/22/AJeoXdtYjpREksU.jpg)
+![普通な日々・大好きな日々丨20250623](https://s2.loli.net/2025/06/24/Dft3CvOVQq7jxJU.jpg)
 ![教我如何不想她丨20250624](https://s2.loli.net/2025/06/24/CoG7axYlf9gqQyV.jpg)
 {% endgallery %}
