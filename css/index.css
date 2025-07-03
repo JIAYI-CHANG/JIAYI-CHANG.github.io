@@ -4433,7 +4433,6 @@ mjx-assistive-mml {
   border-radius: 8px;
   background: #000;
   -webkit-transform: translate3d(0, 0, 0);
-minWidth1024()
 }
 @media screen and (max-width: 600px) {
   #article-container figure.gallery-group {
