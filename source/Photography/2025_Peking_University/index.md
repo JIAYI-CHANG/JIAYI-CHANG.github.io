@@ -23,4 +23,8 @@ aside: FALSE
 ![夜を踊れ丨20250701](https://s2.loli.net/2025/07/30/pa39DRQsEOT4WLB.jpg)
 ![雨上がりの日常丨20250729](https://s2.loli.net/2025/07/30/WdnYJjxO61CBTyU.jpg)
 ![雨上がりの夜空丨20250729](https://s2.loli.net/2025/07/30/es7WFfGoyN3rRku.jpg)
+![林间小屋丨20250730](https://s2.loli.net/2025/07/30/629gXKZdCw4etOP.jpg)
+![燕南園61號丨20250730](https://s2.loli.net/2025/07/30/BQdshpev2gykujx.jpg)
+![俗世丨20250730](https://s2.loli.net/2025/07/30/5W4JCHDXx2AlQpa.jpg)
+![燕南园一隅丨20250730](https://s2.loli.net/2025/07/30/yBm4cn1O6DFrhd7.jpg)
 {% endgallery %}
