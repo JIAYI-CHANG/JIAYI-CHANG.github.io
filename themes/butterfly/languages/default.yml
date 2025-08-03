@@ -54,9 +54,6 @@ pagination:
 comment: Comment
 
 aside:
-  articles: Articles
-  tags: Tags
-  categories: Categories
   card_announcement: Announcement
   card_categories: Categories
   card_tags: Tags

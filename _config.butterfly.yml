@@ -225,12 +225,12 @@ aside:
   mobile: true # display on mobile
   position: left # left or right
   display:
-    archive: true
-    tag: true
+    archive: false
+    tag: false
     category: true
   card_author:
     enable: true
-    description: 
+    description: 你好呀~
     button:
       enable: false
       icon: fas fa-map-pin
@@ -272,7 +272,7 @@ aside:
 # busuanzi count for PV / UV in site
 # 訪問人數
 busuanzi:
-  site_uv: flase
+  site_uv: true
   site_pv: flase
   page_pv: true
 
