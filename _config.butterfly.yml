@@ -10,6 +10,7 @@ nav:
 # Menu 目錄
 menu:
   主页: / || fas fa-home
+  时间轴: /archives/ || fas fa-archive
   照片集: /Photography/ || fas fa-camera-retro
   关于我 ||fa fa-lemon:
     碎碎念: /moment/ || fas fa-feather
@@ -272,7 +273,7 @@ aside:
 # busuanzi count for PV / UV in site
 # 訪問人數
 busuanzi:
-  site_uv: true
+  site_uv: flase
   site_pv: flase
   page_pv: true
 

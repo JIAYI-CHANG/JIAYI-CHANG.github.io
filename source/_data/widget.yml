@@ -1,7 +1,7 @@
 top:
   - class_name:
     id_name:
-    name: 更新日程
+    name: 近况汇报
     icon: fas fa-quote-left
     html: > 
-      暂无
+      悠闲暑假中…
