@@ -2,15 +2,13 @@
 title: 「翻译」时钟馆事件·今邑彩
 date: 2023-11-01
 updated: 2024-03-21
-tags: [翻译,推理小说,中篇]
-categories: [翻译,推理小说]
 description: 本文为<a href="https://book.douban.com/subject/10809297/"><b>「時鐘館の殺人」</b></a>标题作的翻译。原文版权归作者与出版社所有，翻译仅供学习交流，禁止用于商业用途。
 copyright: true
 top_img: https://s2.loli.net/2024/03/22/BaQkVu68r1ORxNf.jpg
-cover: https://s2.loli.net/2025/03/14/QeMRIHc8KvoCluN.jpg
+cover: https://s2.loli.net/2025/08/04/BGNAbgluCFfiDhm.png
 copyright_author: CHJY
 copyright_author_href: https://www.douban.com/people/CHJY2000/notes
-copyright_url: https://www.HereisCHJY.blog/Translation/TheMurderAtClockHouse
+copyright_url: https://www.HereisCHJY.blog/Translation/The_Murder_At_Clock_House
 copyright_info: 原文版权归作者与出版社所有，翻译仅供学习交流，转载请注明出处，禁止用于商业用途。
 ---
 

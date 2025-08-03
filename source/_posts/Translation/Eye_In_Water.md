@@ -10,7 +10,7 @@ top_img: https://m.media-amazon.com/images/I/71r6g8wSIHL._SL1200_.jpg
 cover: https://m.media-amazon.com/images/I/71r6g8wSIHL._SL1200_.jpg
 copyright_author: CHJY
 copyright_author_href: https://www.douban.com/people/CHJY2000/notes
-copyright_url: https://www.HereisCHJY.blog/Translation/EyeInWater
+copyright_url: https://www.HereisCHJY.blog/Translation/Eye_In_Water
 copyright_info: 原文版权归作者与出版社所有，本文仅供学习交流，禁止用于商业用途。
 ---
 <html>
