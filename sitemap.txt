@@ -2,10 +2,10 @@ https://www.hereischjy.blog/moment/index.html
 https://www.hereischjy.blog/tags/index.html
 https://www.hereischjy.blog/categories/index.html
 https://www.hereischjy.blog/Photography/index.html
-https://www.hereischjy.blog/Photography/2023-24_Japan/index.html
-https://www.hereischjy.blog/Photography/2024_South_Korea/index.html
 https://www.hereischjy.blog/Photography/2025_Peking_University/index.html
 https://www.hereischjy.blog/Photography/PKU_Bear/index.html
+https://www.hereischjy.blog/Photography/2023-24_Japan/index.html
+https://www.hereischjy.blog/Photography/2024_South_Korea/index.html
 https://www.hereischjy.blog/Takeaway/CSC_IO_Intern/
 https://www.hereischjy.blog/Translation/9_Mile_Walk/
 https://www.hereischjy.blog/Translation/6Pig/
@@ -17,8 +17,6 @@ https://www.hereischjy.blog/tags/%E7%BF%BB%E8%AF%91/
 https://www.hereischjy.blog/tags/%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AF%B4/
 https://www.hereischjy.blog/tags/%E7%9F%AD%E7%AF%87/
 https://www.hereischjy.blog/tags/%E6%AC%A7%E7%BE%8E/
-https://www.hereischjy.blog/tags/%E4%B8%AD%E7%AF%87/
-https://www.hereischjy.blog/tags/%E7%99%BD%E4%BA%95%E6%99%BA%E4%B9%8B/
 https://www.hereischjy.blog/categories/%E6%94%BB%E7%95%A5/
 https://www.hereischjy.blog/categories/%E7%BF%BB%E8%AF%91/
 https://www.hereischjy.blog/categories/%E7%BF%BB%E8%AF%91/%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AF%B4/

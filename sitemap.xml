@@ -38,24 +38,6 @@
   </url>
   
   <url>
-    <loc>https://www.hereischjy.blog/Photography/2023-24_Japan/index.html</loc>
-    
-    <lastmod>2025-08-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hereischjy.blog/Photography/2024_South_Korea/index.html</loc>
-    
-    <lastmod>2025-08-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.hereischjy.blog/Photography/2025_Peking_University/index.html</loc>
     
     <lastmod>2025-08-03</lastmod>
@@ -66,6 +48,24 @@
   
   <url>
     <loc>https://www.hereischjy.blog/Photography/PKU_Bear/index.html</loc>
+    
+    <lastmod>2025-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hereischjy.blog/Photography/2023-24_Japan/index.html</loc>
+    
+    <lastmod>2025-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hereischjy.blog/Photography/2024_South_Korea/index.html</loc>
     
     <lastmod>2025-08-03</lastmod>
     
@@ -157,20 +157,6 @@
   
   <url>
     <loc>https://www.hereischjy.blog/tags/%E6%AC%A7%E7%BE%8E/</loc>
-    <lastmod>2025-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hereischjy.blog/tags/%E4%B8%AD%E7%AF%87/</loc>
-    <lastmod>2025-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hereischjy.blog/tags/%E7%99%BD%E4%BA%95%E6%99%BA%E4%B9%8B/</loc>
     <lastmod>2025-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
