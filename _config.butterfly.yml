@@ -36,7 +36,7 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  fas fa-envelope: mailto:jychang@pku.edu.cn || Email || '#3e3e3e'
+  fas fa-envelope: mailto:jychang2000@qq.com || Email || '#3e3e3e'
   fas fa-book-bookmark: https://www.douban.com/people/CHJY2000 || Douban || '#3e3e3e'
 
 # Image (圖片設置)

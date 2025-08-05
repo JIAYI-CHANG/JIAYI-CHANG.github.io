@@ -28,3 +28,10 @@ aside: FALSE
 ![俗世丨20250730](https://s2.loli.net/2025/07/30/5W4JCHDXx2AlQpa.jpg)
 ![燕南园一隅丨20250730](https://s2.loli.net/2025/07/30/yBm4cn1O6DFrhd7.jpg)
 {% endgallery %}
+
+## 八月
+{% gallery %}
+![Fairy Land丨20250805](https://s2.loli.net/2025/08/05/dXAl8eTFJykaG29.jpg)
+![碧色波浪丨20250805](https://s2.loli.net/2025/08/05/bT2puy6CX3zKPUn.jpg)
+![碧色波浪丨20250805](https://s2.loli.net/2025/08/05/RTGbkg31nJxoA8c.jpg)
+{% endgallery %}
