@@ -34,4 +34,6 @@ aside: FALSE
 ![Fairy Land丨20250805](https://s2.loli.net/2025/08/05/dXAl8eTFJykaG29.jpg)
 ![碧色波浪丨20250805](https://s2.loli.net/2025/08/05/bT2puy6CX3zKPUn.jpg)
 ![碧色波浪丨20250805](https://s2.loli.net/2025/08/05/RTGbkg31nJxoA8c.jpg)
+![サマータイム丨20250809](https://s2.loli.net/2025/08/14/VteIkDyHAMSZNbW.jpg)
+![夕日丨20250809](https://s2.loli.net/2025/08/14/xZUN97XDWofYkMv.jpg)
 {% endgallery %}
