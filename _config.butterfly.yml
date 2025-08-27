@@ -14,6 +14,7 @@ menu:
   照片集: /Photography/ || fas fa-camera-retro
   关于我 ||fa fa-lemon:
     碎碎念: /moment/ || fas fa-feather
+    阅读: /Reading/ || fas fa-book-open
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
@@ -213,7 +214,7 @@ footer:
   owner:
     enable: true
     since: 2000
-  custom_text: <i class="fa-solid fa-location-dot"></i> &nbsp; Beijing·China
+  custom_text: <i class="fa-solid fa-location-dot"></i> &nbsp; Dalian·China
   copyright: false # Copyright of theme and framework
 
 # aside (側邊欄)
