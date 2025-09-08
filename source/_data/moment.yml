@@ -1,6 +1,12 @@
 - class_name: 即刻短文
   moment_number: -1 # -1：显示全部；需填入整数如：10 或 100等
   moment_list:
+    - content: "Paint It Black"
+      date: 2025/09/08 16:00:00
+      image:
+        - https://s2.loli.net/2025/09/08/7TPrEcDl6pG2meH.jpg
+        - https://s2.loli.net/2025/09/08/Pu8zVbBQ23HcXZx.jpg
+      from: 中国・北京大学
     - content: "첫눈 내린 날 ❄️"
       date: 2024/11/27 16:00:00
       image:
