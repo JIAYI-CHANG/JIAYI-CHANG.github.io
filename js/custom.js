@@ -1,7 +1,7 @@
 var percentFlag = false; // 节流阀
 function momentScroll() {
   let a = document.documentElement.scrollTop || window.pageYOffset; // 卷去高度
-  const waterfallResult = a % document.documentElement.clientHeight; // 卷去一个视口
+  let waterfallResult = a % document.documentElement.clientHeight; // 卷去一个视口
   waterfallResult <= 99 || (waterfallResult = 99);
 
   if (
@@ -46,7 +46,7 @@ var icatmoment = {
     const suffix = GLOBAL_CONFIG.date_suffix || {};
     const daySuffix = suffix.day || '天前';
     const hourSuffix = suffix.hour || '小时前';
-    const minSuffix = suffix.hour || '分钟前';
+    const minSuffix = suffix.minute || '分钟前';
 
     if (more) {
       const monthCount = dateDiff / month;

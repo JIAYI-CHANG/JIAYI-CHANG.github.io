@@ -273,3 +273,7 @@
 #icat-bber .aside-content{
   width:0;
 }
+
+#waterfall { position: relative; }
+#waterfall .item { box-sizing: border-box; }
+#waterfall img { display:block; width:100%; height:auto; }
