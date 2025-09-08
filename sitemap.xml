@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.hereischjy.blog/tags/index.html</loc>
+    
+    <lastmod>2025-09-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.hereischjy.blog/categories/index.html</loc>
     
     <lastmod>2025-09-08</lastmod>
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.hereischjy.blog/tags/index.html</loc>
+    <loc>https://www.hereischjy.blog/Reading/index.html</loc>
     
     <lastmod>2025-09-08</lastmod>
     
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://www.hereischjy.blog/Photography/index.html</loc>
-    
-    <lastmod>2025-09-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hereischjy.blog/Reading/index.html</loc>
     
     <lastmod>2025-09-08</lastmod>
     

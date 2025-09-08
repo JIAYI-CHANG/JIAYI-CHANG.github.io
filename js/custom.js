@@ -80,13 +80,41 @@ var icatmoment = {
     });
   
   },
-  reflashEssayWaterFall: function () {
-    document.querySelector("#waterfall") &&
-      setTimeout(function () {
+reflashEssayWaterFall: function () {
+  const grid = document.querySelector("#waterfall");
+  if (!grid) return;
+
+  const imgs = grid.querySelectorAll("img");
+  let loaded = 0;
+
+  if (imgs.length === 0) {
+    waterfall("#waterfall");
+    grid.classList.add("show");
+    return;
+  }
+
+  imgs.forEach(img => {
+    if (img.complete) {
+      if (++loaded === imgs.length) {
         waterfall("#waterfall");
-        document.getElementById("waterfall").classList.add("show");
-      }, 500);
-  },
+        grid.classList.add("show");
+      }
+    } else {
+      img.addEventListener("load", () => {
+        if (++loaded === imgs.length) {
+          waterfall("#waterfall");
+          grid.classList.add("show");
+        }
+      });
+      img.addEventListener("error", () => {
+        if (++loaded === imgs.length) {
+          waterfall("#waterfall");
+          grid.classList.add("show");
+        }
+      });
+    }
+  });
+},
   commentText: function (e) {
     if (e == "undefined" || e == "null") e = "好棒！";
     var n = document.getElementsByClassName("el-textarea__inner")[0],
