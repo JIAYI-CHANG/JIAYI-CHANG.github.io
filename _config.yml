@@ -103,11 +103,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: butterfly #landscape
 
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/JIAYI-CHANG/JIAYI-CHANG.github.io/en
-  # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
-
+  repository: https://github.com/JIAYI-CHANG/en.git # 将这里修改为你的英文仓库名
+  branch: main
