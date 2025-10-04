@@ -1,0 +1,13 @@
+.page #archives{
+    background: transparent!important;
+    border: none!important;
+    box-shadow: none!important;
+    padding-top: 30px;
+}
+.avatar-img img:hover {
+    -webkit-transform: none !important;
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
