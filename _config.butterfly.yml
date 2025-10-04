@@ -11,9 +11,7 @@ menu:
   关于我 ||fa fa-lemon:
     碎碎念: /moment/ || fas fa-feather
     阅读: /Reading/ || fas fa-book-open
-  語言||fas fa-language: 
-    English: /en/ || fas fa-e
-    中文: / || fas fa-c
+
 
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
@@ -914,7 +912,6 @@ inject:
   bottom:
     - <script async data-pjax src="/js/custom.js"></script>
     - <script async data-pjax src="/js/waterfall/waterfall.js"></script>
-    - <script data-pjax src="/en/self/btf.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
