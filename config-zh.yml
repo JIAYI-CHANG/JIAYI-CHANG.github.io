@@ -106,4 +106,4 @@ deploy:
   type: git
   repo: https://github.com/JIAYI-CHANG/JIAYI-CHANG.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: main
+  branch: gh-pages
