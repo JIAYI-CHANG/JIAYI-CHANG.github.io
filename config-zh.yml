@@ -1,0 +1,16 @@
+# 設定成中文 
+language: zh-CN
+
+# 使用原本的url
+url: https://www.hereischjy.blog/
+root: /
+
+# 指定啟動的路徑
+source_dir: source
+public_dir: public
+
+# 把英文的 source 進行排除
+include:
+exclude:
+ignore:
+  - source-en/
