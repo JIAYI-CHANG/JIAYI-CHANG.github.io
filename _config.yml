@@ -8,13 +8,12 @@ subtitle: ''
 description: ''
 keywords:
 author: CHJY
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://www.hereischjy.blog/en
-root: /en/
+url: https://www.hereischjy.blog/
 permalink: :title/ #:year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -22,8 +21,8 @@ pretty_urls:
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
 # Directory
-source_dir: source-en
-public_dir: public-en
+source_dir: source
+public_dir: public
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
@@ -96,14 +95,17 @@ pagination_dir: page
 include:
 exclude:
 ignore:
-  - source/
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: butterfly #landscape
 
+# Deployment
+## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/JIAYI-CHANG/en.git
-  branch: main
+  repo: https://github.com/JIAYI-CHANG/JIAYI-CHANG.github.io
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: gh-pages
+
