@@ -24,7 +24,7 @@
 
   // 修改你的 url
   const selector = nowIncludeEN
-    ? document.querySelectorAll('a[href^="https://<your-url>"]') // 只需要修改这一行就好了，将https://<your-url>替换为你的blog网址。
+    ? document.querySelectorAll('a[href^="https://JIAYI-CHANG.github.io"]') // 只需要修改这一行就好了，将https://<your-url>替换为你的blog网址。
     : document.querySelectorAll('a[href^="/en/"]')
 
   eventFn(selector, nowIncludeEN)
