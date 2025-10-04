@@ -1,0 +1,111 @@
+- class_name: 即刻短文
+  moment_number: -1 # -1：显示全部；需填入整数如：10 或 100等
+  moment_list:
+    - content: "Paint It Black"
+      date: 2025/09/08 16:00:00
+      image:
+        - https://s2.loli.net/2025/09/08/7TPrEcDl6pG2meH.jpg
+        - https://s2.loli.net/2025/09/08/Pu8zVbBQ23HcXZx.jpg
+      from: 中国・北京大学
+    - content: "첫눈 내린 날 ❄️"
+      date: 2024/11/27 16:00:00
+      image:
+        - https://s2.loli.net/2024/11/27/lhmtI5T4j7vzykF.jpg
+      from: 韩国・首尔大学
+    - content: "가을 분위기 🍂"
+      date: 2024/10/24 10:00:00
+      image:
+        - https://s2.loli.net/2024/10/24/MKOvfxLWSqpChes.jpg
+        - https://s2.loli.net/2024/10/24/QPLwrpSEo2ntZyj.jpg
+      from: 韩国・首尔大学
+    - content: "渐渐适应了在韩国的生活 🌕"
+      date: 2024/09/16 23:00:00
+      image:
+        - https://s2.loli.net/2024/09/16/QFion6Whx7csmwR.jpg
+      from: 韩国・首尔・国立中央博物馆　　#随机漫游
+    - content: "田中达也的作品 很有趣呢~♪"
+      date: 2024/08/27 23:00:00
+      image:
+        - https://s2.loli.net/2024/09/23/BvQwAdLzN7Cy465.jpg
+        - https://s2.loli.net/2024/09/23/C8Wq4HfjQgGxrVu.jpg
+      link: https://miniature-calendar.com/
+      from: 日本・东京・田中達也展　　#随机漫游
+    - content: "「金牌得主」是全世界最好看的运动漫画　😭"
+      date: 2024/08/24 00:15:00
+      image:
+        - https://s2.loli.net/2024/08/23/DMeYrhBEFCRs3PQ.jpg
+      link: https://manga.bilibili.com/detail/mc32263
+      from: 日本・东京　　#安利
+    - content: "レッサーパンダ"
+      date: 2024/07/08 22:00:00
+      image:
+        - https://s2.loli.net/2024/07/08/DkfeXtdnoO1syLr.png
+      from: 日本・东京
+    - content: "诶嘿~☆！"
+      date: 2024/06/27 18:00:00
+      image:
+        - https://s2.loli.net/2024/06/30/MD8cfwNb6TJ7XjP.jpg
+        - https://s2.loli.net/2024/06/30/gYCkHz194VLfGeA.jpg
+      link: 
+      from: 日本・新潟・佐渡岛　　#随机漫游
+    - content: "岛波海道骑行 赛高！"
+      date: 2024/06/07 18:00:00
+      image:
+        - https://s2.loli.net/2024/06/09/wiBoKeWlrjZkzV5.jpg
+        - https://s2.loli.net/2024/06/09/oWBU7V2C4jlrPxA.jpg
+      link: 
+      from: 日本・濑户内海・今治→广岛　#随机漫游　　
+    - content: "成功打卡高尾山 ✌🏻"
+      date: 2024/05/24 18:00:00
+      image:
+        - https://s2.loli.net/2024/06/09/rdyZg1NjJlWXH9e.jpg
+      link: 
+      from: 日本・东京　
+    - content: "今日心情。"
+      date: 2024/04/29 23:00:00
+      image:
+        - https://s2.loli.net/2024/04/29/jTkC1PtMw9N8Iir.jpg
+      link: 
+      from: 日本・东京　　
+    - content: "如果生活给你关上了一扇门，你就再开一次门。这是门。门就是这样用的。"
+      date: 2024/04/22 01:00:00
+      image:
+        - https://s2.loli.net/2024/04/22/kpEAtj9GYCLbq4o.jpg
+      link: 
+      from: 日本・东京　　
+    - content: "在日本待了半年后，我的英语水平be like： "
+      date: 2024/04/20 00:00:00
+      image:
+        - https://s2.loli.net/2024/04/19/Z32jTSKoXMx6mRb.png
+      link: 
+      from: 日本・东京　　
+
+    - content: "夏天的气息~ "
+      date: 2024/04/16 17:00:00
+      image:
+        - https://s2.loli.net/2024/04/16/Uy3FulhA9t6eoZC.jpg
+      link: 
+      from: 日本・东京　　
+
+    - content: "回到东京！樱花已经开得差不多了呢~ 🌸"
+      date: 2024/04/05 15:00:00
+      image: 
+      link: 
+      from: 日本・东京　　
+      
+    - content: "大阪的「国立民族学博物馆」非常值得一去！"
+      date: 2024/03/30 18:30:00
+      image: 
+      link: https://www.minpaku.ac.jp/
+      from: 日本・大阪　　#随机漫游
+
+    - content: "駒場東大前（東京）→ 渋谷（東京）→ 茅ヶ崎（神奈川）→ 熱海（静岡）→ 島田（静岡）→ 浜松（静岡）→ 豊橋（愛知）→ 金山（愛知）→ 米原（滋賀）→ 三ノ宮（兵庫）——成功打卡「青春18」♪ "
+      date: 2024/03/29 23:30:00
+      image: 
+      link: https://www.jreast.co.jp/tickets/info.aspx?txt_keyword=%90%C2%8Ft18&mode=keyw&SearchFlag=1&GoodsCd=2896
+      from: 日本・神户　　#随机漫游
+
+    - content: Hello World ♪
+      date: 2024/03/22 14:30:50
+      link: https://meuicat.com/blog/67/
+      from: 日本・东京
