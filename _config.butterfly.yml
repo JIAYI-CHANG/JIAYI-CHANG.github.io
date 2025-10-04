@@ -1,7 +1,3 @@
-# Navigation bar settings (導航欄設置)
-# see https://butterfly.js.org/posts/4aa8abbe/##導航欄設置-Navigation-bar-settings
-# --------------------------------------
-
 nav:
   logo: # image
   display_title: true
@@ -15,6 +11,8 @@ menu:
   关于我 ||fa fa-lemon:
     碎碎念: /moment/ || fas fa-feather
     阅读: /Reading/ || fas fa-book-open
+
+
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
