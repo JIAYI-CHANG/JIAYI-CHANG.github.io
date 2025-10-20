@@ -9,5 +9,5 @@ aside: false
 {% galleryGroup '毕业小熊历险记<br>@北京大学' '中国丨北京' '/Photography/PKU_Bear' https://s2.loli.net/2025/07/03/HBIQ3CZaOPjSpD8.jpg %}
 {% galleryGroup '花样滑冰丨Figure Skating' '中国丨北京' '/Photography/Figure_Skating' https://s2.loli.net/2025/10/05/JKy9pnqjZRh7TlN.jpg %}
 {% galleryGroup '2025年' '中国丨北京' '/Photography/2025' https://s2.loli.net/2025/10/09/Emp9CnK5dWuwHty.jpg %}
+{% galleryGroup '2025年 II ' '美国丨纽约' '/Photography/2025_New_York' https://s2.loli.net/2025/10/18/pwPYdCSJvh6KkrU.jpg %}
 </div>
-
