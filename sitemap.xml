@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.hereischjy.blog/tags/index.html</loc>
-    
-    <lastmod>2026-01-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.hereischjy.blog/categories/index.html</loc>
     
     <lastmod>2026-01-16</lastmod>
@@ -21,6 +12,15 @@
   
   <url>
     <loc>https://www.hereischjy.blog/moment/index.html</loc>
+    
+    <lastmod>2026-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hereischjy.blog/tags/index.html</loc>
     
     <lastmod>2026-01-16</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://www.hereischjy.blog/Photography/2025/index.html</loc>
+    <loc>https://www.hereischjy.blog/Photography/2025_New_York/index.html</loc>
     
     <lastmod>2026-01-16</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.hereischjy.blog/Photography/2025_New_York/index.html</loc>
+    <loc>https://www.hereischjy.blog/Photography/2025/index.html</loc>
     
     <lastmod>2026-01-16</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.hereischjy.blog/Photography/Figure_Skating/index.html</loc>
+    <loc>https://www.hereischjy.blog/Photography/EN/index.html</loc>
     
     <lastmod>2026-01-16</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://www.hereischjy.blog/Photography/EN/index.html</loc>
+    <loc>https://www.hereischjy.blog/Photography/Figure_Skating/index.html</loc>
     
     <lastmod>2026-01-16</lastmod>
     
@@ -183,6 +183,13 @@
   
   <url>
     <loc>https://www.hereischjy.blog/categories/%E7%BF%BB%E8%AF%91/%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AF%B4/</loc>
+    <lastmod>2026-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hereischjy.blog/categories/%E7%BF%BB%E8%AF%91-%E6%8E%A8%E7%90%86/</loc>
     <lastmod>2026-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
