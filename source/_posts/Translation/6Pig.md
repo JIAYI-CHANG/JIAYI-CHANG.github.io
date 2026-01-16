@@ -2,7 +2,7 @@
 title: 「翻译」六块炸猪排·苏部健一
 date: 2024-02-07
 updated: 2024-03-23
-categories: [翻译,推理小说]
+categories: [推理小说]
 description: 本文为第3届梅菲斯特赏受赏短篇集<a href="https://book.douban.com/subject/3102168/"><b>「六枚のとんかつ」</b></a>中部分作品的翻译。翻译仅供学习交流，禁止用于商业用途。
 copyright: true
 top_img: https://cdn.sbfoods.co.jp/recipes/09713_l.jpg

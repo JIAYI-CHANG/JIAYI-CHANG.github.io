@@ -2,7 +2,7 @@
 title: 「翻译」九英里的步行
 date: 2025-01-28
 updated: 2025-01-28
-categories: [翻译,推理小说]
+categories: [推理小说]
 description: 本文为短篇小说<a href="https://book.douban.com/subject/25785175/"><i> The Nine Mile Walk </i></a>的翻译。文章仅供学习交流，转载请注明出处。
 copyright: true
 top_img: https://s2.loli.net/2025/08/04/IsQvVAFOJhwT9Z8.jpg
